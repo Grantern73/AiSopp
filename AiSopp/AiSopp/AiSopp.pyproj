@@ -39,10 +39,20 @@
     <Folder Include="AiSopp\static\" />
     <Folder Include="AiSopp\static\content\" />
     <Folder Include="AiSopp\static\fonts\" />
+    <Folder Include="AiSopp\static\data\" />
     <Folder Include="AiSopp\static\scripts\" />
     <Folder Include="AiSopp\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AiSopp\static\data\output_sopp_graph.pb">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\data\output_sopp_labels.txt">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\data\sopp_no.json">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="AiSopp\static\content\bootstrap.css" />
     <Content Include="AiSopp\static\content\bootstrap.min.css" />

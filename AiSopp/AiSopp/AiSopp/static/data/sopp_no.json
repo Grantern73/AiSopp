@@ -1,0 +1,114 @@
+{
+  "sopp": [
+    {
+      "name": "agaricus augustus",
+      "local_name": "Kongesjampinjong",
+      "images": [ "agaricus_augustus1.jpg", "agaricus_augustus2.jpg", "agaricus_augustus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 10 - 40 cm. Stilkhøyde 10 - 20 cm. Hatten er først nesten kulerund med avflatet topp, senere mer hvelvet. De største er nesten helt flate. Er først nesten glatt og kanelbrun til nøttebrun i fargen og svakt skjellet. Etterhvert som soppen utvikler seg, sprekker hatthuden opp og de små skjellene står jevnt på halmgul bunn. Hos de yngre eksemplarene henger det ofte hvite skjell i hattekanten. Skivene er først gråhvite og blir etterhvert grårosa. Skivene holder seg lenge lyse men blir til slutt sjokoladebrune/sorte med lyse skiveegg. Sporefarge mørk sjokoladebrun. Stilken er høy og hvit med stor slapp hudaktig ring som ofte har halmgule skjell på undersiden. Nedenfor ringen er stilken svakt trådete eller skjellet. Stilken er ofte hul. Soppen gulner ved skraping eller håndtering. Ved skjæring gulner det, i sjeldne tilfeller kan det få en rosa tone. Lukter kraftig mandel eller anis. Smak av mandler.",
+      "locations": "Næringsrik jord i hager og parker. Finnes også på barnåldekket under gamle grantrær. Sjelden sopp. Østlandsområdet og nord til Sør Trøndelag.",
+      "season": "August til Oktober.",
+      "usage": "Spiselig og velsmakende. Kan oppbevares dypfryst.",
+      "similarto": "Ingen spesielle sopper den ligner på, kanskje med unntak av Stor parasollsopp."
+    },
+    {
+      "name": "albatrellus confluens",
+      "local_name": "Franskbrødsopp",
+      "images": [ "albatrellus_confluens1.jpg", "albatrellus_confluens2.jpg", "albatrellus_confluens3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 3 - 6 cm. Hatten er fra hvelvet til flat med ujevnt bølgete hattkant. Hatten er aldri helt hvit, men lys rødgul, som ung kan den minne om fargen på rødgul piggsopp. Når den blir eldre er den mer mot rødbrun. Undersiden er dekket av et noe grovere porelag enn fåresoppen. Ved skraping og elde misfarges den brunoransj. Stilken er kraftig og flere sopper er nesten alltid sammenvokst slik at der ser ut som flere hatter kommer fra samme stilk. Soppkjøttet er hvitt og forblir hvitt ved oppvarming. Den har en svak ubetydelig lukt. Unge eksemplarer har mild smak som utvikler seg til en besk smak.",
+      "locations": "Gammel moserik barskog eller blandingsskog. Den danner sopprot med gran og foretrekker kalkrik granskog der den ofte vokser i store grupper. Vanlig på Østlandet og nord til Trøndelag. Sjelden på Veslandet.",
+      "season": "August og September",
+      "usage": "Franskbrødsopp regnes som uspiselig selv om unge eksemplarer kan brukes i blandinger. Er ikke giftig.",
+      "similarto": "Forveksles ofte med Fåresopp, Albatrellus ovinus."
+    },
+    {
+      "name": "amanita rubescens",
+      "local_name": "Rødnende fluesopp",
+      "images": [ "amanita_rubescens1.jpg", "amanita_rubescens2.jpg", "amanita_rubescens3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 6 - 15 cm. Hatten er først klokkeformet, men blir etterhvert hvelvet for så å bli nesten helt flat. Det er stor variasjon i hattefargen ettersom hva slags skog den vokser i. Den går fra helt hvit med et svakt rosaskjær, via brunrosa til mørk grårosa. Hatten er mer eller mindre dekket av små gråhvite hudlapper som står opp som spisse skjell. Hudlappene løsner lett. På de lyseste eksemplarene blir de ofte skylt vekk av regn. Hattekanten er glatt uten striper. Skivene er myke, tynne, tettstilte og frie fra stilk. De er først hvite, med alderen rødflekkete og kan hos noen eksemplarer virke hudfarget. Sporefargen er hvit. Stilken er like variabel som hatten med farge fra nesten helt hvit via rødlig sandfarge til grårosa. Øverst har den en stor hvit, nedhengende og stripete ring. Over denne er stilken hvit. Stilkbasis er knollformet med uregelmessige skjellkranser. Soppkjøttet er hvitt, men rødner i brudd. Lukter som rå poteter. Smaken er mild med lett syrlig innslag.",
+      "locations": "Den er vanlig i de fleste skogstyper. De bleke og tynne vokser sammen med gran. De kraftigere og rødbrune i blandingsskog med mye løvtrær. De største grårosa vokser i edelløvskog. Vanlig i lavlandet nord til Troms.",
+      "season": "Juli til September",
+      "usage": "Er spiselig, men er stor forskjell på de. De lyse barskogsartene anbefales ikke til mat, må i såfall forvelles godt før bruk. De kraftige edelløvskogsartene er utmerket matsopp. Hattehuden bør flås av før bruk.",
+      "similarto": "Kan forveksles med flere fluesopper. Grå fluesopp, Amanita spissa (ikke matsopp). Panterfluesopp, Amanita pantherina (giftig). Rødnende fluesopp er den eneste fluesoppen som rødner i kjøttet ved skjæring. Alle andre fluesopper forblir hvitt kjøtt. "
+    },
+    {
+      "name": "boletus badius",
+      "local_name": "Svartbrun rørsopp",
+      "images": [ "boletus_badius1.jpg", "boletus_badius2.jpg", "boletus_badius3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 10 cm. Stilkhøyde 5 - 12 cm. Hatten er er hvelvet, halvkuleformet, etterhvert nesten helt flat. Hatthuden er kastanjebrun, hos unge eksemplarer noe fløyelsaktig, men blir etterhvert glatt. Noe klebrig i fuktig vær. Hattkjøttet er mykt og i fargen fra hvit til gulhvit, svakt blånende. Rørlaget er gult til gulgrønt og blåner ved trykk. Rørmunningene er ganske store og litt kantete på utvokst sopp, unge eksemplarer er rørlaget tett og fast. Stilken er forholdsvis slank, ofte fortykket på midten, og med meget fast kjøtt. Stilken er lysere enn hatten. Det kan se ut som den har brunaktige tråder, striper på lys bunn. Mild behagelig smak og aromatisk lukt.",
+      "locations": "Vokser i barskog, med innslag av eik og furu. Finnes ofte enkeltvis, men forekommer også i små grupper. Vanlig i lavlandet til Nord-Trøndelag.",
+      "season": "Sommer til sen høst.",
+      "usage": "Spiselig og meget god matsopp. Den kan fryses og tørkes.",
+      "similarto": "Unge eksemplarer kan forveksles med fløyelsrørsopp, Boletus subtomentosus (spiselig). Kan også forveksles med orerørsopp, Gyrodan lividus (uspiselig)."
+    },
+    {
+      "name": "cantharellus aurora",
+      "local_name": "Gul trompetkantarell",
+      "images": [ "cantharellus_aurora1.jpg", "cantharellus_aurora2.jpg", "cantharellus_aurora3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 7 cm. Stilkhøyde 5 - 10 cm. Soppens farge og fassong ligner traktkantarellen, men hattens farge er mer rent sjokoladebrun. Hatthuden er også mer tydelig småskjellete enn traktkantarellen. Den har som traktkantarellen ett hull i midten og hul stilk. Undersiden på hatten og stilken er oransjegul. Soppen har ubetydelige nedløpende ribber under hatten og kan ofte virke nesten glatt. Soppkjøttet er gult til oransjegult. Soppen har en fruktaktig lukt som minner om kantarellens lukt.",
+      "locations": "Trives best i kalkrik barskog, gjerne fuktige plasser som myrkanter. Den vokser i store grupper. Vanlig sørpå.",
+      "season": "Fra tidlig høst og frem til frosten kommer.",
+      "usage": "En godbit av en sopp. Utmerket til steking og god i de fleste soppretter. Kan tørkes og fryses. Fjern eventuelle barnåler eller insektegg som kan havne i den hule stilken før bruk.",
+      "similarto": "Kan forveksles med Traktkantarell, Cantharellus tubaeformis (spiselig). Gullmosehatt, Gerronema chrysophyllum (uspiselig). Slimmorkel, Leotia lubrica (svakt giftig). "
+    },
+    {
+      "name": "cantharellus cibarius",
+      "local_name": "Kantarell",
+      "images": [ "cantharellus_cibarius1.jpg", "cantharellus_cibarius2.jpg", "cantharellus_cibarius3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 10 cm. Stilkhøyde 3 - 8 cm. Hele soppen er eggeplommegul, kjøttfull og traktformet med gaffelgrenete nedløpende ribber. Oversiden av hatten er glatt. Hos unge eksemplarer er hattkanten jevn og innrullet. Når den er utvokst er den mer bølgete og ujevn. Soppkjøttet er nesten hvitt og trevles lett. Den har en fruktaktig lukt som kan minne om aprikoser. I rå tilstand smaker den pepperaktig.",
+      "locations": "Den danner sopprot med flere ulike treslag og finnes derfor i de fleste skogstyper. Trives best i moserik blåbærgranskog og i gammel bjørkeskog. Den kan ofte finnes langs skogsveier og stier. Den vokser ofte sammen i grupper eller rader. Finnes mer eller mindre over hele landet.",
+      "season": "Slutten av Juni til Oktober/November.",
+      "usage": "Dette er en av de beste matsoppene. Utmerket stekesopp. Kan fryses, tørkes og hermetiseres.",
+      "similarto": "Engvokssopp, Camarophyllus pratensis (spiselig). Falsk kantarell, Hygrophoropsis aurantiaca (uspiselig). "
+    },
+    {
+      "name": "cantharellus tubaeformis",
+      "local_name": "Traktkantarell",
+      "images": [ "cantharellus_tubaeformis1.jpg", "cantharellus_tubaeformis2.jpg", "cantharellus_tubaeformis3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 7 cm. Stilkhøyde 5 - 10 cm. Soppen er traktformet. Hattens farge er fra lys brunt, gråbrunt til nesten brunsvart. Hatten har et hull i midten og hul stilk. Hatthuden kan virke litt ru eller svakt skjellet. Undersiden av hatten har markerte grågule gaffelgrenete ribber som går nedover stilken. Stilken er gul til gulbrun, sterkest gul nederst. Soppkjøttet er tynt og lysegult til gulbrunt. Lukter svakt, hint av mose. ",
+      "locations": "Finnes i dyp fuktig mose i barskog, gjerne sammen med blåbær. Finnes i det meste av landet. Den vokser i store grupper, men er vanskelig å få øye på. Trives på fuktige plasser.",
+      "season": "Kommer sent, men kan plukkes helt til snøen dekker den.",
+      "usage": "Dette er en meget god stekesopp, spesielt til vilt. Unge eksemplarer kan tørkes, men sopp plukket sent i sesongen bør dypfryses. Ved rensing, del soppen da det kan legge seg barnåler og insektegg i den hule stilken.",
+      "similarto": "Kan forveksles med Traktkantarell, Cantharellus tubaeformis (spiselig). Gullmosehatt, Gerronema chrysophyllum (uspiselig). Slimmorkel, Leotia lubrica (svakt giftig)."
+    },
+    {
+      "name": "cortinarius camphoratus",
+      "local_name": "Blåkjøttbukkesopp",
+      "images": [ "cortinarius_camphoratus1.jpg", "cortinarius_camphoratus2.jpg", "cortinarius_camphoratus3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiamter 4 - 10 cm. Stilkhøyde 5 -10 cm. Først kuleformet, så hvelvet og etterhvert utbredt med bølget kant. Som ung er den blåfiolett, og fint hvitaktig trådet eller filtet. Etterhvert blir hatten gulbrun fra midten og utover. Unge eksemplarer har velumrester i hattekanten. Skiver hos unge sopp er blåfiolette. Skivene blir raskt farget rustbrune av sporene. Sporefargen er brun. Stilken er klubbeformet, men kan også være jevntykk. Den har samme farge som hatten med lyst fiolette nesten hvite silketrådete velumrester. Soppkjøttet er blåfiolett, spesielt i hatten og øverst i stilken. Nederst får det nærmest en safrangul farge. Lukter ubehagelig, noen sier geitefjøs og bukk. Mild smak.",
+      "locations": "Finner den i fuktig moserik barskog. Den finnes enkeltvis eller få sammen. Vanlig i Sør-Norge, mindre vanlig nordover. Men det er funnet eksemplarer i nord til Nordland.",
+      "season": "August til Oktober",
+      "usage": "Uspiselig, muligens svakt giftig.",
+      "similarto": "Blå ridderhatt, Lepista nuda (spiselig). Er også ganske lik en rekke andre lilla og blå slørsopper."
+    },
+    {
+      "name": "galerina marginata",
+      "local_name": "Flatklokkehatt",
+      "images": [ "galerina_marginata1.jpg", "dummysopp.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 1-5 cm. Stilkhøyde 1,5 - 7 cm. Hatten er først halvkuleformet til hvelvet, blir senere flat, og ofte med pukkel, glatt og hygrofan. Svakt klebrig og mørkebrun i fuktig vær med stripet hattkant. Hatthuden tørker opp grågult fra midten og stripene forsvinner. Skivene er gulbrune, smale, tette, tilvokste og litt nedløpende på stilken. Sporefarge rustbrunt. Stilken har en tydelig lys utstående ring, over ringen er stilken gulbrun og melaktig pudret. Under ringen har stilken tett med langsgående gråhvite silkeaktige tråder som forsvinner ved berøring og alderen, stilken blir da mørk brun. Soppkjøttet blekbrunt. Svak, litt melaktig lukt. Ubetydelig smak.",
+      "locations": "Enkeltvis eller i grupper på dødt trevirke og hogstavfall. I nyere tid på grunn av skogbruk med kvisting og barking på stedet har flatklokkehatten fått svært gode vekstvilkår. Med god tilgang til næring har soppen blitt større og mer synlig. Vanlig i hele landet.",
+      "season": "August til oktober",
+      "usage": "Flatklokkehatt er en svært giftig sopp som inneholder giftstoffet amanitin, som også finnes i hvit- og grønn fluesopp. Flatklokkehatt har et lavere innhold av amanitin og gir ofte en mildere form for forgiftning enn hvit- og grønn fluesopp. Ta kontakt med Giftinformasjonen eller lege hvis du tror du kan ha spist flatklokkehatt.",
+      "similarto": "Flatklokkehatt ligner veldig på den spiselige matsoppen Stubbeskjellsopp (Kuehneromyces mutabilis). Begge artene er hygrofane."
+    },
+    {
+      "name": "gomphidius glutinosus",
+      "local_name": "Sleipsopp",
+      "images": [ "gomphidius_glutinosus1.jpg", "gomphidius_glutinosus2.jpg", "gomphidius_glutinosus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 4 - 10 cm. Hatten hos unge eksemplarer er hvelvet men blir etterhvert utbredt og noe nedtrykt i midten, lenge med inrullet kant. Hatten er stålgrå til grårosa. Etterhvert får den svarte flekker og som eldre blir den nesten helt brunsvart. Skivene er fjernstilte, myke, nedløpende på stilken og noe gaffeldelte. Hos unge er skivene gråhvite og blir etterhvert sorte. Sporefarge er sort. Hatten er dekket av ett glassklart slimlag som er festet til stilken. Dette løsner når soppen vokser og danner en bred slimring øverst på stilken. Stilken er slimete, hvit og med markant sitrongul stilkbasis. Stilken er oppsvulmet ved slimringen og smalner nedover mot bakken. Soppkjøttet er bløtt, hvitt med gråaktig skjær. Sitrongul nederst i stilken. Lukter lite. Litt syrlig smak.",
+      "locations": "Vokser bare der det er gran. Enkeltvis eller i små grupper. Vanlig i landet.",
+      "season": "August til Oktober",
+      "usage": "Spiselig og fin blandingssopp. Slimlaget må fjernes. Skrap slimet av stilken. Legg soppen i hånden med hatten ned. Kløyv så soppen ned mot hatten, men ikke skjær igjennom hatten. Vreng deretter soppen ut av slimlaget. Den bør legges i egen boks da sporene vil misfarge annen sopp. Ved varmebehandling blir den sort.",
+      "similarto": "Denne forveksles sjelden med annen sopp."
+    }
+  ] 
+}
