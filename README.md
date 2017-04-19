@@ -1,0 +1,2 @@
+# AiSopp
+Inteligent Sopp Identifisering
