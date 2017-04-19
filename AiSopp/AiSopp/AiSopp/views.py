@@ -41,7 +41,7 @@ def about():
         'about.html',
         title='About',
         year=datetime.now().year,
-        message='Your application description page.'
+        message='Intelligent identifisering av Sopp'
     )
 
 @app.route('/upload', methods=['POST', 'GET'])

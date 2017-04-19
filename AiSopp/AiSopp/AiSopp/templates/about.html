@@ -1,10 +1,29 @@
-{% extends "layout.html" %}
+﻿{% extends "layout.html" %}
 
 {% block content %}
 
 <h2>{{ title }}.</h2>
 <h3>{{ message }}</h3>
 
-<p>Use this area to provide additional information.</p>
+<p>
+    De siste årene er det gjort store fremskritt innenfor feltet maskinlæring. <br />
+    AIsopp© er tjeneste som benytter seg av avansert maskinlæring og kunstig intelligens for å se forskjell på noen av de vanligste soppene vi har vi vår natur.<br />
+    Målet med tjenesten er at det skal bli enklere og ikke minst sikrere å gå ut i naturen for å høste av noen av våre flotte matsopper.
+</p>
+<p>
+    Inspirasjonen min ble vekket av min samboer og hennes far som er ivrige soppplukkere.<br />
+    Dette sammen med at det nesten vært år er noen uheldige mennesker som havner på sykehus med nyresvikt fordi de har plukket med seg feil sopp, gjorde at jeg satte igang med dette arbeidet.<br />
+    Jeg håper at denne tjenesten vil fungere som et enkelt hjelpemiddel som er lett å bruke og som gir deg som bruker god og nyttig informasjon når du er ute og plukker sopp.
+</p>
+<p>
+    Tjenesten er laget ved hjelp av <a href="https://www.tensorflow.org/">TensorFlow</a> og arbeidet som er gjort rundt Inception-V3.<br />
+    Dette er ett kunstig nevralt nettverk som har blitt trent opp i å identifisere bilder av forskjellige ting. Takket være dette arbeidet har jeg kunnet <br />
+    nyttegjøre meg av mange 100.000 timer med arbeid og trening for å lære det opp i å gjenkjenne våre mest vanlige sopper.
+</p>
+<p>
+    Det er viktig å ha i bakhodet at denne tjenesten vil fortelle deg hva slags sopp den tror den ser. Selv våre menneskelige soppeksperter tar feil av og til.<br />
+    Men tjenesten vil gi deg alternativer og mye ekstra informasjon som skal gjøre deg selv i stand til å avgjøre om den har rett eller ikke.<br />
+    Jo mer tjenesten blir brukt jo mer nøyaktig vil den bli. Den vil lære kontinuerlig.
+</p>
 
 {% endblock %}
