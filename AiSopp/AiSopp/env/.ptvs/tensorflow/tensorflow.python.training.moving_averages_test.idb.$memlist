@@ -1,0 +1,15 @@
+ExponentialMovingAverageTest
+constant_op
+MovingAveragesTest
+variables
+absolute_import
+variable_scope
+division
+moving_averages
+print_function
+_Repeat
+gen_state_ops
+ops
+dtypes
+array_ops
+test

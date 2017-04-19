@@ -1,0 +1,14 @@
+gradient_descent
+constant_op
+variables
+absolute_import
+GradientDescentOptimizerTest
+resources
+embedding_ops
+math_ops
+print_function
+resource_variable_ops
+ops
+dtypes
+test
+division

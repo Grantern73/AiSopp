@@ -1,0 +1,12 @@
+InverseGammaTest
+constant_op
+nn_ops
+absolute_import
+stats
+test
+inverse_gamma
+division
+print_function
+tensor_shape
+np
+session

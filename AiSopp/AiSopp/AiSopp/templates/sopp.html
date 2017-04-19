@@ -1,0 +1,31 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+<h2>{{ localname }}</h2>
+<h5>Latin: {{ latin }}</h5>
+<div>
+    <img src="/static/images/{{ images }}" alt="{{ localname }}" width="200px" />
+</div>
+<div>
+    <table class="table">
+        <tr>
+            <td class="info"><b>Kjennetegn:</b> <br /> {{ description }}</td>
+        </tr>
+        <tr>
+            <td class="info"><b>Voksested:</b><br />{{ locations }}</td>
+        </tr>
+        <tr>
+            <td class="info"><b>Sessong:</b><br />{{ season }}</td>
+        </tr>
+        <tr>
+            <td>
+                <b>Bruk:</b><br />{{ usage }}
+            </td>
+        </tr>
+        <tr>
+            <td class="info"><b>Forvekslingsarter</b><br />{{ similarto }}</td>
+        </tr>
+    </table>
+</div>
+
+{% endblock %}

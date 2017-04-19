@@ -19,9 +19,29 @@
         <p><a class="btn btn-default" href="http://flask.pocoo.org/docs/">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>The Python Package Index is a repository of software for the Python programming language.</p>
-        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">Learn more &raquo;</a></p>
+        <h2>Identifisering</h2>
+        <p>Last opp et bilde og la tjenesten forsøke å identifisere soppen.</p>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="exampleInputFile">Velg bilde</label>
+                <input type="file" class="form-control-file" name="file" id="file" aria-describedby="fileHelp">
+                <small id="fileHelp" class="form-text text-muted">Velg ett bilde av en sopp du ønsker å teste tjenesten med. Tjenesten støtter kun formatet jpg/jpeg</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Analyser</button>
+        </form>
+        
+        <table class="table">
+            <tr>
+                <th>Navn</th>
+                <th>Rangering</th>
+            </tr>
+            {% for name, percentage in results %}
+            <tr>
+                <td><a href="/sopp/{{ name }}">{{ name }}</td>
+                <td>{{ ('%.2f') % percentage }}</td>
+            </tr>
+            {% endfor %}
+        </table>
     </div>
     <div class="col-md-4">
         <h2>Microsoft Azure</h2>

@@ -1,0 +1,14 @@
+MovingAverageOptimizerTest
+constant_op
+six
+os
+absolute_import
+division
+gradient_descent
+print_function
+saver
+moving_average_optimizer
+variables
+dtypes
+tempfile
+test

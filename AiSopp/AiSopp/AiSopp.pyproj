@@ -30,12 +30,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AiSopp\get_country_from_ip.py" />
+    <Compile Include="AiSopp\image_label.py" />
     <Compile Include="runserver.py" />
     <Compile Include="AiSopp\__init__.py" />
     <Compile Include="AiSopp\views.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AiSopp\" />
+    <Folder Include="AiSopp\static\images\" />
+    <Folder Include="AiSopp\uploads\" />
     <Folder Include="AiSopp\static\" />
     <Folder Include="AiSopp\static\content\" />
     <Folder Include="AiSopp\static\fonts\" />
@@ -53,6 +57,100 @@
     <Content Include="AiSopp\static\data\sopp_no.json">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\agaricus_augustus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_augustus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_augustus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\albatrellus_confluens1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\albatrellus_confluens2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\albatrellus_confluens3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_rubescens1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_rubescens2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_rubescens3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_badius1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_badius2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_badius3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_aurora1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_aurora2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_aurora3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_cibarius1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_cibarius2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_cibarius3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_tubaeformis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_tubaeformis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cantharellus_tubaeformis3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_camphoratus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_camphoratus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_camphoratus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\dummysopp.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\galerina_marginata1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\galerina_marginata2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\galerina_marginata3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gomphidius_glutinosus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gomphidius_glutinosus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gomphidius_glutinosus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\templates\sopp.html" />
     <Content Include="requirements.txt" />
     <Content Include="AiSopp\static\content\bootstrap.css" />
     <Content Include="AiSopp\static\content\bootstrap.min.css" />

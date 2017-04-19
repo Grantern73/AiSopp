@@ -1,1 +1,6 @@
 Flask<1
+numpy
+tensorflow
+maxminddb-geolite2
+flask_uploads
+flask-wtf
