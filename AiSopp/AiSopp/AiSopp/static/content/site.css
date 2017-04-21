@@ -40,3 +40,10 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+.navbar-inverse {
+    background-color: #35762b;
+}
+
+.jumbotron {
+    background-color: rgba(94, 225, 4, 0.41);
+}
