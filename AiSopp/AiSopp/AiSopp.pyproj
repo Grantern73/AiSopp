@@ -150,7 +150,11 @@
     <Content Include="AiSopp\static\images\gomphidius_glutinosus3.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\templates\admin.html" />
     <Content Include="AiSopp\templates\sopp.html" />
+    <Content Include="favicon.ico">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="AiSopp\static\content\bootstrap.css" />
     <Content Include="AiSopp\static\content\bootstrap.min.css" />

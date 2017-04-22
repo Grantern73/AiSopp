@@ -44,6 +44,16 @@ def about():
         message='Intelligent identifisering av Sopp'
     )
 
+@app.route('/admin')
+def admin():
+    """Renders the admin page."""
+    return render_template(
+        'admin.html',
+        title='Administrasjon',
+        year=datetime.now().year,
+        message='Administrering av innhold'
+    )
+
 @app.route('/upload', methods=['POST', 'GET'])
 def do_upload():
     """Stores and Identifies the uploaded image."""
@@ -74,6 +84,20 @@ def do_upload():
             
             predictions = run_inference_on_image(completesavepath)
             
+            SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+            json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
+            data = json.load(open(json_url))
+            result = []
+            for latin, hitrate in predictions:
+                for sopp in data['sopp']:
+                    if sopp['name'] == latin:
+                        soppres = [latin, sopp['local_name'], sopp['risk']]
+                        result.append(soppres)
+                        break
+                break
+                soppres = [latin, '', '']
+                result.append(soppres)
+            
             return render_template(
                 'index.html',
                 results=predictions)
@@ -87,7 +111,7 @@ def sopp(param):
     
     result = []
     for sopp in data['sopp']:
-        if sopp['name'] == param:
+        if sopp['name'] == param.replace("%20"," "):
             result = sopp
             break
 
