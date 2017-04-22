@@ -33,7 +33,6 @@ For testing through bazel,
 For testing through python, change and run this code.
 """
 import os
-#from bottle import route, view, request
 import numpy as np
 import tensorflow as tf
 
@@ -78,7 +77,7 @@ def run_inference_on_image(image):
         predictions_list = []
         for node_id in top_k:
             prediction = []
-            prediction.append(labels[node_id].replace("b'","").replace("\\n","").replace("'","").replace("\\r", "")
+            prediction.append(labels[node_id].replace("b'","").replace("\\n","").replace("'","").replace("\\r", ""))
             prediction.append(predictions[node_id]*100)
             predictions_list.append(prediction)
             #human_string = labels[node_id]
