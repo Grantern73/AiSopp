@@ -83,7 +83,7 @@ def do_upload():
             file.close()
             
             predictions = run_inference_on_image(completesavepath)
-            
+           
             SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
             json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
             data = json.load(open(json_url))
@@ -93,10 +93,7 @@ def do_upload():
                     if sopp['name'] == latin:
                         soppres = [latin, sopp['local_name'], sopp['risk']]
                         result.append(soppres)
-                        break
-                break
-                soppres = [latin, '', '']
-                result.append(soppres)
+                        break   
             
             return render_template(
                 'index.html',

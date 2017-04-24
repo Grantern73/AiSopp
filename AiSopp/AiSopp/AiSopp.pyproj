@@ -129,6 +129,15 @@
     <Content Include="AiSopp\static\images\cortinarius_camphoratus3.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\craterellus_cornucopioides1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\craterellus_cornucopioides2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\craterellus_cornucopioides3.jpg">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="AiSopp\static\images\dummysopp.jpg">
       <Publish>True</Publish>
     </Content>
