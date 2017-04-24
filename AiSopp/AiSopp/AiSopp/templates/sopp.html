@@ -6,6 +6,22 @@
 <div>
     <img src="/static/images/{{ images }}" alt="{{ localname }}" width="200px" />
 </div>
+
+
+        {% if risk == "0" %}
+        <div class="alert alert-success" role="alert">
+            <strong>Matsopp!</strong>
+        </div>
+        {% elif risk == "1" %}
+        <div class="alert alert-warning" role="alert">
+            <strong>Uspiselig!
+        </div>
+        {% elif risk == "2" %}
+        <div class="alert alert-danger" role="alert">
+            <strong>Giftig!</strong> Ikke plukk med deg denne.
+        </div>
+        {% endif %}
+
 <div>
     <table class="table">
         <tr>
@@ -15,7 +31,7 @@
             <td class="info"><b>Voksested:</b><br />{{ locations }}</td>
         </tr>
         <tr>
-            <td class="info"><b>Sessong:</b><br />{{ season }}</td>
+            <td class="info"><b>Sesong:</b><br />{{ season }}</td>
         </tr>
         <tr>
             <td>

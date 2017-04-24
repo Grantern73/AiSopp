@@ -89,15 +89,19 @@ def do_upload():
             data = json.load(open(json_url))
             result = []
             for latin, hitrate in predictions:
+                soppres = []
                 for sopp in data['sopp']:
                     if sopp['name'] == latin:
-                        soppres = [latin, sopp['local_name'], sopp['risk']]
+                        soppres = [latin, hitrate, sopp['local_name'], sopp['risk']]
                         result.append(soppres)
                         break   
-            
+                if soppres.count is None:
+                    soppres = [latin, hitrate, '', '0']
+                    result.append(soppres)
+
             return render_template(
                 'index.html',
-                results=predictions)
+                results=result)
 
 @app.route('/sopp/<param>')
 def sopp(param):

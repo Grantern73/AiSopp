@@ -38,13 +38,41 @@
                 <th>Navn</th>
                 <th>Rangering</th>
             </tr>
-            {% for name, percentage in results %}
-            <tr>
-                <td><a href="/sopp/{{ name }}">{{ name }}</td>
-                <td>{{ ('%.2f') % percentage }}</td>
-            </tr>
+            {% for name, hitrate, localname, risk in results %}
+                <tr>
+                {% if risk == "0" %}
+                    <td class="alert alert-success" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
+                    <td class="alert alert-success" role="alert">{{ ('%.2f') % hitrate }}</td>
+            
+                {% elif risk == "1" %}
+                    <td class="alert alert-warning" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
+                    <td class="alert alert-warning" role="alert">{{ ('%.2f') % hitrate }}</td>
+            
+                {% elif risk == "2" %}
+                    <td class="alert alert-danger" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
+                    <td class="alert alert-danger" role="alert">{{ ('%.2f') % hitrate }}</td>
+
+            {% endif %}
+                </tr>
             {% endfor %}
         </table>
+       <!--
+         {% for name, hitrate, localname, risk in results %}
+            {% if risk == "0" %}
+            <div class="alert alert-success" role="alert">
+                <p><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }}) - {{ ('%.2f') % hitrate }}</a></p>
+            </div>
+            {% elif risk == "1" %}
+            <div class="alert alert-warning" role="alert">
+                <p><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }}) - {{ ('%.2f') % hitrate }}</a></p>
+            </div>
+            {% elif risk == "2" %}
+            <div class="alert alert-danger" role="alert">
+                <p><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }}) - {{ ('%.2f') % hitrate }}</a></p>
+            </div>
+            {% endif %}
+        {% endfor %}
+        -->
     </div>
     <div class="col-md-4">
         <h2>Android og IOS</h2>
