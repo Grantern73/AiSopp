@@ -89,13 +89,13 @@ def do_upload():
             data = json.load(open(json_url))
             result = []
             for latin, hitrate in predictions:
-                soppres = []
+                soppres = None
                 for sopp in data['sopp']:
                     if sopp['name'] == latin:
                         soppres = [latin, hitrate, sopp['local_name'], sopp['risk']]
                         result.append(soppres)
                         break   
-                if soppres.count is None:
+                if soppres is None:
                     soppres = [latin, hitrate, '', '0']
                     result.append(soppres)
 
