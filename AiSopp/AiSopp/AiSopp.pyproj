@@ -191,6 +191,7 @@
     <Content Include="AiSopp\templates\contact.html" />
     <Content Include="AiSopp\templates\index.html" />
     <Content Include="AiSopp\templates\layout.html" />
+    <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
