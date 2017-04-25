@@ -122,7 +122,7 @@ def sopp(param):
             title = result['name'],
             localname = result['local_name'],
             latin = result['name'],
-            images = result['images'][0],
+            images = result['images'],
             risk = result['risk'],
             description = result['description'],
             locations = result['locations'],
