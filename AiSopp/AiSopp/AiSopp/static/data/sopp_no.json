@@ -12,6 +12,17 @@
       "similarto": "Ingen spesielle sopper den ligner på, kanskje med unntak av Stor parasollsopp."
     },
     {
+      "name": "albatrellus ovinus",
+      "local_name": "Fåresopp",
+      "images": [ "albatrellus_ovinus1.jpg", "albatrellus_ovinus2.jpg", "albatrellus_ovinus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 3 - 6 cm. Hatten er fra velvet flat med ujevn bølgete hattkant. Hatten er hvit, gråhvit, ofte med innslag av grålilla tone. Unge eksemplarer er glatte, men eldre sprekker gjerne opp i uregelmessige mønstre. Undersiden er dekket av et hvitt, tynt nedløpende porelag som kjennes helt glatt hvis man gnir en finger over det. Stilken er kort, tykk og avsmalende mot basis og har samme farge som hatten. Soppen fremstår som hvit. Soppen får ofte gule flekker ved berøring eller alder. Kjøttet er fast og hvitt, er den markspist vil markgangene ofte være gule. Kjøttet blir sitrongult ved oppvarming, ett viktig kjennetegn som skiller den fra Fransk Brødsopp (Albatrellus confluens), som forblir hvit. Svak lukt og mild i smaken.",
+      "locations": "Du finner den i gammel moserik barskog eller blandingsskog. Den danner sopprot med gran. Fåresopp vokser tett i lange brede rader og grupper, men soppene er ikke sammenvokst. Du kan alltid løsne hver enkelt sopp. Vanlig på Østlandet og Trøndelag, også i Nordland. Den følger utbredelsesområdet til viltvoksende gran.",
+      "season": "August til midt September",
+      "usage": "Fåresopp er spiselig og unge eksemplarer er utmerket matsopp. Endrer farge til sitrongul og deretter grågrønn/sort ved tilbredning. Stor og gammel sopp kan være besk. Den er fin i blandinger med annen sopp, den er fin som stekesopp, og egner seg i gryter, stuinger og sauser. Kan prøves til det meste.",
+      "similarto": "Forveksles ofte med Franskbrødsopp (albatrellus confluens). Helt unge eksemplarer av denne kan brukes."
+    },
+    {
       "name": "albatrellus confluens",
       "local_name": "Franskbrødsopp",
       "images": [ "albatrellus_confluens1.jpg", "albatrellus_confluens2.jpg", "albatrellus_confluens3.jpg" ],
@@ -43,6 +54,28 @@
       "season": "Sommer til sen høst.",
       "usage": "Spiselig og meget god matsopp. Den kan fryses og tørkes.",
       "similarto": "Unge eksemplarer kan forveksles med fløyelsrørsopp, Boletus subtomentosus (spiselig). Kan også forveksles med orerørsopp, Gyrodan lividus (uspiselig)."
+    },
+    {
+      "name": "boletus edulis",
+      "local_name": "Steinsopp",
+      "images": [ "boletus_edulis1.jpg", "boletus_edulis2.jpg", "boletus_edulis3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 5 - 15 cm. Hatten er først nesten rund med innrullet kant, men blir etterhvert halvkuleformet, hvelvet og nesten flat. Fargen på hatten er varierer fra lysebrun til nesten sjokoladebrun, den blir ofte lysere mot kanten. Den blir litt klebrig i fuktig vær, men er glatt og blank i tørt vær. Under hatthuden på utvokst sopp er soppkjøttet rødbrunt til brunfiolett, mens resten av kjøttet er hvitt. Unge eksemplarer er faste og har ett fast hvitt rørlag på undersiden. Etterhvert som soppen vokser blir dette rørlaget mykere og mer svampaktig. Det endrer også farge til gult og på veldig gammel sopp blir det gulgrønt. Rørlaget lar seg lett løsne fra hatten. Stilken hos helt unge sopp er ofte kuleformet, men med alderen blir den høy og jevn, men tykkere mot basen. Stilken er gråhvit til lysebrun med et hvitt finmasket årenett øverst. Sporefargen er lys gulbrun. Lukten er behagelig og den har en nøtteaktig smak.",
+      "locations": "Den finnes i alle typer skog. Den danner sopprot med forskjellige trær, både bar- blandings- og løvskog. Den vokser enkeltvis eller få sammen. Den krever mye nedbør og varme. Enkelte ganger får vi steinsoppår etter en varm og fuktig sommer.",
+      "season": "August og ut September",
+      "usage": "En av verdens mest ettertraktede matsopper. Kan brukes til alle soppretter og er en av veldig få arter som kan nytes rå i små mengder. Oppbevares best tørket eller dypfryst etter ett raskt oppkok i lettsaltet vann.",
+      "similarto": "Kan forveksles med Gallerørsopp (Tylopilus felleus) som er uspiselig. Den har rosa rørlag og smaker meget beskt. Rødbrun steinsopp (Boletus pinophilus) som er spiselig og meget god. Utover det har vi en rekke velsmakende rørsopper som kan ligne mer eller mindre på steinsopp."
+    },
+    {
+      "name": "boletus luridiformis",
+      "local_name": "Blodrørsopp",
+      "images": [ "boletus_luridiformis1.jpg", "boletus_luridiformis2.jpg", "boletus_luridiformis3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 5 - 10 cm. Hatten er først nesten rund med innrullet kant, men blir etterhvert halvkuleformet, hvelvet og nesten flat. Hatthuden er sjokoladebrun, noen ganger med et olivenbrunt innslag. Hatthuden er fløyelsaktig, nesten semsket på unge eksamplerer. Blir litt klebrig i fuktig vær. Rørlaget er gult til gulgrønt med karminrøde rørmunninger. Disse får rørlaget under hatten til å se ut som jevn blodrød flate. Ved berøring får rørlaget straks en mørkeblå farge. Kraftig stilk som ofte er oppsvulmet nederst. Den er gul, men dekket av ørsmå karminrøde prikker slik at den fremstår som rød. Ved gjennomskjæring er soppkjøttet gult, men blåner raskt. Soppkjøttet er meget fast og har en svak lukt og mild smak.",
+      "locations": "Blodrørsopp danner sopprot med både løv- og bartrær og finnes derfor ofte i blandigsskog med gran, eik og bøk. Vokser enkeltvis eller i små grupper. Finnes i kystnære strøk helt nord til Trøndelag.",
+      "season": "August og ut September",
+      "usage": "Spiselig og god matsopp, men ikke i rå tilstand, men noen mener den er uspiselig. God stekesopp. Utmerket til tørking.",
+      "similarto": "Kan forveksles med flere rørsopper med røde til oransje rørmunninger, men disse har ett sort grovmasket årenett på stilken og smaker beskt eller bittert. "
     },
     {
       "name": "cantharellus aurora",
