@@ -78,6 +78,17 @@
       "similarto": "Kan forveksles med flere rørsopper med røde til oransje rørmunninger, men disse har ett sort grovmasket årenett på stilken og smaker beskt eller bittert. "
     },
     {
+      "name": "boletus subtomentosus",
+      "local_name": "Fløyelsrørsopp",
+      "images": [ "boletus_subtomentosus1.jpg", "boletus_subtomentosus2.jpg", "boletus_subtomentosus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 5 - 10 cm. Hatten er halvkuleformet og blir etterhvert mer hvelvet, men sjelden helt flat. Hatthuden er tørr og fløyelsmyk som semsket skinn, gulbrun til olivenbrun, ofte nesten sjokoladebrun. Rørlaget er svovelgult med store og litt kantete rørmunninger. Rørlaget blir etterhvert nedhengende og løst. Får etterhvert en olivengrønn farge. Det blåner ved trykk. Stilken er forholdsvis slank. Øverst er stilken mer gul, mens den får en mer rødbrun farge nedover. Stilken får ofte en struktur som kan minne noe om ett årenett. Soppkjøttet er blekgult og blåner svakt ved overskjæring. Mild smak og lukt.",
+      "locations": "Vokser oftest enkeltvis i bar- og løvskog. Den er vanlig i hele landet, og finnes helt oppe i fjellbjørkeskogen.",
+      "season": "Sommer til sen høst",
+      "usage": "Spiselig og god. Egner seg i soppblandinger med annen sopp. Kan dypfryses.",
+      "similarto": "Ruterørsopp (Boletus pascuus) som er spiselig. Hatthuden sprekker opp i et ruteformet mønster. Hattkjøttet er rosa under hatthuden og den får da et rosa rutemønster. Stilken er gul øverst og blir gradvis rød nedover. Svartbrun rørsopp (Boletus badius) som er spiselig. Orerørsopp (Gyrodon lividus) som ikke er matsopp."
+    },
+    {
       "name": "cantharellus aurora",
       "local_name": "Gul trompetkantarell",
       "images": [ "cantharellus_aurora1.jpg", "cantharellus_aurora2.jpg", "cantharellus_aurora3.jpg" ],
@@ -197,6 +208,28 @@
       "season": "August til ut Oktober",
       "usage": "Granskjellpiggsoppen er mest egnet som krydder og som tilsetning i soppblandinger til soppsoya. Helt unge eksemplarer kan prøves som stekesopp. Den har en kraftig smak. Furuskjellpiggsopp har en mye mildere smak og brukes mye i Mellom-Europa. Prøv unge eksemplarer som stekesopp, eller bruk den nedlagt som pickles eller i olje. Fantastisk til soppsoya. Gamle, råtne eksemplarer ble i gamle dager brukt til å gi blå farge på ullgarn.",
       "similarto": "Kan forveksles med flere andre arter av brune piggsopper, ingen er giftig, men de er heller ikke mat."
+    },
+    {
+      "name": "suillus luteus",
+      "local_name": "Smørsopp",
+      "images": [ "suillus_luteus1.jpg", "suillus_luteus2.jpg", "suillus_luteus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 10 cm. Stilkhøyde 4 - 10 cm. Hatten er hvelvet til halvkuleformet og blir med alderen nesten flat. Den har klebrig blank hattehud som blir slimete i fuktig vær. Hattehuden kan flås lett av. Hatten er mørk sjokolade- til kastanjebrun. Rørlaget er i starten fast og smørgult med trange runde rørmunninger. Hos unge eksemplarer er rørlaget dekket av ett hvitt hudlag. Etterhvert danner dette hudlaget en ring på stilken. Rørlaget blir etterhvert løst og olivenbrunt. Stilken er slank, lys til gulhvit i farge. Ringen på stilken vil etterhvert farges brun av sporene og stilken mørkner noe nedenfor ringen. Soppkjøttet er gulhvit med mild lukt og smak.",
+      "locations": "Soppen trives i furuskog over hele landet, langs skogsveier på sandlig grunn. Vokser i grupper.",
+      "season": "August til sen høst",
+      "usage": "En ypperlig matsopp. Flå hatthuden av før du tar den med hjem. Den er ofte markspist så bruk unge eksemplarer. Er veldig god alene, men egener seg også i blandinger. Det er en flott stekesopp. Kan tørkes eller dypfryses.",
+      "similarto": "Forveksles ofte med Ringløs smørsopp (Suillus granulatus) som er god matsopp. Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær. Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker. Sandsopp (Suillus variegatus) som er spiselig. "
+    },
+    {
+      "name": "suillus granulatus",
+      "local_name": "Ringløs smørsopp",
+      "images": [ "suillus_granulatus1.jpg", "suillus_granulatus2.jpg", "suillus_granulatus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 10 cm. Stilkhøyde 4 - 10 cm. Hatten er hvelvet til halvkuleformet og blir med alderen nesten flat. Den har klebrig blank hattehud som blir slimete i fuktig vær. Hattehuden kan flås lett av. Hatten er lysebrun til gulbrun. Rørlaget er i starten fast og smørgult med trange runde rørmunninger. Rørlaget blir etterhvert løst og olivenbrunt. I fuktig vær utskiller rørlaget melkeaktige dråper Stilken er slank, lys til gulhvit i farge. Soppkjøttet er gulhvit med mild lukt og smak.",
+      "locations": "Soppen trives i kalkrik furuskog over hele landet. Vokser i grupper.",
+      "season": "August til sen høst",
+      "usage": "En ypperlig matsopp. Flå hatthuden av før du tar den med hjem. Den er ofte markspist så bruk unge eksemplarer. Er veldig god alene, men egener seg også i blandinger. Det er en flott stekesopp. Kan tørkes eller dypfryses.",
+      "similarto": "Forveksles ofte med Smørsopp (Suillus luteus) som er god matsopp. Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær. Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker. Sandsopp (Suillus variegatus) som er spiselig. "
     }
   ] 
 }
