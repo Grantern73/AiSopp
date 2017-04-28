@@ -230,6 +230,39 @@
       "season": "August til sen høst",
       "usage": "En ypperlig matsopp. Flå hatthuden av før du tar den med hjem. Den er ofte markspist så bruk unge eksemplarer. Er veldig god alene, men egener seg også i blandinger. Det er en flott stekesopp. Kan tørkes eller dypfryses.",
       "similarto": "Forveksles ofte med Smørsopp (Suillus luteus) som er god matsopp. Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær. Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker. Sandsopp (Suillus variegatus) som er spiselig. "
+    },
+    {
+      "name": "suillus variegatus",
+      "local_name": "Sandsopp",
+      "images": [ "suillus_variegatus1.jpg", "suillus_variegatus2.jpg", "suillus_variegatus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 14 cm. Stilkhøyde 4 - 10 cm. Hatten er halvkuleformet som ung, men blir nesten flat ved gamle eksemplarer. Hatten er sandfarget, fra gul til gulbrun men har ofte også et olivenbrunt innslag. Hatthuden er matt og glatt. Unge sopp har en fløyelsaktig hatt. Rørlaget er mørkere enn hatten og har trange rørmunninger. Stilken har samme farge som hatten, men lysner noe mot stilkbasis hvor den også kan ha små rødbrune prikker. Stilken er jevntykk men kan ofte utvide seg noe mot basis. Soppkjøttet er gult til brungult, men det kan ofte oppfattes som oransj. Soppen blåner ved trykk og overskjæring, mn av og til kan man finne noen som ikke blåner. Lukten kan virke litt ubehagelig syrlig. Smaken er mild og litt syrlig.",
+      "locations": "Sandsoppen er knyttet til furu og den finnes derfor i ren furuskog og i blandingsskoger. Den vokser enkeltvis eller i grupper blant mose og lav. Den er svært vanlig over hele landet.",
+      "season": "August til oktober",
+      "usage": "Sandsopp er spiselig men regnes ikke som en gourmetsopp. Den egner seg best i blandinger med annen sopp. Den bør tørkes, da endrer den helt karakter og blir meget velsmakende. Sandsoppen har vært brukt til farging av ullgarn og gir en gulgrønn til olivengrønn farge.",
+      "similarto": "Kan forveksles med Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker."
+    },
+    {
+      "name": "chalciporus piperatus",
+      "local_name": "Pepperrørsopp",
+      "images": [ "chalciporus_piperatus1.jpg", "chalciporus_piperatus2.jpg", "chalciporus_piperatus3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 2 - 5 cm. Stilkhøyde 3 - 8 cm. Hatten er halvkuleformet som ung, men blir nesten flat ved gamle eksemplarer. Hatten er gulbrun til rødbrun, glinsende og glatt men nesten slimete og klebrig i fuktig vær. Rørlaget er mørkere enn resten av soppen med ett sterkt innslag av rødt som varierer fra gulrødt til rødbrunt. Rørmunningene er ganske store og ujevnt kantete og er ofte litt nedløpende på stilken. Stilken er ganske tynn og lager en tydelig knekklyd når den brekkes. Stilkfargen er noe lysere enn hatten og gules mot stilkbasis. Soppkjøttet er fra gult til gulbrunt og i stilken er det svovelgult. Svak lukt. Har en tydelig peppersmak.",
+      "locations": "Pepperrørsoppen vokser enkeltvis eller i små grupper i løv og barskog. Den er vanlig i hele landet.",
+      "season": "Juli til ut September",
+      "usage": "Den regnes ikke som matsopp. Den kan brukes som krydder hvor den kan erstatte nettopp pepper. Den kan brukes frisk, finhakket i gryteretter eller tørket og finmalt. Den er potent i smake, så forsøk deg fram så det ikke blir for mye.",
+      "similarto": "Den har ingen opplagte forvekslingsarter. Ingen andre rørsopper har en så tynn stilk som knekker med ett hørbart knepp og er svovelgul inni."
+    },
+    {
+      "name": "tylopilus fellus",
+      "local_name": "Gallerørsopp",
+      "images": [ "tylopilus_fellus1.jpg", "tylopilus_fellus2.jpg", "tylopilus_fellus3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 6 - 14 cm. Hatten er halvkuleformet til hvelvet. Hatthuden er glatt og lys brun til gråbrun. Den kan sprekke opp i tørt vær. Helt ung sopp kan virke litt fløyelsaktige. Rørlaget er på unge eksemplarer fast og nesten hvitt. Etterhvert svakt rosa og siden brunrosa. Den får brune flekker ved berøring. Rørmunningene er ganske vide og litt kantete. Rørlaget er avrundet mot stilken og lar seg lett fjerne fra hatten. Stilken er kraftig og noe oppsvulmet mot basis. Den er nesten hvit helt øverst men har samme farge som hatten nedover. Hele stilken er dekket av mørkt grovmasket årenett. Soppkjøttet er hvitt og rødner svakt. Svak lukt, men har en veldig bitter og besk smak, derav navnet Gallerørsopp.",
+      "locations": "Den vokser enkeltvis eller bare noen få sammen. Den trives i sur blandingsskog, gjerne med furu. Den vokser ofte på eller ved råtnende stubber. Den er sjelden på vestlandet, men vanlig ellers i landet helt opp til nord i Nord-Trøndelag",
+      "season": "August og September",
+      "usage": "Gallerørsoppen er uspiselig",
+      "similarto": "Unge eksemplarer forveksles ofte med steinsopp og brunskrubb. Er du i tvil så stikk tungen på rørlaget under hatten. Får du en utrolig besk og vond smak i munnen så vet du hva du har med å gjøre."
     }
   ] 
 }
