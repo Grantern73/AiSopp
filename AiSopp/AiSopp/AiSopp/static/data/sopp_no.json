@@ -263,6 +263,39 @@
       "season": "August og September",
       "usage": "Gallerørsoppen er uspiselig",
       "similarto": "Unge eksemplarer forveksles ofte med steinsopp og brunskrubb. Er du i tvil så stikk tungen på rørlaget under hatten. Får du en utrolig besk og vond smak i munnen så vet du hva du har med å gjøre."
+    },
+    {
+      "name": "leccinum versipelle",
+      "local_name": "Rødskrubb",
+      "images": [ "leccinum_versipelle1.jpg", "leccinum_versipelle2.jpg", "leccinum_versipelle3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 30 cm. Stilkhøyde 5 - 20 cm. Gruppen rødskrubb dekker flere arter, som hver er knyttet til et treslag. Som helt unge er hatten halvkuleformet med hatthuden hengende over kanten og litt nedover stilken. Etterhvert blir den mer hvelvet eller avflatet, men hattehuden vil hele tiden henge utover kanten som hudfliker. Fargen på hatten varierer fra lysende oransj til teglesteinsrød. Hatthuden er tørr og glatt, men i fuktig vær kan den bli litt klebrig. Ung sopp kan virke noe finskjellet mot midten. Rørlaget hos ung sopp er fast og gråaktig. Etterhvert blir rørlaget mørkere, løst og nedhengende. Det blåner ved trykk. Stilken er kraftig og fast. Hos ung sopp er den stor i forhold til hatten. Stilken er skrubbete som kan beskrives som litt ubarbert eller daggamle skjeggstubber. Fargen på skjeggstubbene varierer med de forskjellige artene. Rødskrubben har gråsvart skjeggstubber. Soppkjøttet er hvitt og blåner ved overskjærelse. Mild lukt og smak.",
+      "locations": "Rødskrubb vokser med bjørk. Rødskrubb er vanlig i hele landet og helt opp i fjellbjørkeskogen.",
+      "season": "August til Oktober",
+      "usage": "Rødskrubben er spiselig og meget god. Utmerket stekesopp og til gryteretter og supper som skal koke lenge. Passer godt finmalt i blanding med kjøttdeig. Alle skrubber må varmebehandles minst 15 minutter, ellers er den så tungfordøyelig at du blir dårlig. Skrubbene blir nesten sorte ved tilbredning.",
+      "similarto": "Kan forveklses med andre arter i rødskrubb familien, men ellers er det ingen andre rørsopper med slik rødbrun / oransj hatt. Gode kjennetegn er skrubbet stilk og blånende kjøtt i stilken ved overskjæring. "
+    },
+    {
+      "name": "leccinum aurantiacum",
+      "local_name": "Ospeskrubb",
+      "images": [ "leccinum_aurantiacum1.jpg", "leccinum_aurantiacum2.jpg", "leccinum_aurantiacum3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 30 cm. Stilkhøyde 5 - 20 cm. Som helt ung er hatten halvkuleformet med hattehuden hengende ut over kanten og litt nedover på stilken. Etterhvert blir den mer hvelvet eller avflatet, men hattehuden vil hele tiden henge ut over kanten som hudfliker. Fargen på hatten er lysende oransj. Hatthuden er glatt og tørr, men i fuktig vær kan den bli litt klebrig. Unge eksamplerer kan virke litt finskjellet mot midten. Rørlaget hos unge eksemplarer er fast og nesten hvitt. Etterhvert blir rørlaget mørkere, mer nedhengende og løst. Det blåner ved trykk. Stilken er fast og kraftig. Hos ung sopp er den stor i forhold til hatten. Stilken er skrubbete som kan beskrives som litt ubarbert eller daggamle skjeggstubber, Ospeskrubben er nordisk blond med blonde nesten hvite skjeggstubber. Soppkjøttet er hvitt og blåner ved overskjøring. Mild smak og lukt.",
+      "locations": "Ospeskrubben er som navnet sier knyttet til Osp. Er vanlig i lavlandet sør i landet.",
+      "season": "August til Oktober",
+      "usage": "Rødskrubben er spiselig og meget god. Utmerket stekesopp og til gryteretter og supper som skal koke lenge. Passer godt finmalt i blanding med kjøttdeig. Alle skrubber må varmebehandles minst 15 minutter, ellers er den så tungfordøyelig at du blir dårlig. Skrubbene blir nesten sorte ved tilbredning.",
+      "similarto": "Kan forveklses med andre arter i rødskrubb familien, men ellers er det ingen andre rørsopper med slik rødbrun / oransj hatt. Gode kjennetegn er skrubbet stilk og blånende kjøtt i stilken ved overskjæring. "
+    },
+    {
+      "name": "leccinum scabrum",
+      "local_name": "Brunskrubb",
+      "images": [ "leccinum_scabrum1.jpg", "leccinum_scabrum2.jpg", "leccinum_scabrum3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 5 - 20 cm. Gruppen Brunskrubb dekker som Rødskrubben flere arter som er knyttet til enkelte treslag. Hatten er halvkuleformet som ung, men det finnes ingen hudfliker utenfor hattekanten. Hatten blir etterhvert avflatet. Hatthuden er glatt og litt klebrig i fuktig vær. Fargen er lys til mørkebrun uten noe rødlig innslag. Rørlaget er nesten hvitt og får ofte rustbrune flekker. Stilken er slankere enn hos rødskrubben og er svart skrubbete. Soppkjøttet er hvitt og bløtt, mot klissent seigt. Mild lukt og smak.",
+      "locations": "Brunskrubben er knyttet til bjørk.",
+      "season": "August ut September",
+      "usage": "Brunskrubben er spiselig, men regnes ikke som god matsopp. Unge faste eksemplarer kan brukes i soppblandinger.",
+      "similarto": "Kan forveklses med andre arter i brunskrubb familien og tynne eksemplarer av rødskrubb. Rødskrubben blir blåsort ved overskjæring, noe brunskrubben ikke blir."
     }
   ] 
 }
