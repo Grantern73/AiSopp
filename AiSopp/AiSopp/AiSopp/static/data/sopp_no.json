@@ -296,6 +296,28 @@
       "season": "August ut September",
       "usage": "Brunskrubben er spiselig, men regnes ikke som god matsopp. Unge faste eksemplarer kan brukes i soppblandinger.",
       "similarto": "Kan forveklses med andre arter i brunskrubb familien og tynne eksemplarer av rødskrubb. Rødskrubben blir blåsort ved overskjæring, noe brunskrubben ikke blir."
+    },
+    {
+      "name": "russula decolorans",
+      "local_name": "Gulrød kremle",
+      "images": [ "russula_decolorans1.jpg", "russula_decolorans2.jpg", "russula_decolorans3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 6 - 12 cm. Hatten er halvkuleformet som ung, men blir med alderen nesten flat og litt nedsunket i midten. Hatthuden er fra gulrød til nesten oransj. Den er glatt, men blir litt klebrig i fuktig vær. Hatthuden kan dras av et stykke inn mot midten. Den har først hvite skiver som etterhvert blir kremfarget. De er tynne og tette med tverrhår nær hattkjøttet. Sporefargen er krem til okergul. Stilken er hvit og jevntykk med svampeaktig kjøtt. Stilk og skiver gråner med alderen. Soppkjøttet er sprøtt og trevles ikke. Mild lukt og smak. Unge eksemplarer av gulrød kremle kan smake litt skarpt når man smaker på de rå i skogen.",
+      "locations": "Du finner de i furuskog eller blandet barskog, gjerne blant reinlav. Vanlig over hele landet.",
+      "season": "Juli ut September",
+      "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
+      "similarto": "Kan forveksles med andre røde, gule og gulaktig kremler. Eneste farlige forveksling med gulrød kremle er utvasket rød fluesopp, der de hvite prikkene er skyllet vekk. Hatthuden hos fluesoppen kan dras helt av og kjøttet under er gulrødt og soppkjøttet kan trevles. "
+    },
+    {
+      "name": "russula claroflava",
+      "local_name": "Mild Gulkremle",
+      "images": [ "russula_claroflava1.jpg", "russula_claroflava2.jpg", "russula_claroflava3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 6 - 12 cm. Hatten er halvkuleformet som ung, men blir med alderen nesten flat og litt nedsunket i midten. Hatthuden er smørgul. Den er glatt, men blir litt klebrig i fuktig vær. Hatthuden kan dras av et stykke inn mot midten. Den har først hvite skiver som etterhvert blir kremfarget. De er tynne og avrundet mot stilken. Sporefargen er krem til okergul. Stilken er hvit og jevntykk med svampeaktig kjøtt. Stilk og skiver gråner med alderen. Soppkjøttet er sprøtt og trevles ikke. Mild lukt og smak. Unge eksemplarer av gulrød kremle kan smake litt skarpt når man smaker på de rå i skogen.",
+      "locations": "Mild Gulkremle er bundet til bjørk og er vanlig over hele landet, helt opp på høyfjellet der den følger dvergbjørka ",
+      "season": "Juli ut September",
+      "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
+      "similarto": "Kan forveksles med Skarp Gulkremle (Russula ochroleuca) som er bundet til gran. Den regnes som uspiselig, men mange er uenig i det. Skarpheten forsvinner med varmebehandling. Kan også forveksles med andre gule kremler, men ingen er giftige."
     }
   ] 
 }
