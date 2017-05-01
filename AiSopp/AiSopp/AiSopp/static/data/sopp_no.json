@@ -432,13 +432,13 @@
     {
       "name": "lactarius rufus",
       "local_name": "Rødbrun pepperriske",
-      "images": [ "lactarius_lignyotus1.jpg", "lactarius_lignyotus2.jpg", "lactarius_lignyotus3.jpg" ],
+      "images": [ "lactarius_rufus1.jpg", "lactarius_rufus2.jpg", "lactarius_rufus3.jpg" ],
       "risk": "0",
-      "description": "Hattdiameter 2 - 6 cm. Stilkhøyde 5 - 12 cm. Hatten er først hvelvet og blir ganske flat, ofte nedsunket i midten, der den har en liten spiss pukkel. Hatten er mørk svartbrun som mørk sjokolade, fløyelsaktig matt og fint rynket. Skivene er hvite og blir etterhvert med alderen okergule. Sporefargen er lys oker. Skivene er tilvokste til noe nedløpende. Et spesielt kjennetegn er at det ser ut som skivene går litt nedover stilken og går over til stilkens sjokoladebrune farge. Stilken er fløyelsaktig som hatten med noe lysere. Sotriske har mye melkesaft som langsomt går over til en rosa farge. Det samme gjør soppkjøttet. Soppen er myk og sprø og trevler ikke. Svak lukt og mild smak.",
-      "locations": "Den vokser nord til Nordland i gammel granskog der det gjerne er forholdsvis næringsfattig. Den er ikke vanlig med kan enkelte år påtreffes ganske ofte.",
-      "season": "August til Oktober",
-      "usage": "Sotriske er spiselig og god. Den blir rosa i stekepanna. Mange klassifiserer den ikke som spiselig, men den er ikke giftig. Kommer du over den så er det verdt å prøve.",
-      "similarto": "Kan forveksles med Røykriske (Lactarius fuliginosus) som er uspiselig og som ikke har folder øverst på stilken. Den er lysere både i hatten og på stilken. Svartriske (Lactarius necator) som er giftig og mye mer vanlig, smaker brennende skarpt. Som ung er den olivengrønn, med alderen mer grønnsvart. Hatten er nedsunket i midten og lenge innrullet kant. Sotvokssopp (Hygrophorus camarophyllus) som er spiselig, har de samme fargene, men soppkjøttet kan trevles og den har ikke melkesaft."
+      "description": "Hattdiameter 3 - 10 cm. Stilkhøyde 3 - 8 cm. Hatten er først velvet med innrullet kant og blir etterhvert ganske flat og nedsunket i midten. Den har på alle stadier en spiss, vorteaktig pukkel i sentrum. Hatten er tørr og matt, lys eller mørk rødbrun, noen ganger med et grålilla islett. Skivene er først gulhvite, men blir med alderen rødgule. Sporefarge er hvit. Skivene er tilvokste til svakt nedløpende. Stilken er jevntykk med samme farge som hatten eller litt lysere. Ofte litt lodden ved stilkbasis. Gamle eksemplarer får ofte hul stilk. Soppkjøttet treveles ikke, er hvitt med et rosa annstrøk. Rikelig med uforanderlig hvit melkesaft. Svak lukt. Brennende skarp smak på skiver og soppkjøtt.",
+      "locations": "Den vokser i næringsfattig skog, helst furu og bjørk. Den vokser blant lyng, mose og lav. Er vanlig i hele landet og kan påtreffes høyt til fjells i bjørkeskogen og på lyngheier.",
+      "season": "August til snøen kommer",
+      "usage": "Må forvelles før den kan spises. Husk å slå vekk kokevannet. Mye brukt i Finland som saltet sopp. Har en spesiell smak, og en sopp man bør forsøke.",
+      "similarto": "Det finnes mange brune og brunaktige risker som kan forveksles med rødbrun pepperriske. Et viktig kjennetegn er den spisse vorten i hattens sentrum. De aller fleste kan brukes etter forvelling. Bare svartriske (Lactarius necator) og Lakrisrisken (Lactarius helvus) som er giftige og kreftfremkallende og bør absolutt ikke brukes. Lakrisrisken er den eneste risken som har vannklar saft. Hele soppen er lys gulbrun og fløyelsaktig hatthud. I tørket stand lukter den kraftig av karri"
     }
   ] 
 }
