@@ -318,6 +318,72 @@
       "season": "Juli ut September",
       "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
       "similarto": "Kan forveksles med Skarp Gulkremle (Russula ochroleuca) som er bundet til gran. Den regnes som uspiselig, men mange er uenig i det. Skarpheten forsvinner med varmebehandling. Kan også forveksles med andre gule kremler, men ingen er giftige."
+    },
+    {
+      "name": "russula paludosa",
+      "local_name": "Storkremle",
+      "images": [ "russula_paludosa1.jpg", "russula_paludosa2.jpg", "russula_paludosa3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 6 - 20 cm. Stilkhøyde 5 - 20 cm. Som ung er hatten nesten kuleformet, etterhvert blir den avflatet og nedsunket i midten og noe stripete i hattekanten. Hatthuden er eplerød til blodrød. Blekes litt av regn. Huden er glatt og blank og blir litt klebrig i fuktig vær. Hatthuden lar seg trekke av nesten helt inn til midten. Skivene er hvite og blir med alderen kremfarget. De er tynne, tette og tilvoksende og noe nedløpende. Av og til er skiveeggen svakt rød ytterst mot hattkanten. Sporefargen er krem til okergul. Stilken er jevntykk og hvit med et svakt innslag av rødt. Soppkjøttet er sprøtt, fast, uforanderlig hvitt og trevles ikke. Ubetydelig lukt, mild smak. De unge kan være litt skarpe i smak.",
+      "locations": "Finner de i barskog, gjerne med mye furu i fuktig terreng. Vanlig i hele landet.",
+      "season": "Juli til ut September",
+      "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
+      "similarto": "Kan forveksles med mange andre røde og rødlige kremler. Mest lik teglkremle (Russula velenovskyi) som er spiselig. Den skille seg ut ved å være gulhvit i midten."
+    },
+    {
+      "name": "russula xerampelina",
+      "local_name": "Sildekremle",
+      "images": [ "russula_xerampelina1.jpg", "russula_xerampelina2.jpg", "russula_xerampelina3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 12 cm. Stilkhøyde 4 - 10 cm. En gruppe kremler som for det meste kun skilles på fargen på hatten og stilk. Som ung er hatten hvelvet og blir etterhvert utbredt, nedsunket i midten, lenge med noe innrullet hattkant. Fargen varierer fra purpurrødog klart rød til nyanser av brunt, gråbrunt, olivenbrunt, olivengult og grønt. Ofte er midten noe mørkere. Skivene er hvite og blir med alderen okergule. Sporefargen er okergul. Stilken er hvit, ofte med innslag av rødt eller hattens farge. Skiver og stilk får brune flekker ved trykk og alder. Soppkjøttet er ved ung alder sprøtt og hvitt, men blir med alderen brungult og ganske mykt. Trevler ikke. Lukt av skalldyr som kan være svak hos unge eksemplarer, men relativt sterk hos gammel sopp. Mild og god smak.",
+      "locations": "Arter av sildekremle vokser i de fleste skogstyper, også over tregrensa. De vokser enkeltvis eller få sammen. Vanlig over hele landet.",
+      "season": "Juli til ut September",
+      "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
+      "similarto": "Kan forveksles med mange andre kremler. Brunfarging av kjøttet ved trykk og alder samt lukten er sikre kjennetegn."
+    },
+    {
+      "name": "russula integra",
+      "local_name": "Mandelkremle",
+      "images": [ "russula_integra1.jpg", "russula_integra2.jpg", "russula_integra3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 12 cm. Stilkhøyde 4 - 10 cm. Som ung er hatten halvkuleformet, blir etterhvert avflatet og noe nedsunket i midten. Fargen varierer i bruntoner fra gulbrunt til sjokoladebrunt til brunlilla, ofte med innslag av okergult slik at hatten kan virke skjoldete. Den er mørkere mot midten. Hatthuden er glatt, men blir litt klebrig i fuktig vær og har ofte fastklebet rusk og barnåler på seg. Hatthuden lar seg trekke av nesten inn mot midten. Skivene er gulhvite til okergule, tykke og fjernstilte, med kraftige tverrhår nærmest hattkjøttet. Stilken er hvit, fast og jevntykk, av og til med svak rosa tone. Sporefargen er okergul. Soppkjøttet er hvitt og fast, trevler ikke. Svak lukt, god smak som kan minne om mandler eller nøtter.",
+      "locations": "Finner den i næringsrik bar- og blandinsskog, gjerne kalkrikt. Er vanlig i nesten hele landet.",
+      "season": "Juli til ut September",
+      "usage": "Utmerket matsopp, både alene og i blandinger. Kan brukes rå i salater. Oppbevares best dypfryst, men kan også tørkes.",
+      "similarto": "Kan forveksles med flere andre brune kremler, også skarpe. Beste kjennetegn er de grove gulaktig skivene og de kraftige tverrårene."
+    },
+    {
+      "name": "russula vesca",
+      "local_name": "Nøttekremle",
+      "images": [ "russula_vesca1.jpg", "russula_vesca2.jpg", "russula_vesca3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 10 cm. Stilkhøyde 4 - 7 cm. Som ung er hatten halvkuleformet, blir etterhvert avflatet og noe nedsunket i midten. Fargen er kjøttrosa, i tørt vær med et rimet, lettpudret preg. Fargen er mørkest mot midten og ofte noe skjoldete med innslag av gult. Ett sikkert kjennetegn er at hatthuden er et nummer for liten slik at skivene synes. Den viser tenner. Skivene er hvite, tilvokste og får tidlig rustbrune flekker. Sporefarge hvit. Stilken er hvit og smalner av mot basis. Stilken får også ofte rustbrune flekker. Soppkjøttet er hvitt og fast og sprøtt, trevler ikke. Svak frisk lukt. Smaker som kan minne om rå hasselnøttkjerner.",
+      "locations": "Finner den i næringsrik blandinsskog, gjerne langs stier og skogsveier. Er vanlig i Sør Norge, men også nord til Nordland.",
+      "season": "Juli til ut September",
+      "usage": "En av de bedre matsoppene vi har, både alene og i blandinger. Utmerket rå i salater. Oppbevares best dypfryst.",
+      "similarto": "Kan forveksles med flere andre rødbrune kremler. Beste kjennetegn er at den viser tenner, har hvite skiver og er meget fast i kjøttet"
+    },
+    {
+      "name": "russula aueruginea",
+      "local_name": "Grønnkremle",
+      "images": [ "russula_aueruginea1.jpg", "russula_aueruginea2.jpg", "russula_aueruginea3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 10 cm. Stilkhøyde 4 - 8 cm. Som ung er hatten halvkuleformet, blir etterhvert avflatet og noe nedsunket i midten. Den har varierende grønnfarger fra gressgrønt via gulgrønt, grågrønt og olivengrønt. Den er ofte mørkere mot midten og bleker mot hattkanten. Sopphuden er glatt og glinsende i tørt vær, men svakt klebrig i fuktig vær. Hvite skiver som etterhvert blir kremfarget. Får rustrbune flekker ved insektangrep. Skivene er tilvokste mot stilken og noe gaffeldelte. Sporefarge er kremgul. Stilken er hvit og jevntykk. Kjøttet er fast og trevler ikke. Svak lukt og mild smak, men kan være litt skarp i skivene hos unge eksemplarer.",
+      "locations": "Grønnkremle er bundet til bjørk. Du kan finne de over hele landet.",
+      "season": "Juli til ut September",
+      "usage": "Fin matsopp som også egner seg til steking og i blandinger med andre kremler og annen sopp. Oppbevares best dypfryst, men kan også tørkes.",
+      "similarto": "Kan forveksles med flere andre grønne og grønnaktige kremler som alle er spiselige. Noen har forvekslet den med grønn fluesopp (Amanita phalloides) som er dødelig. Den har ring på stilken og stor hudpose, slire ved basis og kan trevles."
+    },
+    {
+      "name": "russula emetica",
+      "local_name": "Giftkremle",
+      "images": [ "russula_emetica1.jpg", "russula_emetica2.jpg", "russula_emetica3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 3 - 8 cm. Stilkhøyde 4 - 8 cm. Som ung er hatten nesten kuleformet, blir etterhvert hvelvet, så avflatet og noe nedsunket i midten. Hatten er skarpt rød, men avblekes lett i regn og kan da bli rosa, nesten hvit. Hatthuden er klebrig i fuktig vær, ellers glatt og nesten fettglinsende. Hatthuden kan trekkes helt av. Skivene er helt hvite og avrundet mot stilken. Sporefargen er hvit. Stilken er hvit og kan ofte virke noe gjennomskinnelig, voksaktig. Hele soppen er veldig sprø og skjør. Den knekker lett og trevler ikke. Kjøttet i stilken virker noe svampeaktig. Svak litt fruktaktig lukt og brennende skarp smak.",
+      "locations": "Den er vanlig i hele landet. Trives best i bar- og løvskog på fuktige myrlendte steder.",
+      "season": "Juli til Oktober",
+      "usage": "Svakt giftig. Gir ingen livstruende forgiftninger, bare kvalme og ubehag dersom man spiser nok av denne skarpe soppen.",
+      "similarto": "Kan forveksles med mange andre røde kremler hvor bare noen få av de er spiselig."
     }
   ] 
 }
