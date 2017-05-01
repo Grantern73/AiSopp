@@ -384,6 +384,61 @@
       "season": "Juli til Oktober",
       "usage": "Svakt giftig. Gir ingen livstruende forgiftninger, bare kvalme og ubehag dersom man spiser nok av denne skarpe soppen.",
       "similarto": "Kan forveksles med mange andre røde kremler hvor bare noen få av de er spiselig."
+    },
+    {
+      "name": "lactarius deliciosus",
+      "local_name": "Furumatriske",
+      "images": [ "lactarius_deliciosus1.jpg", "lactarius_deliciosus2.jpg", "lactarius_deliciosus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 15 cm. Stilkhøyde 3 - 7 cm. Hatten er først nesten rund, blir etterhvert mer hvelvet med innbøyd hattkant, for tilslutt bli nesten traktformet. Hatthuden har kraftige, litt gråoransje soner og kan også få grønne flekker. Skivene er oransje, tilvokste til svakt nedløpende. Sporefargen er hvit. Den har hul stilk. Stilken har samme farge som hatten med dropeformede groper i en sterkere oransj farge. Den gir fra seg en gulrotfarget melkesaft i brudd som blir grågrønn når den har tørket. Soppkjøttet er sprøtt og trevles ikke. Den lukter svakt og har en mild smak.",
+      "locations": "Den finnes i kalkrik furuskog. Den er mest vanlig på Vestlandet, men forekommer på Østlandet også. Den vokser i grupper eller rader.",
+      "season": "August ut September",
+      "usage": "Det er en god matsopp. Brukes alene eller i soppblandinger. Oppbevar den kokt i sin egen kraft og dypfryst.",
+      "similarto": "Forveksles med Granmatriske (Lactarius deterrimus) som også er spiselig. Granmatriske er bundet granskog. Observer voksested. Ingen andre store sopper har gulrotfarget melkesaft."
+    },
+    {
+      "name": "lactarius deterrimus",
+      "local_name": "Granmatriske",
+      "images": [ "lactarius_deterrimus1.jpg", "lactarius_deterrimus2.jpg", "lactarius_deterrimus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 12 cm. Stilkhøyde 3 - 7 cm. Hatten er først nesten rund, blir etterhvert mer hvelvet med innbøyd hattkant, for tilslutt bli nesten traktformet. Hatthuden er gulrotfarget til oransj med tette svake soner mot hattkanten, den får grønne flekker og kan ofte bli helt grønnaktig. Skivene er oransje, tilvokste til svakt nedløpende. Sporefargen er hvit. Den har hul stilk. Stilken er oransj og glatt. Den gir fra seg en gulrotfarget melkesaft i brudd som først blir vinrød og deretter grønn når den har tørket. Soppkjøttet er sprøtt og trevles ikke. Den lukter svakt og har en litt skarp smak.",
+      "locations": "Den finnes i fuktig næringsrik granskog over hele landet. Den vokser i grupper eller rader.",
+      "season": "August ut September",
+      "usage": "Det er en god matsopp. Brukes alene eller i soppblandinger. Oppbevar den kokt i sin egen kraft og dypfryst.",
+      "similarto": "Forveksles med Furumatriske (Lactarius deliciosus) som også er spiselig. Furumatriske er bundet furuskog. Observer voksested. Ingen andre store sopper har gulrotfarget melkesaft."
+    },
+    {
+      "name": "lactarius volemus",
+      "local_name": "Mandelriske",
+      "images": [ "lactarius_volemus1.jpg", "lactarius_volemus2.jpg", "lactarius_volemus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 5 - 12 cm. Hatten er først nesten flat med innrullet kant, blir etterhvert nedsenket i midten. Hatten er som å ta på en fersken, tørr og rødbrun til oransjebrun. Skivene er kremfarget, tilvokste til svakt nedløpende, tynne og står tett sammen. Sporene er kremfarget. Stilken er kraftig og smaler noe inn mot basis. Den er fast og noe lysere enn hatten. Den har rikelig med hvit melkesaft som drypper ved brudd. Hele soppen misfarges brun ved berøring og brudd. Soppkjøttet er fast og sprøtt, trevler ikke. Den lukter skalldyr og har en mild og god smak.",
+      "locations": "Du finner den enkeltvis eller bare få sammen. Vokser i blandingsskog, gjerne med eik, bøk, hassel og gran. Jordsmonnet bør være fuktig og næringsrikt. Ikke av de vanlige, men finnes i kystnære strøk til Møre og Romsdal.",
+      "season": "August til Oktober",
+      "usage": "Dette er en utmerket og spesiell matsopp. Noen mener den kan være litt for spesiell. Fin til steking. Den er også blandt de få som kan spises rå. Prøv den rå i tynne skiver med et lite salt og pepperdryss. Kan oppbevares dypfryst. Bruk den gjerne til retter med skalldyr eller fisk.",
+      "similarto": "Kan forveksles med Branngul riske (Lactarius mitissimus) som er spiselig, og andre rødbrune til oransje risker. Ingen av de lukter skalldyr og de er heller ikke regnet som spesielt gode matsopper. De fleste må forvelles eller utvannes og saltes før bruk. "
+    },
+    {
+      "name": "lactarius lignyotus",
+      "local_name": "Sotriske",
+      "images": [ "lactarius_lignyotus1.jpg", "lactarius_lignyotus2.jpg", "lactarius_lignyotus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 6 cm. Stilkhøyde 5 - 12 cm. Hatten er først hvelvet og blir ganske flat, ofte nedsunket i midten, der den har en liten spiss pukkel. Hatten er mørk svartbrun som mørk sjokolade, fløyelsaktig matt og fint rynket. Skivene er hvite og blir etterhvert med alderen okergule. Sporefargen er lys oker. Skivene er tilvokste til noe nedløpende. Et spesielt kjennetegn er at det ser ut som skivene går litt nedover stilken og går over til stilkens sjokoladebrune farge. Stilken er fløyelsaktig som hatten med noe lysere. Sotriske har mye melkesaft som langsomt går over til en rosa farge. Det samme gjør soppkjøttet. Soppen er myk og sprø og trevler ikke. Svak lukt og mild smak.",
+      "locations": "Den vokser nord til Nordland i gammel granskog der det gjerne er forholdsvis næringsfattig. Den er ikke vanlig med kan enkelte år påtreffes ganske ofte.",
+      "season": "August til Oktober",
+      "usage": "Sotriske er spiselig og god. Den blir rosa i stekepanna. Mange klassifiserer den ikke som spiselig, men den er ikke giftig. Kommer du over den så er det verdt å prøve.",
+      "similarto": "Kan forveksles med Røykriske (Lactarius fuliginosus) som er uspiselig og som ikke har folder øverst på stilken. Den er lysere både i hatten og på stilken. Svartriske (Lactarius necator) som er giftig og mye mer vanlig, smaker brennende skarpt. Som ung er den olivengrønn, med alderen mer grønnsvart. Hatten er nedsunket i midten og lenge innrullet kant. Sotvokssopp (Hygrophorus camarophyllus) som er spiselig, har de samme fargene, men soppkjøttet kan trevles og den har ikke melkesaft."
+    },
+    {
+      "name": "lactarius rufus",
+      "local_name": "Rødbrun pepperriske",
+      "images": [ "lactarius_lignyotus1.jpg", "lactarius_lignyotus2.jpg", "lactarius_lignyotus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 6 cm. Stilkhøyde 5 - 12 cm. Hatten er først hvelvet og blir ganske flat, ofte nedsunket i midten, der den har en liten spiss pukkel. Hatten er mørk svartbrun som mørk sjokolade, fløyelsaktig matt og fint rynket. Skivene er hvite og blir etterhvert med alderen okergule. Sporefargen er lys oker. Skivene er tilvokste til noe nedløpende. Et spesielt kjennetegn er at det ser ut som skivene går litt nedover stilken og går over til stilkens sjokoladebrune farge. Stilken er fløyelsaktig som hatten med noe lysere. Sotriske har mye melkesaft som langsomt går over til en rosa farge. Det samme gjør soppkjøttet. Soppen er myk og sprø og trevler ikke. Svak lukt og mild smak.",
+      "locations": "Den vokser nord til Nordland i gammel granskog der det gjerne er forholdsvis næringsfattig. Den er ikke vanlig med kan enkelte år påtreffes ganske ofte.",
+      "season": "August til Oktober",
+      "usage": "Sotriske er spiselig og god. Den blir rosa i stekepanna. Mange klassifiserer den ikke som spiselig, men den er ikke giftig. Kommer du over den så er det verdt å prøve.",
+      "similarto": "Kan forveksles med Røykriske (Lactarius fuliginosus) som er uspiselig og som ikke har folder øverst på stilken. Den er lysere både i hatten og på stilken. Svartriske (Lactarius necator) som er giftig og mye mer vanlig, smaker brennende skarpt. Som ung er den olivengrønn, med alderen mer grønnsvart. Hatten er nedsunket i midten og lenge innrullet kant. Sotvokssopp (Hygrophorus camarophyllus) som er spiselig, har de samme fargene, men soppkjøttet kan trevles og den har ikke melkesaft."
     }
   ] 
 }
