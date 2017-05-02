@@ -102,6 +102,10 @@ def do_upload():
             return render_template(
                 'index.html',
                 results=result)
+@app.route('/oversikt')
+def oversikt():
+    # returner oversikt over alle soppene som er registrert i systemet.
+    return render_template('oversikt.html', sopper='')
 
 @app.route('/sopp/<param>')
 def sopp(param):
@@ -145,6 +149,7 @@ def sopp(param):
         usage = "",
         similarto = "",
         year=datetime.now().year)
+
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS

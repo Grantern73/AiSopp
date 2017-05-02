@@ -161,6 +161,7 @@
     </Content>
     <Content Include="AiSopp\templates\admin.html" />
     <Content Include="AiSopp\templates\sopp.html" />
+    <Content Include="AiSopp\templates\oversikt.html" />
     <Content Include="favicon.ico">
       <Publish>True</Publish>
     </Content>

@@ -450,6 +450,28 @@
       "season": "August til Oktober",
       "usage": "Må forvelles før den kan spises. Husk å slå vekk kokevannet. Mye brukt i Finland som saltet sopp.",
       "similarto": "Kan ofte forveksles med Blek skjeggriske (Lactarius pubescens) som er spiselig etter forvelling. Det er vanskelig å skille fra avbleket eksemplar av Skjeggriske. Kan også ligne på gamle matrisker, men disse har gulrotfarget melkesaft og mangler skjegg i hattkanten. "
+    },
+    {
+      "name": "clitopilus prunulus",
+      "local_name": "Melsopp",
+      "images": [ "clitopilus_prunulus1.jpg", "clitopilus_prunulus2.jpg", "clitopilus_prunulus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 10 cm. Stilkhøyde 2 - 6 cm. Hatten er hvelvet med innrullet hattkant men blir med tiden avflatet og noe traktformet. Hattkanten blir bølgete, men er svakt innrullet ytterst i kanten. Legger du soppen i hånden med stilken opp, ser man at kanten danner en tydelig hvit innramming av soppen. Hatthuden er hvit til gråhvit, ofte noe melet, tørr og glatt. Skivene er langt nedløpende på stilken. De er kremhvite med et svakt rosaskjær, men blir etterhvert mer grårosa. Skivene kan løsnes fra hatten. Sporefargen er skittenrosa. Stilken er tynn og kort i forhold til hatten. Smaler av mot basis. Kjøttet er fra hvitt til gråhvitt, mykt. Lukter kraftig av fuktig mel, mild melaktig smak.",
+      "locations": "Du finner den ofte i gressmark i skog og langs skogsveier og stier. Vokser ofte i små grupper. Vanlig til nord i Troms, men vokser ikke i fjellet.",
+      "season": "August til Oktober",
+      "usage": "Førsteklasses matsopp. Brukes alene eller i blandinger med annen sopp. Oppbevares best dypfryst, men kan tørkes.",
+      "similarto": "Melsopp er ikke nybegynnersopp! Den kan forveksles med flere små hvite traktsopper som alle er giftige. Disse har hvite sporer. Hvit knippesopp (Lyophyllum connatum) som er giftig, kan også ligne. Den vokser stort sett i tette knipper, har tette hvite tilvokst til svakt nedløpende skiver, hvite sporer og har en karakteristisk litt syrlig lukt. Ekstra store eksemplarer kan av og til ligne på giftig rødskivesopp (Entoloma sinatum), fordi den også har rosa sporer. Denne har utrandete skiver, vokser med eik og bøk langs kysten til Møre og er sjelden. "
+    },
+    {
+      "name": "hygrophoropsis aurantiaca",
+      "local_name": "Falsk kantarell",
+      "images": [ "hygrophoropsis_aurantiaca1.jpg", "hygrophoropsis_aurantiaca2.jpg", "hygrophoropsis_aurantiaca3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 2 - 8 cm. Stilkhøyde 3 - 6 cm. Hatten er først flat med innrullet kant, etterhvert blir den nedsunket i midten og mer eller mindre traktformet. Hatten er glatt, nesten semsket med en oransjegul farge. Blekes i tørt vær. Skivene er nedløpende og noe gaffelgrenet mot stilken. De er oransje og ofte mørkere enn hatten. Sporefargen er hvit. Stilken er oransj, tynn og avsmalende mot basis. Soppkjøttet er oransj, tynt og mykt. Ubetydelig lukt og smak.",
+      "locations": "Du finner de ofte på rotten ved og stubber i barskog. Er ikke så avhengig av fuktighet som kantarell. Vanlig i det meste av landet.",
+      "season": "September til Oktober",
+      "usage": "Falsk kantarell er uspiselig.",
+      "similarto": "Forveksles ofte med Kantarell (Cantharellus cibarius) som er spiselig. Kantarellen har fast hvitt til blekgult kjøtt og er eggegul. "
     }
   ] 
 }
