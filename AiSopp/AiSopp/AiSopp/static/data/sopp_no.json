@@ -505,6 +505,17 @@
       "season": "September til November",
       "usage": "Ble tidligere brukt mye etter forvelling, men ikke nå lenger. Inneholder blåsyre.",
       "similarto": "Kan forveksles med giftig rødskivesopp (Entoloma sinautum) men denne har rosa sporer, utrandete skiver og er sjelden. Klubbetraktsopp (Clitocybe clavipes) som er svakt giftig, er mindre og har større fargekontraster med mer brunt i det grå. Stilken er mer oppsvulmet klubbeformet. Den vokser enkeltvis eller få sammen. "
+    },
+    {
+      "name": "calocybe gambosa",
+      "local_name": "Vårfagerhatt",
+      "images": [ "calocybe_gambosa1.jpg", "calocybe_gambosa2.jpg", "calocybe_gambosa3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 11 cm. Stilkhøyde 3 - 9 cm. Hatten er først nesten kuleformet, blir senere hvelvet men sjelden helt flat. Har lenge innrullet hattkant. Da soppen ofte vokser tett sammen, kan de bli noe uregelmessige i kanten. Hattens farge er kremhvit til lyst beige. Den er glatt og tørr. Skivene er tette, utrandete og kremhvite. Sporefarge hvit. Stilken er kremhvit, kraftig og noe trevlet, ofte utvidet mot basis. Soppkjøttet er hvitt, kjøttfullt og fast i hatten. Melaktig lukt, mild og noe melaktig smak. ",
+      "locations": "Vårfagerhatt krever kalkrik jord og trives i gressmatter og kratt av løvtrær, men også i litt tørre skråninger med furu og gran. Den vokser i store hekseringer som kan være titalls meter i diameter. Man ser derfor ofte bare deler av ringen, men se deg rundt så finner du kanskje andre deler av den. Ganske vanlig i kalkrike områder i lavlandet vest til Aust-Agder og nord til Trøndelag.",
+      "season": "Mai til Juni",
+      "usage": "Meget god og ettertraktet matsopp. Den gikk tidligere under navnet Vårmusserong, som henger igjen hos mange. Nyt den stekt med kun litt salt og pepper og kanskje litt fløte. Finner du mange, bør den hermetiseres. Dypfrysing har lett for å gjøre den seig. Den kan også tørkes.",
+      "similarto": "Svært få andre hvite sopper kommer så tidlig, men vårtrevlesopp (Inocybe erubescens) som er giftig, men også en veldig sjelden sopp. Den er klokkeformet, leirfarget og rødner ved overskjæring og har brune sporer. Forveksling kan også forekomme med giftig Rødskivesopp (Entoloma sinuatum) som også er en sjelden høstsopp som også kan komme tidlig i sesongen. "
     }
   ] 
 }
