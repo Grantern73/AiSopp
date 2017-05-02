@@ -439,6 +439,17 @@
       "season": "August til snøen kommer",
       "usage": "Må forvelles før den kan spises. Husk å slå vekk kokevannet. Mye brukt i Finland som saltet sopp. Har en spesiell smak, og en sopp man bør forsøke.",
       "similarto": "Det finnes mange brune og brunaktige risker som kan forveksles med rødbrun pepperriske. Et viktig kjennetegn er den spisse vorten i hattens sentrum. De aller fleste kan brukes etter forvelling. Bare svartriske (Lactarius necator) og Lakrisrisken (Lactarius helvus) som er giftige og kreftfremkallende og bør absolutt ikke brukes. Lakrisrisken er den eneste risken som har vannklar saft. Hele soppen er lys gulbrun og fløyelsaktig hatthud. I tørket stand lukter den kraftig av karri"
+    },
+    {
+      "name": "lactarius torminosus",
+      "local_name": "Skjeggriske",
+      "images": [ "lactarius_torminosus1.jpg", "lactarius_torminosus2.jpg", "lactarius_torminosus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 3 - 8 cm. Som ung sopp er hatten kraftig innrullet med en fordypning i midten. Den blir etterhvert avflatet til traktformet. Fargen er kjøttrosa og helt unge eksemplarer ser ut som de er pakket inn i rosa sukkerspinn. Dette spinnet blir på utvokst sopp hengende på hatten og i hattkanten slik at den ser litt lodden ut. Fargene blekes og restene etter sukkerspinnet forsvinner med alder og nedbør. Skivene er kremhvite med et rosa skjær. Tette, tilvokste til svakt nedløpende og gaffeldelte nærmest stilken. Sporefargen er hvit. Stilken er jevntykk og noe lysere enn hatten. Kompakt, men blir hul med alderen. Soppkjøttet er hvitt med et svakt rosa skjær. Det er sprøtt og trevler ikke. Uforanderlig hvit melkesaft. Lukter svakt, men har en brennende skarp smak.",
+      "locations": "Du finner den sammen med alle arter av bjørk. Vokser i lavlandet og helt opp til dvergbjørka på høyfjellet. Vanlig over hele landet.",
+      "season": "August til Oktober",
+      "usage": "Må forvelles før den kan spises. Husk å slå vekk kokevannet. Mye brukt i Finland som saltet sopp.",
+      "similarto": "Kan ofte forveksles med Blek skjeggriske (Lactarius pubescens) som er spiselig etter forvelling. Det er vanskelig å skille fra avbleket eksemplar av Skjeggriske. Kan også ligne på gamle matrisker, men disse har gulrotfarget melkesaft og mangler skjegg i hattkanten. "
     }
   ] 
 }
