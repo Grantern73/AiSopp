@@ -516,6 +516,17 @@
       "season": "Mai til Juni",
       "usage": "Meget god og ettertraktet matsopp. Den gikk tidligere under navnet Vårmusserong, som henger igjen hos mange. Nyt den stekt med kun litt salt og pepper og kanskje litt fløte. Finner du mange, bør den hermetiseres. Dypfrysing har lett for å gjøre den seig. Den kan også tørkes.",
       "similarto": "Svært få andre hvite sopper kommer så tidlig, men vårtrevlesopp (Inocybe erubescens) som er giftig, men også en veldig sjelden sopp. Den er klokkeformet, leirfarget og rødner ved overskjæring og har brune sporer. Forveksling kan også forekomme med giftig Rødskivesopp (Entoloma sinuatum) som også er en sjelden høstsopp som også kan komme tidlig i sesongen. "
+    },
+    {
+      "name": "lepista nuda",
+      "local_name": "Blå ridderhatt",
+      "images": [ "lepista_nuda1.jpg", "lepista_nuda2.jpg", "lepista_nuda3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 4 - 10 cm. Hatten er lenge hvelvet med innrullet hattkant. Senere blir den avflatet med bølgete hattkant. Hatthuden er voksaktig glatt. Fargen varierer fra blålilla, via brunlilla til nesten rent beige etter fuktigheten i været. En hygrofan sopp. Skivene er utrandet, nedløpende. Først blålilla, men blir etterhvert mer brunlilla. Sporefargen er svakt grårosa. Stilken er lys blå til lilla og hvitpudret øverst mot hatten. Ofte noe trevlet nedover stilken og oppsvulmet ved basis som er dekket av lodne mycelrester. Soppkjøttet er lyst lilla, mykt i hatten og noe trevlete i stilken. Spesiell og litt søtlig lukt. Mild smak. ",
+      "locations": "Denne vokser i ringer eller rader, ofte også bare noen få sammen. Liker seg på nåledekket under grant, i råttnende løv og komposthauger og næringsrike parker og hager. Vanlig i hele landet.",
+      "season": "September til November",
+      "usage": "Mange regner denne som førsteklasses matsopp, men meningen er delte. Det anbefales å forvelle den før bruk. Ikke bland den med annen god matsopp. Den kan muligens ha en litt gummismak som overdøver andre smaker. Den het tidligere Blåmusserong. Oppbevares dypfryst. ",
+      "similarto": "Kan forveksles med flere blå til båaktige slørsopper. Blant annet Blåkjøttbukkesopp (Cortinarius camphoratus) som er uspiselig. Den har blått soppkjøtt og stram, sterk bukkeaktig lukt. Brunkjøttbukkesopp (Cortinarius traganus) som også er uspiselig. Den har brunt soppkjøtt og søtlig lukt av råtnende epler. Alle slørsopper har brune sporer. "
     }
   ] 
 }
