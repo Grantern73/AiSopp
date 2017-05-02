@@ -472,6 +472,39 @@
       "season": "September til Oktober",
       "usage": "Falsk kantarell er uspiselig.",
       "similarto": "Forveksles ofte med Kantarell (Cantharellus cibarius) som er spiselig. Kantarellen har fast hvitt til blekgult kjøtt og er eggegul. "
+    },
+    {
+      "name": "clitocybe odora",
+      "local_name": "Grønn anistraktsopp",
+      "images": [ "clitocybe_odora1.jpg", "clitocybe_odora2.jpg", "clitocybe_odora3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 8 cm. Stilkhøyde 4 - 7 cm. Hatten er hvelvet til flat med litt innrullet kant, ofte med lav pukkel i midten. Kan med alderen få en traktform. Hatthuden er glatt, matt med blågrønn til grågrønn farge, ofte litt skjoldete og avbleket. Skivene er nedløpende, litt fjernstilte med samme farge som hatten. Sporefarge hvit. Stilken er kort i forhold til hatten og litt lysere. Soppkjøttet er mykt, hvitt med et grønnskjær. Lukter ganske sterkt av anis. Mild smak.",
+      "locations": "Vokser i små og store grupper i bar- og løvskog. Ofte på nåledekket under gran. Kan i enkelte år dukke opp i store mengder. Finnes i hele landet men mest i lavlandet på Østlandet.",
+      "season": "August til Oktober",
+      "usage": "En utmerket stekesopp, men også fin i blandinger. Oppbevares dypfryst.",
+      "similarto": "Med sin grønne farge og spesielle anislukt kan den neppe forveksles med noe annen sopp. Men vær oppmerksom på at det finnes en hvit anistraktsopp (Clitocybe fragrans) som er uspiselig. Den er mindre og har ikke noe grønt i fargen. Er lys grågul til horngrå, mørkere mot midten og stripete hattkant i fuktig vær. Lukter også anis. "
+    },
+    {
+      "name": "clitocybe geotropa",
+      "local_name": "Heggtraktsopp",
+      "images": [ "clitocybe_geotropa1.jpg", "clitocybe_geotropa2.jpg", "clitocybe_geotropa3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 10 - 20 cm. Hatten er først hvelvet med kraftig innrullet kant og har en tydelig vorte eller pukkel i midten. Den blir etterhvert avflatet og tilslutt dypt traktformet. Vorten eller pukkelen er tilstede hele tiden. Hatten er matt, glatt og lys beige til kremfarget. Skivene er ganske tette og nedløpende, noe lysere enn hatten. Sporefarge hvit. Stilken er høy og kraftig og noe stripet, samme farge som hatten. Stilken vokser raskt og unge eksemplarer er bare en liten hatt på en påfallende stor stilk. Kjøttet er hvitt og fast. Noe trevlet i stilken. Lukten kan minne om heggblomster. Hos eldre sopp kommer det ett innslag av bitter mandel. Mild smak.",
+      "locations": "Trives i kalkrik løvskog. Der vokser den i store hekseringer eller rader. Regnes ikke som vanlig, men enkelte steder kommer den hvert år. Funnet nord til Troms.",
+      "season": "August til November",
+      "usage": "Spiselig og god matsopp som egner seg bra til steking. Bruk helst unge eksemplarer. De eldre utgavene bør forvelles før bruk. Traktsopper utvikler med alderen blåsyre som fjernes ved forvelling.",
+      "similarto": "En spesiell sopp som ikke burde kunne forveksles med annet enn Kjempemusserong (Leucopaxillus giganteus) som er spiselig. Den er nesten helt hvit, men mangler vorten / pukkelen i midten. Myk i kjøttet og kan trevles. Vokser også i hekseringer eller rader. Bør også forvelles. "
+    },
+    {
+      "name": "clitocybe nebularis",
+      "local_name": "Puddertraktsopp",
+      "images": [ "clitocybe_nebularis1.jpg", "clitocybe_nebularis2.jpg", "clitocybe_nebularis3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 5 - 10 cm. Hatten er først hvelvet med innrullet kant. Blir etterhvert avflatet og litt traktformet med alderen. Får noe bølgete hattkant. Hattens farge er askegrå til lyst gråhvit, mørkest mot midten. Hvitpudret overflate på hatten. Skivene er kremhvite, tynne og tette og nedløpende. Sporefarge kremhvit. Stilken er litt lysere enn hatten og utvider seg noe mot basis. Soppkjøttet er hvitt og fast. Lukter intenst søtlig på grensen til kvalmende med et innslag av bitter mandel. Mild smak.",
+      "locations": "Vokser i store hekseringer eller rader i skog med mye næringsrik avfall av barstrø, løv og kompost. Kan også finne de i parker og hager. Vanlig i store deler av landet.",
+      "season": "September til November",
+      "usage": "Ble tidligere brukt mye etter forvelling, men ikke nå lenger. Inneholder blåsyre.",
+      "similarto": "Kan forveksles med giftig rødskivesopp (Entoloma sinautum) men denne har rosa sporer, utrandete skiver og er sjelden. Klubbetraktsopp (Clitocybe clavipes) som er svakt giftig, er mindre og har større fargekontraster med mer brunt i det grå. Stilken er mer oppsvulmet klubbeformet. Den vokser enkeltvis eller få sammen. "
     }
   ] 
 }
