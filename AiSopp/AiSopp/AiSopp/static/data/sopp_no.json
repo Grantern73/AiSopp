@@ -571,6 +571,61 @@
       "season": "Juli til Oktober",
       "usage": "Uspiselig, ikke matsopp.",
       "similarto": "Kan forveksles med flere gule musseronger.<br/> Brungul stubbemusserong (Tricholomopsis decora) som er uspiselig og har brune til svartbrune skjell. Den vokser fortrinsvis på granstubber. "
+    },
+    {
+      "name": "hygrophorus camarophyllus",
+      "local_name": "Sotvokssopp",
+      "images": [ "hygrophorus_camarophyllus1.jpg", "hygrophorus_camarophyllus2.jpg", "hygrophorus_camarophyllus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 12 cm. Stilkhøyde 4 - 12 cm. Hatten er lenge hvelvet og har ofte en pukkel. Etterhvert blir den utbredt med noe innrullet kant. Gammel sopp blir nedsunket i midten og kan virke traktformet. Gråsvart til brunsvart i fargen. Tørr og voksaktig glatt. Skivene er hvite med en svak grå til gråbrun tone. De er tykke og fjernstilt og langt nedløpende. Sporefargen er hvit. Stilken er hvit øverst, går så over i hattens farge eller noe lysere. Avsmalende og lysere mot basis. Svakt trådet, stripet. Soppkjøttet hvitt og voksaktig mykt, noe trevlet i stilken. Svak men behagelig lukt. Mild smak.",
+      "locations": "Du finner den i barskog blant mose og lav, hvor man ofte kan finne store grupper. Finnes over det meste av landet. ",
+      "season": "September til November",
+      "usage": "Meget god matsopp. Den kan få en søtaktig lukt og smak ved steking. Den passer i de fleste soppretter. Den er svært utsatt for insektangrep, så bruk unge eksemplarer og rens soppen godt i skogen. Oppbevares best dypfryst.",
+      "similarto": "Kan forveksles med Sotriske (Lactarius lignyotus) som er spiselig. Den har sprøtt soppkjøtt og melkesaft som anløper rosa. Ellers er det ingen vokssopper av denne størrelsen med slik fargesammensetning. "
+    },
+    {
+      "name": "hygrophorus erubescens",
+      "local_name": "Rødflekket vokssopp",
+      "images": [ "hygrophorus_erubescens1.jpg", "hygrophorus_erubescens2.jpg", "hygrophorus_erubescens3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 5 - 10 cm. Hatten er som ung halvkuleformet, etterhvert avflatet med lav, bred pukkel. Hatthuden er rosa i mange nyanser med purpurrøde flekker og prikker, noe klebrig. Den kan gulne litt med alderen. Skivene er voksaktig myke og hvite, men gulner litt med alderen og får purpurrøde flekker. Tilvokst til svakt nedløpende. Sporefargen er hvit. Stilken er ganske kraftig og smalner mot basis. Hvit til gulhvit med purpurrøde og rosa skjolder og prikker. Soppkjøttet er fast og hvitt, men gulner noe i brudd. Svak lukt og besk smak.",
+      "locations": "Finner den i næringsrik granskog. Vokser i lange rader eller ringer. Vanlig på Østlandet og i Trøndelag. Er også funnet Nord til Nordland.",
+      "season": "August til Oktober",
+      "usage": "Ikke matsopp",
+      "similarto": "Ligner på kremlevokssopp (Hygrophorus russula) som heller ikke er matsopp. Dette er en sjelden sopp på våre trakter. Den danner sopprot med eik."
+    },
+    {
+      "name": "hygrophorus hypothejus",
+      "local_name": "Frostvokssopp",
+      "images": [ "hygrophorus_hypothejus1.jpg", "hygrophorus_hypothejus2.jpg", "hygrophorus_hypothejus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 6 cm. Stilkhøyde 3 - 8 cm. Hatten er først hvelvet med innrullet kant, før den avflates og etterhvert nesten blir traktformet. Hattens farge er olivenbrun til kastanjebrun. Mørkest i midten og mer eller mindre avbleket mot kanten. Slimete i fuktig vær. Skivene er varierer i farge fra svakt gult, sitrongult og til oransjegult. Sporefargen er hvit. Stilken er tynn, slimete og gul til oransjegul med en slimkrans øverst. Soppkjøttet er lys gult. Svak lukt og mild smak.",
+      "locations": "Finner den i små grupper eller enkeltvis i furuskog blant mose og lav. Vanlig over hele landet.",
+      "season": "Sent på sessongen til ut i November",
+      "usage": "Spiselig og god. Egner seg godt i blanding med andre sopper, god også alene. Oppbevares best dypfryst, men kan også tørkes.",
+      "similarto": "Kan forveksles med Olivenbrun vokssopp (Hygrophorus olivaceoalbus) som er spiselig. Denne har hvite skiver og ingen oransje toner. Den vokser med gran."
+    },
+    {
+      "name": "hygrophorus olivaceoalbus",
+      "local_name": "Olivenbrun vokssopp",
+      "images": [ "hygrophorus_olivaceoalbus1.jpeg", "hygrophorus_olivaceoalbus2.jpeg", "hygrophorus_olivaceoalbus3.jpeg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 6 cm. Stilkhøyde 3 - 10 cm. Unge eksemplarer har en nesten klokkeformet hatt. Etterhvert hvelvet med innrullet kant. Tilslutt utbredt med en tydelig pukkel. Olivenbrun, nesten svart i midten og avbleket til lys oliven mot hattkanten. Hatten er slimete, i tørt vær har hatten en blank litt klebrig overflate. Skivene er hvite, vokaktige myke, tykke og fjernstilte, svakt nedløpende. Sporefargen er hvit. Stilken er høy og slank med en tørr hvit og noe knudrete sone øverst ved hatten. Nedenfor har stilken en slimkrans. Resten av stilken er slimete med en ujevn flammete olivenbrun tone. I tørt vær er stilken glatt. Soppkjøttet er hvitt, mykt og voksaktig. Lite lukt og mild smak.",
+      "locations": "Du finner den i små grupper, men ofte spredt. Den er knyttet til gran og er vanlig i plantet skog også.",
+      "season": "August til Oktober",
+      "usage": "Spiselig og god. Egner seg godt i blanding med andre sopper. Oppbevares best dypfryst, men kan også tørkes.",
+      "similarto": "Den har noen få forvekslingsarter, men disse mangler den slimte stilken. "
+    },
+    {
+      "name": "camarophyllus pratensis",
+      "local_name": "Engvokssopp",
+      "images": [ "camarophyllus_pratensis1.jpg", "camarophyllus_pratensis2.jpg", "camarophyllus_pratensis3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3 - 8 cm. Stilkhøyde 3 - 8 cm. Som ung er den hvelvet, etterhvert avflatet med bred pukkel. Hatthuden er gul-/aprikosfarget, tørr, glatt med fint bølget hattkant. Skivene er fra kremfarget til lyst oransj med lysere egg. De er tykke, langt nedløpende og fjernstilte og forbundet med tverrhår. Sporefargen er hvit. Stilken er lysere enn hatten, nesten hvit og avsmalende. Kjøttet er gulhvitt. Behagelig lukt og mild smak.",
+      "locations": "Du finner de enkelthvis eller i små grupper. Liker seg på gressmark og åpne lunder i barskog og løvskog. Finnes også i gress langs skogsveier og stier. Vokser langs kysten og på Østlandet.",
+      "season": "September til Oktober",
+      "usage": "God matsopp som bør nytes tilbredt alene, men går godt i blanding med annen sopp. Oppbevares dypfryst, men kan også tørkes.",
+      "similarto": "Forveksles ofte med kantarell (Cantharellus cibarius) som er veldig spiselig. Den er mer eggegul og har ribber og ikke skiver. Kan også forveksles med flere hvite-/gulaktige vokssopper med nedløpende skiver, men ingen giftige."
     }
   ] 
 }
