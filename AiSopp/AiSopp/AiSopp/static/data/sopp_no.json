@@ -549,6 +549,28 @@
       "season": "Midten av September til November",
       "usage": "En meget god matsopp. Utmerket alene eller i blandinger med annen sopp. Oppbevares dypfryst eller tørket. ",
       "similarto": "Kan forveksles med flere andre grå musseronger som Gallemusserong (Tricholoma virgatum) som er giftig. Den har spiss pukkel, ingen sitrongule skjolder og med en brennende skarp smak. Såpemusserong (Tricholoma saponaceum) som er giftig. Den har glatt hatt med svært variabel farge fra gråhvitt til grågrønn og nesten sort. Den rødner i brudd med alderen. Lukter sur oppvaskklut og grønnsåpeaktig. "
+    },
+    {
+      "name": "tricholoma equestre",
+      "local_name": "Riddermusserong",
+      "images": [ "tricholoma_equestre1.jpg", "tricholoma_equestre2.jpg", "tricholoma_equestre3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 4 - 10 cm. Hatten er hvelvet og blir etterhvert utbredt med lav pukkel, bølgete med noe innbøyd kant. Hatthuden er mer eller mindre radiært dekket av små rødbrune skjell på svovelgul bunn. Tettest/mørkest mot midten slik at den ofte kan virke helt rødbrun. Den er glatt og klebrig i fuktig vær. Skivene er sitrongule til svovelgule, tynne og tettstilte. De er tydelig utrandete. Sporefargen er hvit. Stilken har samme farge som skivene. Soppkjøttet er fast og hvitt. Lukter og smaker fuktig mel. ",
+      "locations": "Vi skiller mellom to typer. En litt spinkel, lys art som liker seg i løvskog, gjerne der det er mye osp. Den andre er kraftigere og mørkere som er knyttet til sandig furuskog. Begge regnes som en art hos oss og heter det samme. Ganske vanlig over hele landet. ",
+      "season": "Slutten av September til November",
+      "usage": "Riddermusserong er en førsteklasses matsopp og egner seg til det meste. Lagres dypfryst eller tørket. ",
+      "similarto": "Kan forveksles med flere gule musseronger og slørsopper.<br/> Bitter riddermusserong (Tricholoma aestuans) som er giftig, har en meget bitter smak som først kommer etter en stund etter at man har smakt på soppen og som forsterker seg lenge etterpå. Stilken avsmales øverst mot hatten, ellers en absolutt dobbeltgjenger til Riddermusserong. <br/> Svovelmusserong (Tricholoma sulphureum) som er giftig og har en ekkel gassaktig lukt. <br/> Kanarigul slørsopp (Cortinarius splendens) som er meget giftig hvor sporefargen er brun. Det er en sjelden sopp hos oss. "
+    },
+    {
+      "name": "tricholomopsis rutilans",
+      "local_name": "Rød stubbemusserong",
+      "images": [ "tricholomopsis_rutilans1.jpg", "tricholomopsis_rutilans2.jpg", "tricholomopsis_rutilans3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 4 - 10 cm. Hatten er i starten nesten klokkeformet, etterhvert blir den mer hvelvet og så avflatet. Har lenge innrullet hattkant. Hatten er dekket av vinrøde skjell på gul bunn. På helt unge eksemplarer sitter skjellene så tett at soppen virker nesten helt vinrød og fløyelsaktig. Senere blir det større avstand mellom skjellene og gammel sopp kan virke helt gul, med rester av litt rødt. Skivene er gule, litt taggete i eggen, utrandete og svakt nedløpende. Sporefarge hvit. Stilken er gul med vinrøde skjell øverst. Ofte bøyet nederst ved basis. Soppkjøttet er fast og gulhvitt. Svak lukt, mild smak med noe besk ettersmak.",
+      "locations": "Finner de enkeltvis eller i små grupper på råtne stubber og røtter av bartrær, vanligst på furu. Vanlig i hele landet. ",
+      "season": "Juli til Oktober",
+      "usage": "Uspiselig, ikke matsopp.",
+      "similarto": "Kan forveksles med flere gule musseronger.<br/> Brungul stubbemusserong (Tricholomopsis decora) som er uspiselig og har brune til svartbrune skjell. Den vokser fortrinsvis på granstubber. "
     }
   ] 
 }
