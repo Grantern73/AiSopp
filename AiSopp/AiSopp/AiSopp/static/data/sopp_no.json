@@ -527,6 +527,28 @@
       "season": "September til November",
       "usage": "Mange regner denne som førsteklasses matsopp, men meningen er delte. Det anbefales å forvelle den før bruk. Ikke bland den med annen god matsopp. Den kan muligens ha en litt gummismak som overdøver andre smaker. Den het tidligere Blåmusserong. Oppbevares dypfryst. ",
       "similarto": "Kan forveksles med flere blå til båaktige slørsopper. Blant annet Blåkjøttbukkesopp (Cortinarius camphoratus) som er uspiselig. Den har blått soppkjøtt og stram, sterk bukkeaktig lukt. Brunkjøttbukkesopp (Cortinarius traganus) som også er uspiselig. Den har brunt soppkjøtt og søtlig lukt av råtnende epler. Alle slørsopper har brune sporer. "
+    },
+    {
+      "name": "tricholoma album",
+      "local_name": "Reddikmusserong",
+      "images": [ "tricholoma_album1.jpg", "tricholoma_album2.jpg", "tricholoma_album3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 5 - 12 cm. Stilkhøyde 5 - 8 cm. Hatten er først klokkeformet, så hvelvet med innbøyd kant. Etterhvert mer avflatet med pukkel av variabel størrelse. Eldre individer får en riflet kant på hatten. Hatthuden er rent hvit, tørr og matt. Med alderen får den en lys gulbrun tone, denne brer seg fra midten og utover. Ved trykk kan den også få lysbrune eller lysegrå flekker. Skivene er utrandete, hvite, tynne og tettstilte. Sporefarge hvit. Stilken er kraftig og kompakt, hvit og jevntykk, ofte med brune flekker ved basis. Soppkjøttet er hvitt og fast i hatten. Noe trevlete i stilken. Lukten er skarp og minner om reddik. Smaken er også skarp og reddiklignende. ",
+      "locations": "Danner sopprot med bjørk. Den vokser i store ringer eller rader. Forekommer ofte i store mengder i løv- og blandingsskog, og ellers der det vokser bjørk. Også i fjellbjørkeskog. Er vanlig over hele landet, men sjeldnere på Vestlandet og i fjellet.",
+      "season": "August til Oktober",
+      "usage": "Uspiselig, muligens svakt gift ",
+      "similarto": "Kan av ukyndige forveklses med hvite sjampinjong, men de har rosa til sjokoladebrune skiver og ring på stilken. Den kan også forveksles med Silkemusserong (Ticholoma columbetta) som er spiselig og en ettertraktet, men forholdsvis sjelden matsopp. Den er vanligst på Vestlandet og er funnet nord til Troms. Silkemusserongen er også bundet til bjørk. Den har hvit hatthud, innvokste silkeaktige radiære fibre som gjør hatten skinnende blank. Hvit trevlet stilk ofte med grønne eller rødaktig skjolder ved stilkbasis. Mild melaktig smak og lukt. "
+    },
+    {
+      "name": "tricholoma portentosum",
+      "local_name": "Gråmusserong",
+      "images": [ "tricholoma_portentosum1.jpg", "tricholoma_portentosum2.jpg", "tricholoma_portentosum3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 4 - 10 cm. Hatten er som ung klokkeformet med innrullet kant, blir etterhvert utbredt med tydelig pukkel. Hattkanten blir noe bølget og oppsprukket. Fargen på hatthuden skapes av tynne sorte, radiære fibre eller tråder på hvit bunn. Jo tettere disse fibrene sitter, jo mørkere blir hatten. Den er derfor alltid mørkest mot midten. Fargen varierer fra lys grå til gråsvart. Den er glatt og blank, litt klebrig i fuktig vær. Skivene er hvite til gråhvite, utrandet med lyst sitrongule skjolder. Sporefargen er hvit. Stilken er fast, glatt og hvit. Den får også gule skjolder. Soppkjøttet er fast, hvitt, ofte med sitrongult skjær, spesielt under hatthuden. Lukter og smaker fuktig mel. ",
+      "locations": "Ganske vanlig over hele landet. Liker seg ofte dypt nede i mosedekket i litt sandholdig sur gran- og løvskog. Vokser i store grupper eller ringer.",
+      "season": "Midten av September til November",
+      "usage": "En meget god matsopp. Utmerket alene eller i blandinger med annen sopp. Oppbevares dypfryst eller tørket. ",
+      "similarto": "Kan forveksles med flere andre grå musseronger som Gallemusserong (Tricholoma virgatum) som er giftig. Den har spiss pukkel, ingen sitrongule skjolder og med en brennende skarp smak. Såpemusserong (Tricholoma saponaceum) som er giftig. Den har glatt hatt med svært variabel farge fra gråhvitt til grågrønn og nesten sort. Den rødner i brudd med alderen. Lukter sur oppvaskklut og grønnsåpeaktig. "
     }
   ] 
 }
