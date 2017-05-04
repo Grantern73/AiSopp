@@ -49,7 +49,7 @@ clitopilus prunulus
 leccinum aurantiacum
 russula vesca
 boletus edulis
-hygrophorus pratensis
+hygrocybe pratensis
 russula xerampelina
 boletus badius
 ramaria botrytis
