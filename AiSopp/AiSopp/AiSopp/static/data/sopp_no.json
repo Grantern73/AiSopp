@@ -637,6 +637,17 @@
       "season": "September til Oktober",
       "usage": "God matsopp som bør nytes tilbredt alene, men går godt i blanding med annen sopp. Oppbevares dypfryst, men kan også tørkes.",
       "similarto": "Forveksles ofte med kantarell (Cantharellus cibarius) som er veldig spiselig. Den er mer eggegul og har ribber og ikke skiver. Kan også forveksles med flere hvite-/gulaktige vokssopper med nedløpende skiver, men ingen giftige."
+    },
+    {
+      "name": "armillaria mellea",
+      "local_name": "Honningsopp",
+      "images": [ "armillaria_mellea1.jpg", "armillaria_mellea2.jpg", "armillaria_mellea3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 3 - 12 cm. Stilkhøyde 5 - 15 cm. Den ekte honnigsoppen finnes ikke i Norge, men vi har minst 4 nærstående arter, men disse er dårlig utredet hos oss. Hatten er som helt ung halvkuleformet til rund med ett hudlag mellom hattkanten og stilk. Senere hvelvet og avflatet. Hatthuden er dekket av mørke eller lyse skjell på lys gulbrun bunn. Skjellene sitter tettest mot midten. Hattkanten er ofte stripet. Skivene er nesten hvite til kremgule, fastvokst til stilken og nedløpende eller utrandet. Sporefargen er hvit som ofte kan sees på underliggende hatter. Stilken har en tydelig ring fra da det var hud som dekket skivene som ung. Stilken er gulbrun og mørkner med alderen. En art har oppsvulmet basis med gule skjell både på hatt og stilk. Lukter svakt honningaktig. Soppkjøttet er gulhvitt og mykt i hatten. Stilken er hard og trevlete. Smaker først mildt, men siden beskt.",
+      "locations": "Vokser i knipper på levende trær og finnes i all slags skog, parker og hager. Det er en kjedelig parasitt da den dreper sine vertstrær.",
+      "season": "August til Oktober",
+      "usage": "Uspiselig. Tidligere ble den regnet som god matsopp, men halvparten som spiser den blir syke med diare og kvalme.",
+      "similarto": "Kan forveksles med flere knippevoksende sopper som lever på ved. Bare honningsoppene har hvite sporer og kraftig ring på stilken."
     }
   ] 
 }
