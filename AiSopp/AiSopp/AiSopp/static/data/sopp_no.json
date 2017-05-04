@@ -617,6 +617,17 @@
       "similarto": "Den har noen få forvekslingsarter, men disse mangler den slimte stilken. "
     },
     {
+      "name": "hygrocybe punicea",
+      "local_name": "Skarlagenvokssopp",
+      "images": [ "hygrocybe_punicea1.jpg", "hygrocybe_punicea2.jpg", "hygrocybe_punicea3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 4 - 12 cm. Unge eksemplarer er klokke- til kjegleformet, etterhvert utbredt og ofte med lav pukkel. Hatten er skarlagenrød, men avblekes med alderen til gulrødt mot midten og hattkanten. Hattuden er glatt og voksaktig, litt klebrig i fuktig vær. Hattkanten bølger litt og er noe oppsprukken på eldre eksemplarer. Skivene er blekgule til oransjegule. De er tykke, fjernstilt og utrandete. Sporefargen er hvit. Stilken er relativt kraftig, gul til gulrødt og hvit i stilkbasis. Den røde fargen skapes av mer eller mindre langsgående røde tråder eller trevler på gul bunn. Soppkjøttet er fast, gullhvitt, nesten hvitt i stilken og ofte med et rosa skjær. Svak lukt og mild smak.",
+      "locations": "Liker seg i vissent løv i løvskog, på beitemarker i parker og skogsbryn. På strandenger, ofte under einer. De står ofte enkeltvis eller i grupper. Ikke en vanlig sopp, men kan i enkelte år dukke opp i mengder. Vokser over det meste av landet.",
+      "season": "September til November",
+      "usage": "En meget god matsopp som bør tilbredes alene da annen sopp kan skjule den milde smaken. Stek den i smør med litt salt og pepper, det er alt som skal til.",
+      "similarto": "Kan forveksles med flere røde vokssopper, men ingen er større enn denne. Vanligste forveksling er Mønjevokssopp (Hygrocybe coccinea) som er spiselig. Denne er betydelig mindre og vanligere. Den mangler det hvite nede på stilkbasis. "
+    },
+    {
       "name": "camarophyllus pratensis",
       "local_name": "Engvokssopp",
       "images": [ "camarophyllus_pratensis1.jpg", "camarophyllus_pratensis2.jpg", "camarophyllus_pratensis3.jpg" ],
