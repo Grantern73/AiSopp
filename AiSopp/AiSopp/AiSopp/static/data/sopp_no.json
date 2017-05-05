@@ -12,6 +12,28 @@
       "similarto": "Ingen spesielle sopper den ligner på, kanskje med unntak av Stor parasollsopp."
     },
     {
+      "name": "agaricus silvicola",
+      "local_name": "Snøballsjampinjong",
+      "images": [ "agaricus_silvicola1.jpg", "agaricus_silvicola2.jpg", "agaricus_silvicola3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 6 - 15 cm. Stilkhøyde 6 - 12 cm. Hatten er først nesten kulerund med avflatet topp. Blir deretter hvelvet og til slutt nesten helt flat. Den er hvit til svakt gulhvit, silketrådet matt, glatt og ikke klebrig i fuktig vær. Ved håndtering eller skraping blir hatt og stilk halmgule. Skivene er som helt unge svakt grårosa, etterhvert kraftigere og tilslutt sjokoladebrune. Skivene er fri fra stilk. Sporefarge er mørk sjokoladebrun. Stilken er kraftig, ikke elastisk og forholdsvis jevntykk. Klubbeaktig utvidet ved basis. Den har en tynn og nedhengende ring. Soppkjøttet er fast og hvitt. Lukter anisaktig. Smaken minner om mandler.",
+      "locations": "Du finner den helst i gammel granskog med tykt nåledekke. Vanlig i lavlandet over det meste av landet.",
+      "season": "Juli til Oktober.",
+      "usage": "Regnes som en av våre mest velsmakende sopper. Finner du mange nok, tilbred dem for seg selv. Ellers bruk i blandinger. Oppbevares dypfryst.",
+      "similarto": "Kan forveksles med flere. Åkersjampinjong (Agaricus arvensis) som er spiselig, er nesten identisk. Skilles på voksested, da åkersjampinjong vokser i næringsrik åpen gressmark.<br/> Hvit fluesopp (Amanita virosa) som er veldig giftig. Den er uforanderlig hvit i alle deler, har slire, er klebrig i fuktig vær og lukter ubehagelig.<br/>Stor kragesopp (Stropharia hornemannii) som er uspiselig. Den har sorte sporer, en ring med stripete overside. Stilken er trådete, skjellete nedenfor ringen. Skivene er tilvokst til stilken som er fastvokst med hatten. Hatten er lys beige og noe klebrig. "
+    },
+    {
+      "name": "agaricus silvaticus",
+      "local_name": "Blodjampinjong",
+      "images": [ "agaricus_silvaticus1.jpg", "agaricus_silvaticus2.jpg", "agaricus_silvaticus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 10 cm. Stilkhøyde 5 - 11 cm. Hatten er først halvkuleformet, nesten kulerund, men folder seg etterhvert ut og blir hvelvet, nesten flat. Den har nøttebrune til gråbrune små tiltrykte skjell på lysere bunn. Skivene er først grårosa og blir tilslutt mørkt sjokoladebrune med lysere skiveegg. De er tettstilte og frie fra stilken. Sporefargen er mørk brun. Stilken er forholdsvis tynn og hul, gråhvit, ofte med en rosa tone. Litt utvidet knollformet basis. Øverst er det en nedhengende hvit ring med stripete overside og fnugget underside. Stilk og hatt rødner ved håndtering og skraping. Soppkjøttet er hvitt, men blir raskt mer eller mindre rosa ved overskjæring. Svak lukt, mild smak.",
+      "locations": "Du finner de helst i nåledekket under grantrær og i gamle maurtuer. Kan også dukke opp blant gress og urter i gammel granskog. Vanlig i Sør-Norge. Sjelden i Nord-Norge.",
+      "season": "August og September.",
+      "usage": "Den er spiselig og god, men kan ikke helt måle seg med sjampinjonger som gulner og har anis/mandelaktig smak og lukt. Fin stekesopp, gjerne i blandinger. Oppbevares dypfryst, men kan også tørkes.",
+      "similarto": "Kan forveksles med flere. Stor blodsjampinjong (Agaricus langei) som er spiselig. Den er større og kraftigere. Den rødner kraftig i brudd, kan nesten se ut som den blør. Ikke så vanlig hos oss.<br/>Noen slørsopper rødner i brudd og kan forveksles med blodsjampinjong. Slørsoppen mangler ring, og de har et mer mellombrunt sporepulver. Flere er giftig. "
+    },
+    {
       "name": "albatrellus ovinus",
       "local_name": "Fåresopp",
       "images": [ "albatrellus_ovinus1.jpg", "albatrellus_ovinus2.jpg", "albatrellus_ovinus3.jpg" ],
@@ -120,6 +142,17 @@
       "season": "August til Oktober",
       "usage": "Uspiselig, muligens svakt giftig.",
       "similarto": "Blå ridderhatt, Lepista nuda (spiselig). Er også ganske lik en rekke andre lilla og blå slørsopper."
+    },
+    {
+      "name": "coprinus comatus",
+      "local_name": "Matblekksopp",
+      "images": [ "coprinus_comatus1.jpg", "coprinus_comatus2.jpg", "coprinus_comatus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2-6 cm. Stilkhøyde 6 - 20 (25) cm. Hatten er rent hvit og mer eller mindre sylindrisk med avrundet beige topp. Den er glatt, mens resten av hatten er flosset / skjellet. Hatten dekker minst 2/3 av stilken og brer seg med alderen litt ut nederst. Får en klokkeform. Skivene er hvite, frie og meget tettstilte. Sporefarge er sort. Stilken er tynn, hul og glatt. Den har en litt oppsvulmet basis. Stilken har også en ring. Matbleksoppen utvikler seg veldig raskt. Hatten blir etterhvert mørkere nederst. Soppen blir gradvis sort, for tilslutt å bli nesten flytende. Den går i blekk. Tilslutt står bare stilken igjen med en sort visp på toppen. Soppkjøttet er hvitt, tynt og løst i hatten, fast i stilken. Spesiell lukt, mild smak.",
+      "locations": "Trives i næringsrik jord. Krever store mengder nedbør. Gjerne på jorder og plener som er husdyrgjødslet. Vokser veldig raskt. Fra liten sprett til stor sopp kan det gå så kort som bare noen dager. Vanlig i hele landet.",
+      "season": "August til langt utover høsten",
+      "usage": "Spiselig og god matsopp. Skill hatt og stilk fra hverandre når du plukker den. Det sinker blekkifiseringen. Egner seg best til supper og stuinger. Oppbevares best kokt i sin egen kraft dypfryst. Kan ikke tørkes.",
+      "similarto": "Det er ingen forvekslingsarter, men det er verdt å merke seg at Grå Blekksopp (Coprinus atramentarius) som regnes som uspiselig og er giftig dersom man inntar alkohol. Den er glatt sølvgrå med små skjell, ikke flosset eller håret. Hatten dekker ikke mer enn halve stilken. Den er spiselig for de som ikke nyter alkohol. Men sikkert verdt å holde seg unna. "
     },
     {
       "name": "galerina marginata",
