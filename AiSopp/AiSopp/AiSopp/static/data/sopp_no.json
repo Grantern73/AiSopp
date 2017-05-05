@@ -34,17 +34,6 @@
       "similarto": "Forveksles ofte med Fåresopp, Albatrellus ovinus."
     },
     {
-      "name": "amanita rubescens",
-      "local_name": "Rødnende fluesopp",
-      "images": [ "amanita_rubescens1.jpg", "amanita_rubescens2.jpg", "amanita_rubescens3.jpg" ],
-      "risk": "0",
-      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 6 - 15 cm. Hatten er først klokkeformet, men blir etterhvert hvelvet for så å bli nesten helt flat. Det er stor variasjon i hattefargen ettersom hva slags skog den vokser i. Den går fra helt hvit med et svakt rosaskjær, via brunrosa til mørk grårosa. Hatten er mer eller mindre dekket av små gråhvite hudlapper som står opp som spisse skjell. Hudlappene løsner lett. På de lyseste eksemplarene blir de ofte skylt vekk av regn. Hattekanten er glatt uten striper. Skivene er myke, tynne, tettstilte og frie fra stilk. De er først hvite, med alderen rødflekkete og kan hos noen eksemplarer virke hudfarget. Sporefargen er hvit. Stilken er like variabel som hatten med farge fra nesten helt hvit via rødlig sandfarge til grårosa. Øverst har den en stor hvit, nedhengende og stripete ring. Over denne er stilken hvit. Stilkbasis er knollformet med uregelmessige skjellkranser. Soppkjøttet er hvitt, men rødner i brudd. Lukter som rå poteter. Smaken er mild med lett syrlig innslag.",
-      "locations": "Den er vanlig i de fleste skogstyper. De bleke og tynne vokser sammen med gran. De kraftigere og rødbrune i blandingsskog med mye løvtrær. De største grårosa vokser i edelløvskog. Vanlig i lavlandet nord til Troms.",
-      "season": "Juli til September",
-      "usage": "Er spiselig, men er stor forskjell på de. De lyse barskogsartene anbefales ikke til mat, må i såfall forvelles godt før bruk. De kraftige edelløvskogsartene er utmerket matsopp. Hattehuden bør flås av før bruk.",
-      "similarto": "Kan forveksles med flere fluesopper. Grå fluesopp, Amanita spissa (ikke matsopp). Panterfluesopp, Amanita pantherina (giftig). Rødnende fluesopp er den eneste fluesoppen som rødner i kjøttet ved skjæring. Alle andre fluesopper forblir hvitt kjøtt. "
-    },
-    {
       "name": "boletus badius",
       "local_name": "Svartbrun rørsopp",
       "images": [ "boletus_badius1.jpg", "boletus_badius2.jpg", "boletus_badius3.jpg" ],
@@ -659,6 +648,72 @@
       "season": "Juli ut September",
       "usage": "Denne er spiselig og god. En ettertraktet matsopp som for eksempel kan paneres og stekes som biff. Egner seg svært godt til tørking. Stilken er harde og bør tørkes slik at de da kan brukes som soppsnacks eller males opp til mel.",
       "similarto": "Denne kan neppe forveksles med noe annen sopp."
+    },
+    {
+      "name": "macrolepiota rhacodes",
+      "local_name": "Rødnende parasollsopp",
+      "images": [ "macrolepiota_rhacodes1.jpg", "macrolepiota_rhacodes2.jpg", "macrolepiota_rhacodes3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 10 - 15 cm. Stilkhøyde 15 - 20 cm. Som helt ung er hatten kuleformet, brun til gråbrun og nesten glatt. Ser ut som en klubbe. Den blir etterhvert klokkeformet for til slutt å bli nesten flat. Når den vokser sprekker hatthuden opp i tydelig gråbrune, frynsete skjell på hvit bunn. Skivene er tynne og hvite, tettstilte, frie fra stilken og rødner i brudd. Sporefargen er hvit. Hatten lar seg lett skille fra stilken. Den er festet som en propp i hatten. Stilken er veldig høy og slank, den rødner ved skraping. Den har en dobbel ring som ikke er fastvokst på stilken og den kan derfor beveges. Stilken gråbrun og glatt. Stilkbasis er oppsvulmet, løkformet. Hattkjøttet er hvitt, tynt og bløtt, mens stilken er hard og trevlet. Soppkjøttet i hatt og stilk rødner i brudd og ved overskjæring. Lukter behagelig og smaker nøtteaktig.",
+      "locations": "Vokser enkelthvis eller i grupper på nåledekket under gran, på gamle maurtuer og komposthauger. Ganske vanlig over hele landet.",
+      "season": "August og September",
+      "usage": "Denne er spiselig og god. En ettertraktet matsopp som for eksempel kan paneres og stekes som biff. Egner seg svært godt til tørking. Stilken er harde og bør tørkes slik at de da kan brukes som soppsnacks eller males opp til mel.",
+      "similarto": "Den kan forveksles med andre mindre parasollsopper, men disse rødner ikke. Det finnes en variant av rødnende pasollsopp som trives i drivhus og på ekstra fet og næringsrik jord, men disse kan gi magetrøbbel. Den kan også forveksles med rødnende fluesopp (Amanita rubescens), men den er også spiselig, så forveksling er ufarlig. "
+    },
+    {
+      "name": "amanita rubescens",
+      "local_name": "Rødnende fluesopp",
+      "images": [ "amanita_rubescens1.jpg", "amanita_rubescens2.jpg", "amanita_rubescens3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 6 - 15 cm. Hatten er først klokkeformet, men blir etterhvert hvelvet for så å bli nesten helt flat. Det er stor variasjon i hattefargen ettersom hva slags skog den vokser i. Den går fra helt hvit med et svakt rosaskjær, via brunrosa til mørk grårosa. Hatten er mer eller mindre dekket av små gråhvite hudlapper som står opp som spisse skjell. Hudlappene løsner lett. På de lyseste eksemplarene blir de ofte skylt vekk av regn. Hattekanten er glatt uten striper. Skivene er myke, tynne, tettstilte og frie fra stilk. De er først hvite, med alderen rødflekkete og kan hos noen eksemplarer virke hudfarget. Sporefargen er hvit. Stilken er like variabel som hatten med farge fra nesten helt hvit via rødlig sandfarge til grårosa. Øverst har den en stor hvit, nedhengende og stripete ring. Over denne er stilken hvit. Stilkbasis er knollformet med uregelmessige skjellkranser. Soppkjøttet er hvitt, men rødner i brudd. Lukter som rå poteter. Smaken er mild med lett syrlig innslag.",
+      "locations": "Den er vanlig i de fleste skogstyper. De bleke og tynne vokser sammen med gran. De kraftigere og rødbrune i blandingsskog med mye løvtrær. De største grårosa vokser i edelløvskog. Vanlig i lavlandet nord til Troms.",
+      "season": "Juli til September",
+      "usage": "Er spiselig, men er stor forskjell på de. De lyse barskogsartene anbefales ikke til mat, må i såfall forvelles godt før bruk. De kraftige edelløvskogsartene er utmerket matsopp. Hattehuden bør flås av før bruk.",
+      "similarto": "Kan forveksles med flere fluesopper. Grå fluesopp, Amanita spissa (ikke matsopp). Panterfluesopp, Amanita pantherina (giftig). Rødnende fluesopp er den eneste fluesoppen som rødner i kjøttet ved skjæring. Alle andre fluesopper forblir hvitt kjøtt. "
+    },
+    {
+      "name": "amanita muscaria",
+      "local_name": "Rød fluesopp",
+      "images": [ "amanita_muscaria1.jpg", "amanita_muscaria2.jpg", "amanita_muscaria3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 10 - 20 cm. Stilkhøyde 10 - 25 cm. Vår mest kjente sopp. Hatten er først kuleformet og utvikler seg etterhvert til å bli nesten flat, ofte noe nedsunket i midten. Den har svakt innbøyd stripet hattkant. Som ung kan den nesten ligne på en røyksopp fordi den er dekket av ett ytre hylster, en tykk hvit hud som beskytter soppen mens den er ung. Etterhvert sprekker denne opp og danner hvite til gulhvite vortelignende hudlapper jevnt fordelt over den skarlagensrøde hatten. Hatthuden lar seg lett dra helt av og da ser man at soppkjøttet er gult rett under hatthuden. Ellers har soppen hvitt soppkjøtt. I regnvær kan hudflappene vaskes av og fargen blekes. Hatthuden blir klebrig i fuktig vær. Skivene er tettstilte og frie fra stilken. Hvite skiver. Sporefarge er hvit. Stilken er hvit med en knollformet basis som er dekket av hvite skjellkranser. Øverst på stilken er det en kraftig nedhengende ring, ofte med gule flekker i kanten. Lukter svakt, mild og behagelig smak.",
+      "locations": "Du finner den i skog med bjørk og gran. Enkelte år kan den forekomme i store mengder. Vanlig i hele landet.",
+      "season": "August og September",
+      "usage": "Rød fluesopp er giftig. Den gir magesmerter med oppkast og diare.",
+      "similarto": "Hvis regnet har vasket vekk de hvite prikkene og bleket fargen, så kan den forveksles med Gulrød kremle (Russula decolorans). Kremler har sprøtt kjøtt og hatthuden kan ikke trekkes av hatten.<br/> Brun fluesopp (Amanita regalis) er på alle punkter lik, bortsett fra fargen på hatten. Den er gulbrun til kastanjebrun. "
+    },
+    {
+      "name": "amanita pantherina",
+      "local_name": "Panterfluesopp",
+      "images": [ "amanita_pantherina1.jpg", "amanita_pantherina2.jpg", "amanita_pantherina3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 4 - 10 cm. Stilkhøyde 7 - 12 cm. Hatten er først halvkuleformet, men blir raskt nesten flat med stripet hattkant. Hattfargen er sotbrun, jordbrun til olivenbrun. Hatthuden er svakt klebrig. Som med andre fluesopper er den dekket av en hylse som ung. Når denne sprekker opp etterlater den seg rene hvite hudlapper som er pyramideformet jevnt fordelt på hatten. De kan til dels vaskes av i kraftig regn. Skivene er hvite, tette, ganske høye og frie fra stilken. Sporefargen er hvit. Stilken er hvit med oppsvulmet basis. Restene etter den ytre hylsen danner ikke noe slire, men ser heller ut som den er brettet ned over stilken. Soppkjøttet er helt hvitt. Lukten minner om rå potet. Mild smak. ",
+      "locations": "Finner den i løv- og barskog, ofte i parker. Ganske vanlig i kystnære strøk fra Rogaland til Oslo.",
+      "season": "Juli til September",
+      "usage": "Meget giftig, men regnes ikke som dødelig selv om dødsfall er kjent blant barn og svake eldre personer.",
+      "similarto": "Kan forveksles med Rødnende fluesopp, Grå fluesopp, Brun fluesopp, Rødnende parasollsopp og Blodsjampinjong.<br/> Brun ringløs fluesopp (Amanita fulva) som er spiselig. Den har sjelden hudlapper på hatten, hattkanten er tydelig kamstripet. Det er aldri ring på stilken som er tynn med stor poseformet slire ved stilkbasis. "
+    },
+    {
+      "name": "amanita phalloides",
+      "local_name": "Grønn fluesopp",
+      "images": [ "amanita_phalloides1.jpg", "amanita_phalloides2.jpg", "amanita_phalloides3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 7 - 15 cm. Hatten er først eggformet, så halvkuleformet for så tilsutt å bli svakt hvelvet. Hatten er som oftest uten hudlapper, men det hender at det kan være noen veldig få igjen. Hatthuden er litt klebrig i fuktig vær, men silkeglinsende i tørt vær. Den har radiært innvokste, spindelvevtynne mørke tråder på olivengrunn til gulgrønn bunn. Dette gjør hatten litt mørkere i sentrum og lysere ut mot hattkanten. Skivene er hvite, men noen ganger en litt gulgrønn tone. De er tynne, tettstilte og frie fra stilk. Sporefarge er hvit. Stilken er slank med en kraftig løkformet basis omgitt av en kraftig slire. Denne fremstår som en vid hudpose, hvit på utsiden med svakt grønnskjære på innsiden. Stilken har en kraftig, grønnaktig til hvit ring. Stilken er hvit med en mer eller mindre tydelig grønnaktig vatring. Soppkjøttet er hvitt med mild smak som etterhvert blir besk. Lukter noe søtlig, blomsteraktig, honningaktig. ",
+      "locations": "Næringsrik løvskog med eik, men også med bøk og hassel. Den er mindre vanlig, og er funnet langs kysten fra indre Oslofjord til Os i Hordaland.",
+      "season": "August og September",
+      "usage": "Dødelig giftig. Giften virker langsomt og symptomene, magesmerter med kraftig oppkast og diare viser seg ikke før etter 10 - 12 timer. Giften gir skader på lever og nyrer. En liten sopp kan forårsake dødsfall.",
+      "similarto": "Grønn fluesopp har vært forvekslet med Grønn kremle. Men ingen kremler har sprøtt kjøtt, er uten ring på stilken og uten slire ved basis. Bleke eksemplarer av Grønn fluesopp kan for en ukyndig minne om en sjampinjong, men ingen sjampinjonger har slire ved basis, og en sjampinjong har aldri helt hvite skiver. "
+    },
+    {
+      "name": "amanita virosa",
+      "local_name": "Hvit fluesopp",
+      "images": [ "amanita_virosa1.jpg", "amanita_virosa2.jpg", "amanita_virosa3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 5 - 10 cm. Stilkhøyde 10 - 15 cm.  Hatten er lenge klokkeformet, men blir etterhvert mer utbredt med en butt pukkel. Hatten sitter vanligvis skjevt på stilken. Den er rent hvit, silkeglinsende og noe klerbrig i fuktig vær. Hatthuden forandrer ikke farge ved håndtering. Skiven er uforanderlig hvite, tynne og tettstilte, med fint tannet skiveegg. Frie fra stilken. Sporefargen er hvit. Stilken er forholdsvis tynn og elastisk. Den har en stor løkformet basis. Øverst på stilken sitter en lett forgjengelig ring, men ofte sitter det som skulle vært ring igjen som hudrester på skivene. Nedenfor ringen er stilken finskjellet. Soppkjøttet i hatten er tynt, det er hvitt med mild smak som etterhvert gir en brennende ettersmak. Lukter litt ubehagelig surt eller råttent.",
+      "locations": "Vokser i fuktig, mager bar- og løvskog. Trives best langs kysten. Funnet helt nord til Troms",
+      "season": "Juli til September",
+      "usage": "Dødelig giftig. Giften virker langsomt og symptomene, magesmerter med kraftig oppkast og diare viser seg ikke før etter 8 - 12 timer. Giften gir skader på lever og nyrer. En liten sopp kan forårsake dødsfall.",
+      "similarto": "Unge eksemplarer kan forveksles med hvite sjampinjonger. Husk at unge sjampinjonger alltid har farge på skivene (svakt rosa til grårosa farge) Disse smaker mandelaktig og lukter anis. Gammel hvit fluesopp som er i ferd med å råtne, blir gulbrun og kan på det stadiet minne om Rimsopp. "
     }
   ] 
 }
