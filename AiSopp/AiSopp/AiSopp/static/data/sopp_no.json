@@ -648,6 +648,17 @@
       "season": "August til Oktober",
       "usage": "Uspiselig. Tidligere ble den regnet som god matsopp, men halvparten som spiser den blir syke med diare og kvalme.",
       "similarto": "Kan forveksles med flere knippevoksende sopper som lever på ved. Bare honningsoppene har hvite sporer og kraftig ring på stilken."
+    },
+    {
+      "name": "macrolepiota procera",
+      "local_name": "Stor parasollsopp",
+      "images": [ "macrolepiota_procera1.jpg", "macrolepiota_procera2.jpg", "macrolepiota_procera3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 10 - 30 cm. Stilkhøyde 15 - 40 cm. Som helt ung er hatten kuleformet, brun til gråbrun og nesten glatt. Ser ut som en klubbe. Den blir etterhvert klokkeformet for til slutt å bli nesten flat, med glatt pukkel og lett oppbøyd kant. Når den vokser sprekker hatthuden opp i tydelig gråbrune, frynsete skjell på hvit bunn. Skivene er tynne og hvite, tettstilte, frie fra stilken. Sporefargen er hvit. Hatten lar seg lett skille fra stilken. Den er festet som en propp i hatten. Stilken er veldig høy og slank. Den har en dobbel ring som ikke er fastvokst på stilken og den kan derfor beveges. Over ringen er stilken gråbrun og glatt, nedenfor ringen er stilken tett besatt med brune flammete, sikksakk bånd. Stilkbasis er oppsvulmet, løkformet. Hattkjøttet er hvitt, tynt og bløtt, mens stilken er hard og trevlet. Lukter behagelig og smaker nøtteaktig.",
+      "locations": "Denne soppen vokser i grupper på næringsrik jord i skogsbryn, enger, hager og parker. Den stikker seg veldig frem på grunn av størrelsen. Den er varmekjær og er vanlig i kystnære strøk nord til Sogn og Fjordane.",
+      "season": "Juli ut September",
+      "usage": "Denne er spiselig og god. En ettertraktet matsopp som for eksempel kan paneres og stekes som biff. Egner seg svært godt til tørking. Stilken er harde og bør tørkes slik at de da kan brukes som soppsnacks eller males opp til mel.",
+      "similarto": "Denne kan neppe forveksles med noe annen sopp."
     }
   ] 
 }
