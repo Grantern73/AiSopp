@@ -160,6 +160,7 @@ def sopp(param):
         similarto = "",
         year=datetime.now().year)
 
+# TODO, separate these helper functions into one single file.
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
