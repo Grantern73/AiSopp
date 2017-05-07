@@ -102,10 +102,19 @@ def do_upload():
             return render_template(
                 'index.html',
                 results=result)
-@app.route('/oversikt')
-def oversikt():
+@app.route('/oversikt/<filter>')
+def oversikt(filter):
     # returner oversikt over alle soppene som er registrert i systemet.
-    return render_template('oversikt.html', sopper='')
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
+    data = json.load(open(json_url))
+    usefilter = checkfilter(filter)
+    if not usefilter is 9:
+        filtered_data = filtered(usefilter, data)
+        return render_template('oversikt.html', status='ok', data=filtered_data, filter=filter)
+    else:
+        usefilter = "invalid"
+        return render_template('oversikt.html', status = 'Ugyldig filter', data = [], filter=filter)
 
 @app.route('/sopp/<param>')
 def sopp(param):
@@ -113,7 +122,8 @@ def sopp(param):
     SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
     json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
     data = json.load(open(json_url))
-    
+    param = param.replace("%20", "")
+
     result = []
     for sopp in data['sopp']:
         if sopp['name'] == param.replace("%20"," "):
@@ -153,3 +163,22 @@ def sopp(param):
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+def checkfilter(x):
+     return {
+        'all': -1,
+        'edible': 0,
+        'notedible': 1,
+        'poisonous': 2,
+    }.get(x, 9) 
+
+def filtered(filter, data):
+    if str(filter) == '-1':
+        return data['sopp']
+
+    items = []
+    for sopp in data['sopp']:
+        if sopp['risk'] == str(filter):
+            items.append(sopp)
+
+    return items
