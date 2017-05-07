@@ -122,7 +122,6 @@ def sopp(param):
     SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
     json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
     data = json.load(open(json_url))
-    param = param.replace("%20", "")
 
     result = []
     for sopp in data['sopp']:
