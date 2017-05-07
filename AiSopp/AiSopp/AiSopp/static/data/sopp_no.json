@@ -155,6 +155,17 @@
       "similarto": "Det er ingen forvekslingsarter, men det er verdt å merke seg at Grå Blekksopp (Coprinus atramentarius) som regnes som uspiselig og er giftig dersom man inntar alkohol. Den er glatt sølvgrå med små skjell, ikke flosset eller håret. Hatten dekker ikke mer enn halve stilken. Den er spiselig for de som ikke nyter alkohol. Men sikkert verdt å holde seg unna. "
     },
     {
+      "name": "chroogomphus rutilus",
+      "local_name": "Rabarbrasopp",
+      "images": [ "chroogomphus_rutilus1.jpg", "chroogomphus_rutilus2.jpg", "chroogomphus_rutilus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 3-8 cm. Stilkhøyde 3 - 10 cm. Den har en hvelvet hatt, ofte med pukkel som ung. Den har lenge innrullet hattkant og kan av og til virke litt klokkeformet. Den er fint trådet og noe klebrig, men ikke slimete. Rødbrun til rødgul, ofte med safrangult innslag mot kanten. Med alderen mørkner hattens farge, ofte mot vinrød. Skivene er nedløpende, tykke, brede og fjernstilte. Skivene er rødbrune med et safrangult skjær. Fargen er lysere enn hatten. Sporefargen er sort. Helt ung sopp har et hudlag mellom stilk og hatt for å beskytte skivene. Når soppen vokser danner dette laget en ringsone øverst på stilken der de sorte sporene ofte fester seg. Stilken smalner mot basis. Soppkjøttet er rødbrunt til aprikosfarget i hatten. I stilken mer gult og mer safrangult mot basis. Lite lukt og mild smak.",
+      "locations": "Denne soppen danner soprot med furu på kalkrik jord. Den vokser enkelthvis eller i små grupper. Ganske vanlig i det meste av landet.",
+      "season": "Juli til Oktober",
+      "usage": "Spiselig og egner seg best i blandinger. Soppkjøttet blir rødt som rabarbra ved oppvarming. Et godt kjennetegn.",
+      "similarto": "Rabarbrasoppen bør ikke kunne forveksles med andre sopper, selv om mange kan ha lignende farger. Husk den blir rød ved oppvarming. Den har nedløpende, tykke og fjernstilte skiver og sorte sporer. Veldig få andre sopper med lignede farger har dette. "
+    },
+    {
       "name": "galerina marginata",
       "local_name": "Flatklokkehatt",
       "images": [ "galerina_marginata1.jpg", "galerina_marginata2.jpg", "galerina_marginata3.jpg" ],
