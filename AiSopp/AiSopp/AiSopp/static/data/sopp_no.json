@@ -758,6 +758,28 @@
       "season": "Juli til September",
       "usage": "Dødelig giftig. Giften virker langsomt og symptomene, magesmerter med kraftig oppkast og diare viser seg ikke før etter 8 - 12 timer. Giften gir skader på lever og nyrer. En liten sopp kan forårsake dødsfall.",
       "similarto": "Unge eksemplarer kan forveksles med hvite sjampinjonger. Husk at unge sjampinjonger alltid har farge på skivene (svakt rosa til grårosa farge) Disse smaker mandelaktig og lukter anis. Gammel hvit fluesopp som er i ferd med å råtne, blir gulbrun og kan på det stadiet minne om Rimsopp. "
+    },
+    {
+      "name": "paxillus involutus",
+      "local_name": "Pluggsopp",
+      "images": [ "paxillus_involutus1.jpg", "paxillus_involutus2.jpg", "paxillus_involutus3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 5 - 15 cm. Stilkhøyde 3 - 10 cm.  Hatten er som ung, flat med innrullet hattkant. Etterhvert blir den nedsunket i midten. Hatthuden er tørr og litt fløyelsaktig, spesielt i hattkanten. Fargen er olivenbrun, grågul, lysbrun med innslag av rødbrunt. Skivene er blek gule til gulbrun. De er tynne og tettstilte. Nederst mot stilken løper skivene sammen til et nett. De kan lett skilles fra hatten på samme måte som rørene hos rørsoppen kan skilles fra hatten. Sporefargen er brun. Stilken smaler av mot basis. Som ung er stilkens basis dekket av gulaktig dugg. Navnet på soppen henspeiler til helt unge sopp sin form som ligner på gamle treplugger. Soppkjøttet er gulhvitt og misfarges raskt til rustbrunt ved brudd. Det samme gjør resten av soppen. Den får lett rustbrune flekker ved berøring. Mild litt syrlig lukt og smak.",
+      "locations": "Dette er en av våre vanligste sopper. Den vokser i større grupper og virker å foretrekke bjørk og gran. Den danner sopprot med mange andre vekster også. Den vokser i komposthauger, råtnende trestammer, ved maurtuer, blomsterbed, i gamle og i nylagte plener. Den er svært variabel og den finnes i hele landet. Fra kysten til fjellet.",
+      "season": "Juni til Oktober/November",
+      "usage": "Giftig. Den gir ikke symptomer på forgiftning før etter inntak av flere måltider med soppen. Toleransen for giftstoffene varierer fra person til person og fordi den kan gi alvorlige allergiske reaksjoner, kan det i værste fall medføre livstruende situasjoner.",
+      "similarto": "Kan lett forveksles med en rekke spiselige sopper når man ser den ovenfra. Men når man plukker soppen og ser den innrullete hattkanten og de nedløpende gule skivene som blir rustbrune når den plukkes. Dette er gode tegn på at det er en pluggsopp. Videre kan skivene enkelt løsne i flak fra hatten. Da bør man være sikker. "
+    },
+    {
+      "name": "paxillus atromentosus",
+      "local_name": "Fløyelspluggsopp",
+      "images": [ "paxillus_atromentosus1.jpg", "paxillus_atromentosus2.jpg", "paxillus_atromentosus3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 10 - 30 cm. Stilkhøyde 3 - 7 cm. Hattens fasong varierer fra halvsirkelformet, bølget og uregelmessig, tungeformet til nesten helt rund. Den har lenge innrullet hattkant. Som ung er hatthuden fløyelsmyk, men blir med alderen glatt og skinnaktig. Den er kastanjebrun, ofte med gulbrune skjolder. Skivene er lyst gulbeige, tynne, tettstilte og nedløpende på stilken. De får brune flekker ved berøring. Sporefargen er brun. Stilken er kort, ofte sidestilt og dekket av mørk sjokoladebrun fløyel. Soppkjøttet er gulhvitt. Hele soppen er kjøttfull. Lukter svakt syrlig og smaker syrlig til bittert.",
+      "locations": "Soppen opptrer som regel enkelthvis, men også i små grupper på råtnende stubber og døde røtter av furu. I sjeldne tilfeller på gran. Den er ganske vanlig i lavlandet nord til Nord Trøndelag. Sjelden på Vestlandet.",
+      "season": "August til Oktober",
+      "usage": "Uspiselig. Noen mener den kan spises og den er ikke farlig. Men den smaker surt og vondt. Den ble tidligere brukt til å farge ullgarn. Den gir en fin mørk olivengrønn og gråfiolett farge.",
+      "similarto": "Denne soppen er så spesiell at den vanskelig kan forveksles med noen annen sopp. "
     }
   ] 
 }
