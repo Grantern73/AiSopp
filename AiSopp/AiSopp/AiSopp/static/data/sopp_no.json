@@ -780,6 +780,17 @@
       "season": "August til Oktober",
       "usage": "Uspiselig. Noen mener den kan spises og den er ikke farlig. Men den smaker surt og vondt. Den ble tidligere brukt til å farge ullgarn. Den gir en fin mørk olivengrønn og gråfiolett farge.",
       "similarto": "Denne soppen er så spesiell at den vanskelig kan forveksles med noen annen sopp. "
+    },
+    {
+      "name": "pholiota mutabilis",
+      "local_name": "Stubbeskjellsopp",
+      "images": [ "pholiota_mutabilis1.jpg", "pholiota_mutabilis2.jpg", "pholiota_mutabilis3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 6 cm. Stilkhøyde 4 - 10 cm. Hatten har glinsende glatt overflate og er sterkt hygrofan. Det betyr at hatt skifter farge etter fuktigheten i lufta. Er det tørt, vil hatten være gulbrun i midten og avbleket mot kanten. I fuktig vær vil det dannes en mørk, litt vasstrukken sone langs kanten, men midten vil forbli gulbrun som ett speilegg. Hattkanten vil være stripet, mens den er matt og glatt i tørt vær. Skivene er tilvokste og litt nedløpende. Først lyst blekbrun og etterhvert kanelbrun når sporene modnes. Sporefragen er brun. Stilken er tynn og har en lys ring øverst. Ovenfor ringen er stilken glatt. Under ringen er den dekket av brune regelmessige utstående skjell. Ringen blir etterhvert farget av sporene og den kan forsvinne med alderen. Soppkjøttet er mykt og hvitaktig i hatten. I stilken hardt og trevlet. Lite lukt og mild smak.",
+      "locations": "Du finner den i knipper på stubber av løvtrær, helst bjørk. Har en lang sesong og kan fornye seg flere ganger.",
+      "season": "Mai og ut Oktober",
+      "usage": "Den er spiselig og god. Bare hatten blir brukt. Fin i blandinger med annen sopp. Oppbevares dypfryst. Egner seg også godt til tørking og soppmel.",
+      "similarto": "Kan lett forveksles med Flatklokkehatt (Gallerina marginata) som er veldig giftig.<br/>Honningsopp (Armillaria mellea) som er uspiselig. Den vokser også i knipper på trær. <br/>Vintersopp (Flammulina velutipes) som er spiselig. Den vokser på løvtrær, men ikke bjørk. Lys gulbrun hatt, klebrig til slimete, hvite skiver, bruskaktig stilk dekket av sjokoladbrun fløyel. Bare hatten brukes. Vokser i mildværsperioden fra Oktober til April. "
     }
   ] 
 }
