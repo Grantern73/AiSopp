@@ -109,3 +109,11 @@ input[type="checkbox"].input-validation-error {
   color: #ffd8a6;
   text-decoration: none;
 }
+.jumbotron {
+    background: #000 url("/static/images/front_jumbotron_forrest.jpg") no-repeat center center;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    color: #d6e9c6; 
+}

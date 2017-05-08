@@ -4,11 +4,32 @@
 
 <h2>{{ title }}.</h2>
 <h3>{{ message }}</h3>
-
+<p>
+    AiSopp er tjeneste som skal gjøre det enklere for deg som har lyst til å prøve deg som sopp-plukker.<br />
+    Jeg ønsker ikke å utgi denne tjenesten for å være en sikker måte å identifisere sopp på. Man bør alltid søke informasjon fra noen som virkelig kan dette med sopp.<br />
+    Det denne tjenesten gjør som er annerledes enn de andre netttjensten jeg har sett, er ved å ta i bruk maskinlæring og avansert bildeanalyse for å gi deg forslag til hva det er du ser.<br />
+    Målet mitt er at soppsanking skal bli mer tilgjengelig, samtidig må jeg påpeke at denne tjenesten ikke må bli en hvilepute som hindrer deg som bruker, i å bruke sunn fornuft.
+</p>
 <p>
     De siste årene er det gjort store fremskritt innenfor feltet maskinlæring. <br />
     AIsopp© er tjeneste som benytter seg av avansert maskinlæring og kunstig intelligens for å se forskjell på noen av de vanligste soppene vi har vi vår natur.<br />
-    Målet med tjenesten er at det skal bli enklere og ikke minst sikrere å gå ut i naturen for å høste av noen av våre flotte matsopper.
+    Målet med tjenesten er at det skal bli enklere, morsomere og ikke minst sikrere å gå ut i naturen for å høste av noen av våre flotte matsopper.
+</p>
+<p>
+    Tjenesten er laget ved hjelp av <a href="https://www.tensorflow.org/">TensorFlow</a><br />
+    Jeg har brukt en modell som er ett kunstig nevralt nettverk, og som har blitt trent opp i å identifisere bilder av forskjellige ting. Takket være dette arbeidet har jeg kunnet <br />
+    nyttegjøre meg av mange 100.000 timer med arbeid og trening for å lære det opp i å gjenkjenne våre mest vanlige sopper.
+</p>
+<p>
+    Det er viktig å ha i bakhodet at denne tjenesten vil fortelle deg hva slags sopp den tror den ser.<br />
+    Alt den ser er sopp, så tar du bildet av en bil, så vil den gi deg soppalternativer. Det har ikke vært hensiktsmessig å lære den hva som ikke er sopp.<br />
+    I denne første runden av læring har jeg oppnådde rundt 65% treffsikkerhet på at det første forslaget den kommer med er korrekt.<br />
+    Sannsynligheten er derfor stor for at soppen du har analysert er blant de 5 som er foreslått. Men det er selvsagt tilfeller der den bommer helt.<br />
+    Det er også mange andre utenforstående faktorer som spiller inn slik som kamera (alle mobilkamera behandler bildene forskjellig), lysforhold, vinkel og avstand til soppen. Men etterhvert som <br />
+    mer og mer bilder kommer inn fra de som bruker tjenesten så vil treffsikkerheten bare bli bedre og bedre.<br />
+    <br />
+    Uansett vil tjenesten på en veldig enkel og effektiv måte gi deg alternativer og mye ekstra informasjon som skal gjøre deg selv i stand til å avgjøre om den har rett eller ikke.<br />
+    Da er det bare å komme seg ut i skogen og lete etter noen av våre flotte sopper og få deg en fin naturopplevelse.
 </p>
 <p>
     Inspirasjonen min ble vekket av min samboer og hennes far som er ivrige soppplukkere.<br />
@@ -16,20 +37,9 @@
     Jeg håper at denne tjenesten vil fungere som et enkelt hjelpemiddel som er lett å bruke og som gir deg som bruker god og nyttig informasjon når du er ute og plukker sopp.
 </p>
 <p>
-    Tjenesten er laget ved hjelp av <a href="https://www.tensorflow.org/">TensorFlow</a> og arbeidet som er gjort rundt Inception-V3.<br />
-    Dette er ett kunstig nevralt nettverk som har blitt trent opp i å identifisere bilder av forskjellige ting. Takket være dette arbeidet har jeg kunnet <br />
-    nyttegjøre meg av mange 100.000 timer med arbeid og trening for å lære det opp i å gjenkjenne våre mest vanlige sopper.
+    All informasjon om sopp som tjenesten presenterer er hentet fra forskjellige kilder på nettet og bøker. Alle bilder som vises er lisensiert under creative commons eller lignende lisens. Hvis dette i noen tilfeller ikke er tilfelle, så ta kontakt, så skal jeg selvsagt bytte ut bilde.
 </p>
-<p>
-    Det er viktig å ha i bakhodet at denne tjenesten vil fortelle deg hva slags sopp den tror den ser.<br />
-    Alt den ser er sopp, så tar du bildet av en bil, så vil den gi deg soppalternativer. Det har ikke vært hensiktsmessig å lære den hva som ikke er sopp.<br/>
-    I denne første runden av læring oppnådde vi rundt 65% treffsikkerhet på at det første forslaget den kommer med er korrekt.<br/>
-    Sannsynligheten er derfor stor for at soppen du har analysert er blant de 5 som er foreslått. Men det er selvsagt tilfeller der den bommer helt.<br/>
-    Det er også mange andre utenforstående faktorer som spiller inn slik som kamera, lysforhold, vinkel og avstand til soppen. Men etterhvert som <br/>
-    mer og mer bilder kommer inn fra de som bruker tjenesten så vil treffsikkerheten bare bli bedre og bedre.<br/>
-    <br/>
-    Uansett vil tjenesten på en veldig enkel og effektiv måte gi deg alternativer og mye ekstra informasjon som skal gjøre deg selv i stand til å avgjøre om den har rett eller ikke.<br/>
-    Da er det bare å komme seg ut i skogen og lete etter noen av våre flotte sopper og få deg en fin naturopplevelse.
-</p>
+
+
 
 {% endblock %}

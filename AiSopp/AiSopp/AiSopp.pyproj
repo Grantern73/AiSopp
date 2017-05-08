@@ -339,6 +339,7 @@
     <Content Include="AiSopp\static\images\dummysopp.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\front_jumbotron_forrest.jpg" />
     <Content Include="AiSopp\static\images\galerina_marginata1.jpg">
       <Publish>True</Publish>
     </Content>
