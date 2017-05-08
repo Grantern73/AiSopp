@@ -791,6 +791,94 @@
       "season": "Mai og ut Oktober",
       "usage": "Den er spiselig og god. Bare hatten blir brukt. Fin i blandinger med annen sopp. Oppbevares dypfryst. Egner seg også godt til tørking og soppmel.",
       "similarto": "Kan lett forveksles med Flatklokkehatt (Gallerina marginata) som er veldig giftig.<br/>Honningsopp (Armillaria mellea) som er uspiselig. Den vokser også i knipper på trær. <br/>Vintersopp (Flammulina velutipes) som er spiselig. Den vokser på løvtrær, men ikke bjørk. Lys gulbrun hatt, klebrig til slimete, hvite skiver, bruskaktig stilk dekket av sjokoladbrun fløyel. Bare hatten brukes. Vokser i mildværsperioden fra Oktober til April. "
+    },
+    {
+      "name": "rozites caperatus",
+      "local_name": "Rimsopp",
+      "images": [ "rozites_caperatus1.jpg", "rozites_caperatus2.jpg", "rozites_caperatus3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 5 - 15 cm. Som ung er hatten nesten kulerund, ofte med litt bølgete kant. Blir etterhvert mer eller mindre klokkeformet og til slutt nesten flat med bred pukkel. Hattkanten er lenge innbøyd, bølget og fint rynket. Hos noen eldre sopp sprekker den gjerne opp. Den er fra lys gulbeige til halmgul. Unge eksemplarer har ett innslag av fiolett med et hvitt perlemorlignende skimmer. Dette forsvinner nesten helt på eldre sopp. Den er tørr og matt. Skivene har som ung, samme farge som hatten. Etterhvert blir de mer kanelbrune. De er utrandet, tettstilte, rynktete og ofte med sagtakket skiveegg. Sporefargen er brun. Stilken er litt lysere enn hatten og har en kraftig nesten hvit ring. Over ringen er stilken dekket av små, hvite skjell. Under ringen har stilken langsgående trevler. Soppkjøttet har samme farge som hatten. Det er fast i hatten og trevlet i stilken. Lukter behagelig og mild i smaken.",
+      "locations": "Denne soppen danner sopprot med bartrær og løvtrær, helst furu og bjørk, men du finner den også i lyng. Den er vanlig i hele landet til over tregrensa. Ikke uvanlig å finne den på multemyrer.",
+      "season": "Juli til Oktober",
+      "usage": "Soppen er spiselig og god i blandinger med annen sopp. Spesielt små, unge eksemplarer er gode tilbredt alene. Oppbevares kokt i sin egen kraft og dypfryst. Godt egnet til tørking.",
+      "similarto": "Rimsopp er ingen nybegynner sopp fordi den kan forveksles med en rekke slørsopper. Så vær forsiktig.<br/>Den som ligner mest, er Rynkeslørsopp (Cortinarius elatior) som har rynkete hattkant og samme farge på hatten. Den har ingen hudaktig ring, bare et bånd av spindelvevtynne tråder farget brunt av sporene. "
+    },
+    {
+      "name": "cortinarius rubellus",
+      "local_name": "Spiss giftslørsopp",
+      "images": [ "cortinarius_rubellus1.jpg", "cortinarius_rubellus2.jpg", "cortinarius_rubellus3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 3 - 8 cm. Stilkhøyde 5 - 14 cm. Alle slørsopper har ett slør eller spindelvevaktig trådnett mellom hattkant og stilk på ung sopp. Dette kalles velum og er viktig ved bestemmelse av slørsopp. Hatten til spiss giftslørsopp har en mer eller mindre spiss pukkel. Som ung er den kjegleformet til klokkeformet. Med tiden mer avflatet og lenge med innbøyd hattkant. Fargen er rødbrun til oransjebrun, mørkest i midten. Hatthuden er tørr, matt og fint radiært filthåret eller fint småskjellet mot kanten som ofte har gule velumrester. Når den er eldre er den nesten glatt. Skivene har samme farge som hatten. De er tilvokste til utrandet, tykke og ganske fjernstilte. Sporefargen er brun. Stilken er lysebrun øverst og mørkere mot basis, noe klubbeformet. Stilken er dekket av velumrester som danner gule skrå sikk-sakk belter. Tydeligst midt på stilken. Velumrestene forsvinner raskt ved håndtering og med alder. Soppkjøttet er først lysgult, senere rødbrunt, mørkest i stilken. Jordaktig, reddikklignende lukt, mild smak. For all del ikke smak på den.",
+      "locations": "Liker seg i fuktig, sur, moserik blåbærgranskog. Den vokser enkeltvis eller i grupper. Den kan også forekommer i furuskog. Vanlig i Sør-Norge, spesielt på Vestlandet. Den er også funnet nord til Trøndelag.",
+      "season": "August til Oktober/November",
+      "usage": "DØDELIG GIFTIG. En av våre giftigste sopper. Den inneholder ett giftsopp som kalles orellanin. Det angriper og ødelegger nyrene. Det tar lang tid før symptomene opptrer, 3-7 døgn, og i sjelde tilfeller opp mot 14 dager. De tidlige symptomene er voldsom tørste, tretthet og hodepine.",
+      "similarto": "Den ligner ingen kjente matsopper.<br/>Butt giftslørsopp (Cortinarius orellanus) som også er enda mer dødelig giftig, men veldig sjelden. Den er bare kjent fra få steder langs sørlandskysten. Ellers er det mange like slørsopper som er mer eller mindre giftige. Det finnes ingen spiselig sopp som er rødbrun i alle deler, også i soppkjøttet. "
+    },
+    {
+      "name": "cortinarius traganus",
+      "local_name": "Brunkjøttbukkesopp",
+      "images": [ "cortinarius_traganus1.jpg", "cortinarius_traganus2.jpg", "cortinarius_traganus3.jpg" ],
+      "risk": "1",
+      "description": "Hattdiameter 4 - 12 cm. Stilkhøyde 6 - 12 cm. Hatten er kule- til halvkuleformet med innrullet hattkant som ung. Den blir etterhvert mer utbredt med en lav svak pukkel. Den har en vakker lilla farge som blekes litt med alderen og får ett innslag av brungult. Det henger ofte velumrester i hattkanten som farges brune av sporene. Skivene er tilvokste til noe utrandet, forholdsvis tykke og fjernstilte med fine takker i skiveeggen. Skivene er først brungule, senere rustbrune på grunn av sporene. Sporefargen er brun. Stilken er kraftig og klubbeformet mot basis. Som ung har den den samme lillafargen som hatten, med tykke belter av lys lille og nesten hvite velumrester. Som gammel blir både stilk og hatt mer eller mindre gulbrune. Soppkjøttet er gulbrunt med innslag av safran, litt mer rustbrunt i stilken. Lukten kan minne om gamle epler, ganske søtlig lukt. Mild smak.",
+      "locations": "Denne vokser i moserik barskog både med gran og furu. Den er ganske vanlig og er funnet i hele landet.",
+      "season": "August til Oktober",
+      "usage": "Den er uspiselig og muligens svakt giftig.",
+      "similarto": "Den kan ofte forveksles med Blå ridderhatt (Lepista nuda) som er en god matsopp. Er også veldig lik en rekke andre lilla og blå slørsopper. "
+    },
+    {
+      "name": "ramaria flava",
+      "local_name": "Gul korallsopp",
+      "images": [ "ramaria_flava1.jpg", "ramaria_flava2.jpg", "ramaria_flava3.jpg" ],
+      "risk": "0",
+      "description": "Korallsopper er en gruppe sopper som omfatter flere slekter der mange av artene bare kan bestemmes av spesialister ved hjelp av mikroskop. Det er stor variasjon. Korallsoppene har form som en korall, fint forgrenet med mange tynne og tykke grener der hovedgrenen går ut fra en tykk, hvit felles fot. De fleste er gulhvite til rent gule, men vi finner også brunaktige, grå og i noen sjeldne tilfeller lilla. De varierer veldig i størrelse. For disse soppene kan følgende regel gjelde: Korallsopp som er gule til gulhvite, faste, med sprø grener og mild smak, er spiselige.",
+      "locations": "Denne vokser i kalkrik, gjerne moserik barskog, men finnes også i løvskog. Ganske vanlig i Sør-Norge, men er også funnet til Nordland.",
+      "season": "August og September",
+      "usage": "Den er en god matsopp, men bruk bare ung sopp. Egnet til steking og er god i blandinger. Oppbevares kokt i sin egen kraft dypfryst.",
+      "similarto": "Kan forveksles med alle andre gulhvite korallformete sopper. "
+    },
+    {
+      "name": "ramaria botrytis",
+      "local_name": "Rødtuppsopp",
+      "images": [ "ramaria_botrytis1.jpg", "ramaria_botrytis2.jpg", "ramaria_botrytis3.jpg" ],
+      "risk": "0",
+      "description": "Korallsopper er en gruppe sopper som omfatter flere slekter der mange av artene bare kan bestemmes av spesialister ved hjelp av mikroskop. Det er stor variasjon. Korallsoppene har form som en korall, fint forgrenet med mange tynne og tykke grener der hovedgrenen går ut fra en tykk, hvit felles fot. De fleste er gulhvite til rent gule, men vi finner også brunaktige, grå og i noen sjeldne tilfeller lilla. De varierer veldig i størrelse. For disse soppene kan følgende regel gjelde: Korallsopp som er gule til gulhvite, faste, med sprø grener og mild smak, er spiselige.",
+      "locations": "Denne vokser i næringsrik, litt steinete barskog og bøkeskog. Den er ikke uvanlig i Sør-Norge.",
+      "season": "August og September",
+      "usage": "Den er en god matsopp, men bruk bare ung sopp. Egnet til steking og er god i blandinger. Oppbevares kokt i sin egen kraft dypfryst.",
+      "similarto": "Kan forveksles med alle andre gulhvite korallformete sopper. "
+    },
+    {
+      "name": "gyromitra esculenta",
+      "local_name": "Sandmorkel",
+      "images": [ "gyromitra_esculenta1.jpg", "gyromitra_esculenta2.jpg", "gyromitra_esculenta3.jpg" ],
+      "risk": "2",
+      "description": "Hattdiameter 3 - 15 cm. Stilkhøyde 2 - 6 cm. Hatten eller luen som den ofte kalles hos morkler, varierer fra lys gyllenbrun via vakker rødbrun til mørk sjokolade, nesten sort. Den er nesten rund med form og folder som en hjerne. Foldene kan også minne om en valnøttkjerne. Stilken er lys brun, nesten hudfarget. Hele soppen er innvendig sammenvokst med uregelmessige hulrom. Sporene dannes på utsiden av hatten, slik at det kan se ut som den hat fått et fint pudderdryss over seg. Sporefargen er hvit. Lukter mildt, men mange sopp sammen kan gi en kraftig, nesten bedøvende lukt. Smaker mildt og behagelig, men best å ikke smake på den.",
+      "locations": "Den liker seg i mager, sandholdig, moserik barskog, helst furuskog. Men finnes også i granskog. Finnes ofte på hogstflater blant barkavfall, langs skogsbilveier, lysløyper og ellers der jorden er rotet til. Den er vanlig over hele landet.",
+      "season": "April til Mai",
+      "usage": "Dødelig giftig som rå. Tidligere ble den regnet som førsteklasses matsopp etter forvelling i rikelig med vann i 10 minutter, eller tørking i minst 3 måneder, helst ett år. Gjør man alt riktig, skal man heller ikke spise soppen mer enn én gang pr. sesong, og unge mennesker skal helt avstå fra denne soppen. Fortsatt fristet? La den være!",
+      "similarto": "For å være på den helt sikre siden så bør man avstå fra å plukke med seg sopper som ligner på en hjerne på stilk."
+    },
+    {
+      "name": "gyromitra infula",
+      "local_name": "Bispelue",
+      "images": [ "gyromitra_infula1.jpg", "gyromitra_infula2.jpg", "gyromitra_infula3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 2 - 8 cm. Stilkhøyde 2 - 10 cm. Luen varierer i farge fra lys gulbrun til mørk rødbrun. Den er tresnutet som en bispelue eller sadelformet. Den er hul og fastvokst til stilken. Stilken er hul som luen, skittenhvit til lys gråbrun, ofte med et svakt lilla skjær. Soppkjøttet er veldig tynt og sprøtt med en lysebrun farge. Behagelig lukt og mild smak.",
+      "locations": "Du finner denne på råtne stubber av løvtrær og bartrær. Blant råttent hogstavfall og døde trær, men også på bakken. Vokser ofte alene eller i små grupper.",
+      "season": "August og September",
+      "usage": "Den er spiselig, men det misstenkes at den inneholder små mengder av den samme giften som man finner i Sandmorkel (Gyromitra esculenta). Den bør derfor forvelles i 10 minutter i rikelig med vann og skylles under rennende vann før bruk. Siden soppkjøttet er så tynt, blir det lite igjen etter forvelling. Den egner seg derfor best i stuinger, supper og sauser.",
+      "similarto": "Forveksles lett med Narrelue (Gyromitra ambigua) som er giftig. Den er nesten identisk med bispelue. Det som skille de er at narrelue er mindre, har mørkere lue og stilk. Stilken har et kraftig islett av fiolett. Fiolett i stilken er hos narrelua utpreget, ikke bare et islett som hos bispelua. Den liker sandig furuskog. "
+    },
+    {
+      "name": "morchella elata",
+      "local_name": "Bispelue",
+      "images": [ "morchella_elata1.jpg", "morchella_elata2.jpg", "morchella_elata3.jpg" ],
+      "risk": "0",
+      "description": "Hattdiameter 1,5 - 7 cm. Hatthøyde 3 - 12 cm. Stilkhøyde 3 - 14 cm. Hatten har stor variasjon i farge fra lys gulbrun og hele skalaen ned til brunsvart. Den er ofte kjegleformet, men kan variere i form. Den har langsgående ribber som ofte er mørkere enn resten av hatten. Sporene dannes på utsiden av hatten. Sporefargen er kremhvit. Hatten er sammenvokst med stilken. Soppen er hul uten skillevegger, og ved deling ser man at stilk og hatt danner et hulrom. På utsiden er stilken glatt, ofte litt kornete. Fargen er lys, nesten hudfarget. Soppkjøttet er tynt, hvitt til gulbrunt. Behagelig lukt og mild smak.",
+      "locations": "Liker seg i næringsrik blandingsskog, på fet kalkrik jord i parker og hager. I barkfyllinger i veikanter, parker og hager. Vokser enkeltvis eller bare få sammen. Finnes over det meste av landet.",
+      "season": "Mai og Juni",
+      "usage": "En av verdens mest ettertraktete sopper. Denne morkelen skal ikke forvelles. Velegnet til de fleste retter der sopp inngår, men er best stuet eller i suppe eller saus. Smaken fremheves ved lang koketid. Tørking er den beste metoden for langtidslagring. Men den kan også fryses i sin egen kraft.",
+      "similarto": "Kan forveksles med Sandmorkel (Gyromitra esculenta) som er veldig giftig. Men husk at den ser ut som en hjerne på stilk med folder utover. Spissmorkel kan man si er glatt med groper innover. "
     }
   ] 
 }
