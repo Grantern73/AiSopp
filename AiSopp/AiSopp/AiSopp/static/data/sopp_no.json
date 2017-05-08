@@ -879,6 +879,17 @@
       "season": "Mai og Juni",
       "usage": "En av verdens mest ettertraktete sopper. Denne morkelen skal ikke forvelles. Velegnet til de fleste retter der sopp inngår, men er best stuet eller i suppe eller saus. Smaken fremheves ved lang koketid. Tørking er den beste metoden for langtidslagring. Men den kan også fryses i sin egen kraft.",
       "similarto": "Kan forveksles med Sandmorkel (Gyromitra esculenta) som er veldig giftig. Men husk at den ser ut som en hjerne på stilk med folder utover. Spissmorkel kan man si er glatt med groper innover. "
+    },
+    {
+      "name": "lycoperdaceae",
+      "local_name": "Røyksopp",
+      "images": [ "lycoperdaceae1.jpg", "lycoperdaceae2.jpg", "lycoperdaceae3.jpg" ],
+      "risk": "0",
+      "description": "Røyksopper er en familie i rekken stilksporesopper. I Norge finnes ca. 30 arter fordelt på 5 slekter. Viktigst er slektene røyksopp(Lycoperdon), storrøyksopp (Calvatia) og eggrøyksopp, som alle er spiselige som unge, så lenge de er snøhvite helt igjennom. Straks de begynner å skifte farge og blir myke og fuktige, skal de kasseres som matsopp. Størrelsen kan være høyst forskjellig. Soppene er kulerunde, eggformet eller mer eller mindre pæreformet; som unge er de hvite og forholdsvis faste, senere blir de mørkere og får et papiraktig skall, mens de innvendig blir fylt av en svampaktig masse og et mørkt sporepulver. Sporene frigjøres i røyklignende skyer gjennom en åpning i toppen av soppen eller ved at dette sprekker opp oventil.",
+      "locations": "De forskjellige artene stiller alle sine egne krav til voksested. Røyksopp finnes over hele landet også til fjells. Noen er vanlig, mens andre er sjeldne.",
+      "season": "Varierer",
+      "usage": "Kjemperøyksopp er den beste matsoppen. Den vokser bare i lavlandet på Østlandet og langs kysten til Bergen. Den er forholdsvis sjelden. De fleste er brukbare i blandinger så lenge de er hvite og faste.",
+      "similarto": "Disse kan forveksles med små umodne fluesopper, både rød, hvit og grønn fluesopp er blitt tatt for å være røyksopp. Vær nøye med å dele soppen slik at du ser at det ikke er anlegg til skiver etc.<br/>Potetrøyksopp (Scleroderma) som er giftig. Er en slekt av giftige røyksopper med seks kjente arter i Norge. De er aldri rent hvite innvendig som de spiselige røyksoppene, men får tidlig mørkfiolett til grå, senere svart farge pga. de modne sporene. Kjøttet er viskelæraktig. Vokser i parker, hager eller ofte i sandig skogsjord, hos oss i sørlige kyststrøk. "
     }
   ] 
 }
