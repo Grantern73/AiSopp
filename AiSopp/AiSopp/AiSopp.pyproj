@@ -66,6 +66,24 @@
     <Content Include="AiSopp\static\images\agaricus_augustus3.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\agaricus_silvaticus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_silvaticus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_silvaticus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_silvicola1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_silvicola2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\agaricus_silvicola3.jpg">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="AiSopp\static\images\albatrellus_confluens1.jpg">
       <Publish>True</Publish>
     </Content>
@@ -73,6 +91,42 @@
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\albatrellus_confluens3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\albatrellus_ovinus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\albatrellus_ovinus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\albatrellus_ovinus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_muscaria1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_muscaria2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_muscaria3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_pantherina1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_pantherina2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_pantherina3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_phalloides1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_phalloides2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_phalloides3.jpg">
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\amanita_rubescens1.jpg">
@@ -84,6 +138,24 @@
     <Content Include="AiSopp\static\images\amanita_rubescens3.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\amanita_virosa1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_virosa2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\amanita_virosa3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\armillaria_mellea1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\armillaria_mellea2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\armillaria_mellea3.jpg">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="AiSopp\static\images\boletus_badius1.jpg">
       <Publish>True</Publish>
     </Content>
@@ -91,6 +163,51 @@
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\boletus_badius3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_edulis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_edulis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_edulis3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_luridiformis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_luridiformis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_luridiformis3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_subtomentosus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_subtomentosus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\boletus_subtomentosus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\calocybe_gambosa1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\calocybe_gambosa2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\calocybe_gambosa3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\camarophyllus_pratensis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\camarophyllus_pratensis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\camarophyllus_pratensis3.jpg">
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\cantharellus_aurora1.jpg">
@@ -120,6 +237,69 @@
     <Content Include="AiSopp\static\images\cantharellus_tubaeformis3.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\chalciporus_piperatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\chalciporus_piperatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\chalciporus_piperatus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\chroogomphus_rutilus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\chroogomphus_rutilus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\chroogomphus_rutilus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_geotropa1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_geotropa2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_geotropa3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_nebularis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_nebularis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_nebularis3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_odora1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_odora2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitocybe_odora3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitopilus_prunulus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitopilus_prunulus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\clitopilus_prunulus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\coprinus_comatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\coprinus_comatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\coprinus_comatus3.jpg">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="AiSopp\static\images\cortinarius_camphoratus1.jpg">
       <Publish>True</Publish>
     </Content>
@@ -127,6 +307,24 @@
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\cortinarius_camphoratus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_rubellus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_rubellus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_rubellus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_traganus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_traganus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\cortinarius_traganus3.jpg">
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\craterellus_cornucopioides1.jpg">
@@ -157,6 +355,438 @@
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\static\images\gomphidius_glutinosus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gomphus_clavatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gomphus_clavatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gomphus_clavatus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gyromitra_esculenta1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gyromitra_esculenta2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gyromitra_esculenta3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gyromitra_infula1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gyromitra_infula2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\gyromitra_infula3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hydnum_repandum1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hydnum_repandum2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hydnum_repandum3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hydnum_rufescens1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hydnum_rufescens2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hydnum_rufescens3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrocybe_punicea1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrocybe_punicea2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrocybe_punicea3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophoropsis_aurantiaca1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophoropsis_aurantiaca2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophoropsis_aurantiaca3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_camarophyllus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_camarophyllus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_camarophyllus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_erubescens1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_erubescens2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_erubescens3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_hypothejus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_hypothejus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_hypothejus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_olivaceoalbus1.jpeg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_olivaceoalbus2.jpeg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\hygrophorus_olivaceoalbus3.jpeg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_deliciosus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_deliciosus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_deliciosus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_deterrimus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_deterrimus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_deterrimus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_lignyotus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_lignyotus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_lignyotus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_rufus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_rufus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_rufus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_torminosus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_torminosus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_torminosus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_volemus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_volemus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lactarius_volemus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_aurantiacum1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_aurantiacum2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_aurantiacum3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_scabrum1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_scabrum2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_scabrum3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_versipelle1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_versipelle2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\leccinum_versipelle3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lepista_nuda1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lepista_nuda2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lepista_nuda3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lycoperdaceae1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lycoperdaceae2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\lycoperdaceae3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\macrolepiota_procera1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\macrolepiota_procera2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\macrolepiota_procera3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\macrolepiota_rhacodes1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\macrolepiota_rhacodes2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\macrolepiota_rhacodes3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\morchella_elata1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\morchella_elata2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\morchella_elata3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\paxillus_atromentosus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\paxillus_atromentosus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\paxillus_atromentosus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\paxillus_involutus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\paxillus_involutus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\paxillus_involutus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\pholiota_mutabilis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\pholiota_mutabilis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\pholiota_mutabilis3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\ramaria_botrytis1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\ramaria_botrytis2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\ramaria_botrytis3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\ramaria_flava1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\ramaria_flava2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\ramaria_flava3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\rozites_caperatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\rozites_caperatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\rozites_caperatus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_aueruginea1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_aueruginea2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_aueruginea3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_claroflava1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_claroflava2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_claroflava3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_decolorans1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_decolorans2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_decolorans3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_emetica1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_emetica2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_emetica3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_integra1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_integra2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_integra3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_paludosa1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_paludosa2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_paludosa3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_vesca1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_vesca2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_vesca3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_xerampelina1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_xerampelina2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\russula_xerampelina3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\sacrodon_imbricatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\sacrodon_imbricatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\sacrodon_squamosus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_granulatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_granulatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_granulatus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_luteus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_luteus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_luteus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_variegatus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_variegatus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\suillus_variegatus3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_album1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_album2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_album3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_equestre1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_equestre2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_equestre3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_portentosum1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_portentosum2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholoma_portentosum3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholomopsis_rutilans1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholomopsis_rutilans2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tricholomopsis_rutilans3.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tylopilus_fellus1.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tylopilus_fellus2.jpg">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="AiSopp\static\images\tylopilus_fellus3.jpg">
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\templates\admin.html" />
