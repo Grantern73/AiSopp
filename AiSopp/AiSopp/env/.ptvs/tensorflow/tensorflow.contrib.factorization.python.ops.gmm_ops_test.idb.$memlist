@@ -1,0 +1,17 @@
+gmm_ops
+xrange
+time
+ctypes
+GmmOpsTest
+sys
+random_seed_lib
+absolute_import
+np
+logging
+test
+print_function
+division
+constant_op
+variables
+dtypes
+ops

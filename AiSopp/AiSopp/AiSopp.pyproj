@@ -339,6 +339,8 @@
     <Content Include="AiSopp\static\images\dummysopp.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\Falsk_Kantarell_test_1.jpg" />
+    <Content Include="AiSopp\static\images\Falsk_Kantarell_test_8.jpg" />
     <Content Include="AiSopp\static\images\front_jumbotron_forrest.jpg" />
     <Content Include="AiSopp\static\images\galerina_marginata1.jpg">
       <Publish>True</Publish>
@@ -628,6 +630,7 @@
     <Content Include="AiSopp\static\images\ramaria_flava3.jpg">
       <Publish>True</Publish>
     </Content>
+    <Content Include="AiSopp\static\images\Roed_fluesopp_6.jpg" />
     <Content Include="AiSopp\static\images\rozites_caperatus1.jpg">
       <Publish>True</Publish>
     </Content>

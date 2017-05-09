@@ -1,0 +1,10 @@
+constant_op
+absolute_import
+np
+division
+AdagradDAOptimizerTest
+print_function
+variables
+dtypes
+adagrad_da
+test

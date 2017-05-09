@@ -1,0 +1,8 @@
+stochastic_variables_test
+variational_inference_test
+special_math_test
+stochastic_tensor_test
+monte_carlo_test
+entropy_test
+stochastic_graph_test
+stochastic_gradient_estimators_test

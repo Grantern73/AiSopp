@@ -1,0 +1,16 @@
+dtypes
+np
+WeightedCrossEntropyTest
+tensorflow
+SigmoidCrossEntropyWithLogitsTest
+gradients_impl
+log
+absolute_import
+nn_impl
+test
+print_function
+division
+math
+constant_op
+gradient_checker
+exp

@@ -1,0 +1,17 @@
+tensor_shape
+linalg
+LinearOperatorTest
+math_ops
+LinearOperatorShape
+rng
+LinearOperatorApplyOnly
+dtypes
+absolute_import
+np
+test
+print_function
+division
+array_ops
+constant_op
+linalg_lib
+ops

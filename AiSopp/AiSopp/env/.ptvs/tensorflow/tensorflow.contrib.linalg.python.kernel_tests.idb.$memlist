@@ -1,0 +1,7 @@
+linear_operator_tril_test
+linear_operator_test
+linear_operator_matrix_test
+linear_operator_identity_test
+linear_operator_util_test
+linear_operator_diag_test
+linear_operator_composition_test

@@ -1,0 +1,17 @@
+dtypes
+print_function
+distribution_util
+random_ops
+math_ops
+BernoulliWithSigmoidP
+Bernoulli
+kullback_leibler
+absolute_import
+tensor_shape
+division
+distribution
+nn
+array_ops
+control_flow_ops
+_kl_bernoulli_bernoulli
+ops

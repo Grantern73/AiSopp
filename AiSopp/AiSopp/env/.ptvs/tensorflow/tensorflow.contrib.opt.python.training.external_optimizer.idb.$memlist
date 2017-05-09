@@ -1,0 +1,15 @@
+_compute_gradients
+ExternalOptimizerInterface
+_prod
+__all__
+absolute_import
+logging
+_get_shape_tuple
+gradients
+division
+_accumulate
+print_function
+ScipyOptimizerInterface
+ops
+variables
+array_ops

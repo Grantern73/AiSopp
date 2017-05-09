@@ -1,0 +1,13 @@
+gradient_descent
+constant_op
+FtrlOptimizerTest
+absolute_import
+np
+division
+adagrad
+print_function
+variables
+ops
+dtypes
+ftrl
+test

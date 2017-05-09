@@ -1,0 +1,17 @@
+np
+CopyVariablesTest
+CopyOpsTest
+math_ops
+graph2
+tensor_util
+session_lib
+absolute_import
+test
+print_function
+division
+array_ops
+constant_op
+variables
+copy_elements
+graph1
+ops

@@ -1,0 +1,17 @@
+np
+add_many_sparse_to_tensors_map
+BenchmarkSparseTensorsMapVsSerialization
+sparse_ops
+add_sparse_to_tensors_map
+sparse_tensor_lib
+ops
+absolute_import
+SparseTensorsMapTest
+test
+print_function
+division
+array_ops
+session
+variables
+dtypes
+take_many_sparse_from_tensors_map

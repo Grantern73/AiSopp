@@ -1,0 +1,13 @@
+adam_update_numpy
+constant_op
+absolute_import
+AdamOptimizerTest
+np
+division
+adam
+print_function
+variables
+ops
+dtypes
+test
+session

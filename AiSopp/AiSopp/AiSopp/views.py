@@ -3,16 +3,20 @@ Routes and views for the flask application.
 """
 import os
 from datetime import datetime
-from flask import render_template, request
+from flask import render_template, request, jsonify
 from werkzeug.utils import secure_filename
 from AiSopp import app
 from AiSopp.get_country_from_ip import get_country_from_ip
 from AiSopp.image_label import run_inference_on_image
 import json
+from PIL import Image
+from resizeimage import resizeimage
 
 ALLOWED_EXTENSIONS = set(['jpg', 'jpeg'])
 UPLOAD_FOLDER = 'uploads'
+UPLOAD_FOLDER_MOBILE = 'mobile_uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['UPLOAD_FOLDER_MOBILE'] = UPLOAD_FOLDER_MOBILE
 
 @app.route('/')
 @app.route('/home')
@@ -64,6 +68,65 @@ def admin():
         message='Administrering av innhold'
     )
 
+@app.route('/analyze', methods=['POST', 'GET'])
+def analyze():
+    """ Rest API for analyzing images """
+    if request.method == 'POST':
+        if 'file' not in request.files:
+            return jsonify(
+                message='No file in request',
+                filename='',
+                timestamp=datetime.datetime.now()
+                )
+        file = request.files['file']
+        if file.filename == '':
+            return jsonify(
+                message='Filetype not allowed, only jpg/jpeg are allowed',
+                filename='',
+                timestamp=datetime.datetime.now()
+                )
+        if file and allowed_file(file.filename):
+            country = get_country_from_ip(request.remote_addr)
+            #filename = secure_filename(file.filename)
+            savepath = os.path.join(app.config['UPLOAD_FOLDER_MOBILE'], country)
+            if not os.path.exists(savepath):
+                os.makedirs(savepath)
+            completesavepath = os.path.join(savepath, file.filename)
+            file.save(completesavepath)
+            file.close()
+            with open(completesavepath, 'r+b') as f:
+                with Image.open(f) as image:
+                    w = image.width
+                    h = image.height
+                    r = w/h
+                    nh = 399/r
+                    cover = resizeimage.resize_cover(image, [399, int(nh)])
+                    cover.save(completesavepath, image.format)
+            
+            predictions = run_inference_on_image(completesavepath)
+           
+            SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+            json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
+            data = json.load(open(json_url))
+            result = []
+            for latin, hitrate in predictions:
+                soppres = None
+                for sopp in data['sopp']:
+                    if sopp['name'] == latin:
+                        soppres = [latin, hitrate, sopp['local_name'], sopp['risk']]
+                        result.append(soppres)
+                        break   
+                if soppres is None:
+                    soppres = [latin, hitrate, '', '0']
+                    result.append(soppres)
+
+            return jsonify(
+                message='OK',
+                filename=file.filename,
+                timestamp=datetime.datetime.now(),
+                results=result
+                )
+
 @app.route('/upload', methods=['POST', 'GET'])
 def do_upload():
     """Stores and Identifies the uploaded image."""
@@ -112,6 +175,7 @@ def do_upload():
             return render_template(
                 'index.html',
                 results=result)
+
 @app.route('/oversikt/<filter>')
 def oversikt(filter):
     # returner oversikt over alle soppene som er registrert i systemet.

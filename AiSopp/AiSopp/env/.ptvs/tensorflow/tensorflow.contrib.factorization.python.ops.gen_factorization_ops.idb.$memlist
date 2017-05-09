@@ -1,0 +1,12 @@
+_op_def_pb2
+_text_format
+_wals_compute_partial_lhs_and_rhs_outputs
+_collections
+wals_compute_partial_lhs_and_rhs
+_WALSComputePartialLhsAndRhsOutput
+_op_def_lib
+_InitOpDefLibrary
+_common_shapes
+_op_def_library
+_ops
+_op_def_registry

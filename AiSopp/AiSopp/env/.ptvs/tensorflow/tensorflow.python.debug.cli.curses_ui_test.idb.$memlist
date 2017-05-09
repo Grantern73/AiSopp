@@ -1,0 +1,17 @@
+googletest
+np
+test_util
+tensor_format
+curses_ui
+curses
+MockCursesUI
+CursesTest
+debugger_cli_common
+absolute_import
+print_function
+division
+tempfile
+string_to_codes
+codes_to_string
+gfile
+argparse

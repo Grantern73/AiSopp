@@ -1,0 +1,13 @@
+itertools
+constant_op
+gradient_checker
+absolute_import
+np
+division
+print_function
+TransposeTest
+tensor_shape
+ops
+dtypes
+array_ops
+test
