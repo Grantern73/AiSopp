@@ -61,14 +61,12 @@ TestLogAddExp2
 sys
 assert_allclose
 TestHypot
-test_spacingl
 absolute_import
 TestArctan2SpecialValues
 assert_almost_equal
 TestChoose
 test_spacing_gfortran
 TestSign
-test_nextafterl
 assert_hypot_isinf
 TestHypotSpecialValues
 TestExp2

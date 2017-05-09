@@ -1,5 +1,0 @@
-set_ops
-histogram_ops
-metric_ops_test
-confusion_matrix_ops
-metric_ops

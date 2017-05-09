@@ -10,6 +10,7 @@ test_python2_python3_interoperability
 BytesIOSRandomSize
 sys
 test_version_2_0_memmap
+test_large_archive
 sixu
 teardown_module
 BytesIO

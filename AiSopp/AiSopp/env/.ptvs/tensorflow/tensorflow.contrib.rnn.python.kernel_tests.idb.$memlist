@@ -1,7 +1,0 @@
-rnn_cell_test
-core_rnn_test
-fused_rnn_cell_test
-gru_ops_test
-lstm_ops_test
-rnn_test
-core_rnn_cell_test

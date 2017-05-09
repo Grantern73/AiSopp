@@ -1,9 +1,0 @@
-constant_op
-EvalMetricsTest
-absolute_import
-division
-print_function
-eval_metrics
-variables
-googletest
-test_util

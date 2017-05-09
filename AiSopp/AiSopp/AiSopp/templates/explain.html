@@ -1,0 +1,32 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<h3>{{ message }}</h3>
+
+<div class="row">
+    <p>
+        Tjenesten vil alltid gi deg 5 alternativer som er rangert fra topp til bunn.<br/>
+        Navnet består av det norske navnet på soppen, og det latinske navnet i parentes.<br/>
+        <strong>Rangering</strong><br/>
+        Rangeringskolonnen inneholder ett tall som angir en verdi for hvor mye som samsvarer med det den har lært tidligere.<br/>
+        Resultatet av en analyse vil gi deg rangeringer som varierer mellom 0 og 100, dette er ikke det samme som prosent sannsynlighet.<br/>
+        <strong>Analysen</strong><br/>
+        Et lavt tall indikerer at det er mange faktorer i bildet som ikke stemmer med forslaget, mens et høyt tall indikerer at det er mange faktorer som stemmer.
+        Ett resultat som kun har rangeringer under 10 vil jeg si er ganske usikkert, men den kan alikevel ha funnet rett sopp.<br/>
+        I slike tilfeller ville jeg forsøkt å ta ett nytt bilde som forsøker å fange så mange aspekter av soppen som mulig.<br/>>
+        Rangeringer mellom 10 og 20 er fortsatt usikre, ofte er de to øverste svarene i det området, men det riktige svaret kan like gjerne være svar 3, 4 eller 5.<br/>
+        En rangering mellom 20 og 40 begynner å bli ganske bra. Men jeg ser av og til at det er ikke nødvendigvis korrekt sopp på plass 1 eller 2.<br/>
+        En av grunnen til dette er at veldig mange sopper ligner på hverandre og at datagrunnlaget til tjenesten fortsatt er litt på den lave siden.<br/>
+        Alt over 50 er å regne som veldig bra. Enkelte sopper er veldig distinkte og vil alltid gi en høy rangering.<br/>
+        <strong>Resultater</strong><br/>
+        Noe som sikkert kan virke rart er at den gir alternativer som virkelig ikke føles som riktig sopp.<br/>
+        Dette kommer av at den alltid må gi 5 alternativer, og da blir det ofte litt tilfeldig hva nr 3, 4 og 5 er, slik vi mennesker ser det.<br/>
+        Husk at dette er langt fra en menneskelig soppekspert som kan se soppens størrelse, lukt og tekstur og ikke minst hvor den er plukket.<br/>
+        Alt denne tjenesten har å gå på er ett bilde, men det er realistisk å tro at den med tiden vil bli rundt 90% treffsikker.<br/>
+        Du har uansett med deg ett oppslagsverk som vil fortelle deg om soppens detaljer.
+    </p>    
+
+</div>
+{% endblock %}

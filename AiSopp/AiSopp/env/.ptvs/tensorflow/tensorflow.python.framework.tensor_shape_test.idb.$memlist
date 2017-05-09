@@ -1,9 +1,0 @@
-DimensionTest
-absolute_import
-ShapeTest
-division
-print_function
-tensor_shape
-googletest
-tensor_shape_pb2
-test_util

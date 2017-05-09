@@ -791,6 +791,8 @@
       <Publish>True</Publish>
     </Content>
     <Content Include="AiSopp\templates\admin.html" />
+    <Content Include="AiSopp\templates\explain.html" />
+    <Content Include="AiSopp\templates\mobile.html" />
     <Content Include="AiSopp\templates\sopp.html" />
     <Content Include="AiSopp\templates\oversikt.html" />
     <Content Include="favicon.ico">

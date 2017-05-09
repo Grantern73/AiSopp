@@ -29,9 +29,9 @@ def contact():
     """Renders the contact page."""
     return render_template(
         'contact.html',
-        title='Contact',
+        title='Kontakt',
         year=datetime.now().year,
-        message='Your contact page.'
+        message='Kontakt og nyttige lenker'
     )
 
 @app.route('/about')
@@ -43,6 +43,16 @@ def about():
         year=datetime.now().year,
         message='Intelligent identifisering av Sopp'
     )
+
+@app.route('/mobile')
+def mobile():
+    """Renders the Mobile app info page. """
+    return render_template('mobile.html', title='Mobil app', message='Mobil app til Android og Iphone er underveis')
+
+@app.route('/explain')
+def explain():
+    """Renders the explain info page. """
+    return render_template('explain.html', title='Forklaring', message='Hva forteller den deg og hvordan tolke resultatet')
 
 @app.route('/admin')
 def admin():

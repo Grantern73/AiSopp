@@ -1,9 +1,0 @@
-mnist_softmax_xla
-absolute_import
-mnist
-fully_connected_feed
-division
-print_function
-mnist_softmax
-mnist_with_summaries
-input_data

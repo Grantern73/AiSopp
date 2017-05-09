@@ -41,23 +41,24 @@
                 <th>Rangering</th>
             </tr>
             {% for name, hitrate, localname, risk in results %}
-                <tr>
+            <tr>
                 {% if risk == "0" %}
-                    <td class="alert alert-success" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
-                    <td class="alert alert-success" role="alert">{{ ('%.2f') % hitrate }}</td>
-            
-                {% elif risk == "1" %}
-                    <td class="alert alert-warning" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
-                    <td class="alert alert-warning" role="alert">{{ ('%.2f') % hitrate }}</td>
-            
-                {% elif risk == "2" %}
-                    <td class="alert alert-danger" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
-                    <td class="alert alert-danger" role="alert">{{ ('%.2f') % hitrate }}</td>
+                <td class="alert alert-success" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
+                <td class="alert alert-success" role="alert">{{ ('%.2f') % hitrate }}</td>
 
-            {% endif %}
-                </tr>
+                {% elif risk == "1" %}
+                <td class="alert alert-warning" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
+                <td class="alert alert-warning" role="alert">{{ ('%.2f') % hitrate }}</td>
+
+                {% elif risk == "2" %}
+                <td class="alert alert-danger" role="alert"><a href="/sopp/{{ name }}">{{ localname }} - ({{ name }})</a></td>
+                <td class="alert alert-danger" role="alert">{{ ('%.2f') % hitrate }}</td>
+
+                {% endif %}
+            </tr>
             {% endfor %}
         </table>
+        <h5><a href="/explain">Les mer</a> om hvordan best bruke og forstå hva den forteller deg her.</h5>
     </div>
     <div class="col-md-4">
         <h2>Android og IOS</h2>
@@ -65,7 +66,7 @@
             Snart kan du laste ned en app til din telefon og ta turen ut i skogen for å finne trygge og gode sopper.<br />
             Følg med her for når din app blir tilgjengelig for din telefon.
         </p>
-        <p><a class="btn btn-success" href="/about">Les mer &raquo;</a></p>
+        <p><a class="btn btn-success" href="/mobile">Les mer &raquo;</a></p>
     </div>
 </div>
 

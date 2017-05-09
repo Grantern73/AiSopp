@@ -1,6 +1,0 @@
-external_optimizer_test
-variable_clipping_optimizer
-external_optimizer
-variable_clipping_optimizer_test
-moving_average_optimizer_test
-moving_average_optimizer

@@ -1,8 +1,0 @@
-constant_op
-linalg_ops
-absolute_import
-np
-division
-DeterminantOpTest
-print_function
-test
