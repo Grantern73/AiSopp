@@ -20,7 +20,7 @@
       "locations": "Du finner den helst i gammel granskog med tykt nåledekke. Vanlig i lavlandet over det meste av landet.",
       "season": "Juli til Oktober.",
       "usage": "Regnes som en av våre mest velsmakende sopper. Finner du mange nok, tilbred dem for seg selv. Ellers bruk i blandinger. Oppbevares dypfryst.",
-      "similarto": "Kan forveksles med flere. Åkersjampinjong (Agaricus arvensis) som er spiselig, er nesten identisk. Skilles på voksested, da åkersjampinjong vokser i næringsrik åpen gressmark.<br /> Hvit fluesopp (Amanita virosa) som er veldig giftig. Den er uforanderlig hvit i alle deler, har slire, er klebrig i fuktig vær og lukter ubehagelig.<br />Stor kragesopp (Stropharia hornemannii) som er uspiselig. Den har sorte sporer, en ring med stripete overside. Stilken er trådete, skjellete nedenfor ringen. Skivene er tilvokst til stilken som er fastvokst med hatten. Hatten er lys beige og noe klebrig. "
+      "similarto": "Kan forveksles med flere.<br />Åkersjampinjong <a href='/sopp/agaricus arvensis'>Agaricus arvensis</a> som er spiselig, er nesten identisk. Skilles på voksested, da åkersjampinjong vokser i næringsrik åpen gressmark.<br />Hvit fluesopp <a href='/sopp/amanita virosa'>Amanita virosa</a> som er veldig giftig. Den er uforanderlig hvit i alle deler, har slire, er klebrig i fuktig vær og lukter ubehagelig.<br />Stor kragesopp <a href='/sopp/stropharia hornemannii'>Stropharia hornemannii</a> som er uspiselig. Den har sorte sporer, en ring med stripete overside. Stilken er trådete, skjellete nedenfor ringen. Skivene er tilvokst til stilken som er fastvokst med hatten. Hatten er lys beige og noe klebrig. "
     },
     {
       "name": "agaricus silvaticus",
@@ -31,18 +31,18 @@
       "locations": "Du finner de helst i nåledekket under grantrær og i gamle maurtuer. Kan også dukke opp blant gress og urter i gammel granskog. Vanlig i Sør-Norge. Sjelden i Nord-Norge.",
       "season": "August og September.",
       "usage": "Den er spiselig og god, men kan ikke helt måle seg med sjampinjonger som gulner og har anis/mandelaktig smak og lukt. Fin stekesopp, gjerne i blandinger. Oppbevares dypfryst, men kan også tørkes.",
-      "similarto": "Kan forveksles med flere. Stor blodsjampinjong (Agaricus langei) som er spiselig. Den er større og kraftigere. Den rødner kraftig i brudd, kan nesten se ut som den blør. Ikke så vanlig hos oss.<br />Noen slørsopper rødner i brudd og kan forveksles med blodsjampinjong. Slørsoppen mangler ring, og de har et mer mellombrunt sporepulver. Flere er giftig. "
+      "similarto": "Kan forveksles med flere.<br />Stor blodsjampinjong <a href='/sopp/agaricus langei'>Agaricus langei</a> som er spiselig. Den er større og kraftigere. Den rødner kraftig i brudd, kan nesten se ut som den blør. Ikke så vanlig hos oss.<br />Noen slørsopper rødner i brudd og kan forveksles med blodsjampinjong. Slørsoppen mangler ring, og de har et mer mellombrunt sporepulver. Flere er giftig. "
     },
     {
       "name": "albatrellus ovinus",
       "local_name": "Fåresopp",
       "images": [ "albatrellus_ovinus1.jpg", "albatrellus_ovinus2.jpg", "albatrellus_ovinus3.jpg" ],
       "risk": "0",
-      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 3 - 6 cm. Hatten er fra velvet flat med ujevn bølgete hattkant. Hatten er hvit, gråhvit, ofte med innslag av grålilla tone. Unge eksemplarer er glatte, men eldre sprekker gjerne opp i uregelmessige mønstre. Undersiden er dekket av et hvitt, tynt nedløpende porelag som kjennes helt glatt hvis man gnir en finger over det. Stilken er kort, tykk og avsmalende mot basis og har samme farge som hatten. Soppen fremstår som hvit. Soppen får ofte gule flekker ved berøring eller alder. Kjøttet er fast og hvitt, er den markspist vil markgangene ofte være gule. Kjøttet blir sitrongult ved oppvarming, ett viktig kjennetegn som skiller den fra Fransk Brødsopp (Albatrellus confluens), som forblir hvit. Svak lukt og mild i smaken.",
+      "description": "Hattdiameter 5 - 20 cm. Stilkhøyde 3 - 6 cm. Hatten er fra velvet flat med ujevn bølgete hattkant. Hatten er hvit, gråhvit, ofte med innslag av grålilla tone. Unge eksemplarer er glatte, men eldre sprekker gjerne opp i uregelmessige mønstre. Undersiden er dekket av et hvitt, tynt nedløpende porelag som kjennes helt glatt hvis man gnir en finger over det. Stilken er kort, tykk og avsmalende mot basis og har samme farge som hatten. Soppen fremstår som hvit. Soppen får ofte gule flekker ved berøring eller alder. Kjøttet er fast og hvitt, er den markspist vil markgangene ofte være gule. Kjøttet blir sitrongult ved oppvarming, ett viktig kjennetegn som skiller den fra Fransk Brødsopp <a href='/sopp/albatrellus confluens'>Albatrellus confluens</a>, som forblir hvit. Svak lukt og mild i smaken.",
       "locations": "Du finner den i gammel moserik barskog eller blandingsskog. Den danner sopprot med gran. Fåresopp vokser tett i lange brede rader og grupper, men soppene er ikke sammenvokst. Du kan alltid løsne hver enkelt sopp. Vanlig på Østlandet og Trøndelag, også i Nordland. Den følger utbredelsesområdet til viltvoksende gran.",
       "season": "August til midt September",
       "usage": "Fåresopp er spiselig og unge eksemplarer er utmerket matsopp. Endrer farge til sitrongul og deretter grågrønn/sort ved tilbredning. Stor og gammel sopp kan være besk. Den er fin i blandinger med annen sopp, den er fin som stekesopp, og egner seg i gryter, stuinger og sauser. Kan prøves til det meste.",
-      "similarto": "Forveksles ofte med Franskbrødsopp (albatrellus confluens). Helt unge eksemplarer av denne kan brukes."
+      "similarto": "Forveksles ofte med Franskbrødsopp <a href='/sopp/albatrellus confluens'>Albatrellus confluens</a>. Helt unge eksemplarer av denne kan brukes."
     },
     {
       "name": "albatrellus confluens",
@@ -53,7 +53,7 @@
       "locations": "Gammel moserik barskog eller blandingsskog. Den danner sopprot med gran og foretrekker kalkrik granskog der den ofte vokser i store grupper. Vanlig på Østlandet og nord til Trøndelag. Sjelden på Veslandet.",
       "season": "August og September",
       "usage": "Franskbrødsopp regnes som uspiselig selv om unge eksemplarer kan brukes i blandinger. Er ikke giftig.",
-      "similarto": "Forveksles ofte med Fåresopp, Albatrellus ovinus."
+      "similarto": "Forveksles ofte med Fåresopp, <a href='/sopp/albatrellus ovinus'>Albatrellus ovinus</a> som er spiselig."
     },
     {
       "name": "boletus badius",
@@ -64,7 +64,7 @@
       "locations": "Vokser i barskog, med innslag av eik og furu. Finnes ofte enkeltvis, men forekommer også i små grupper. Vanlig i lavlandet til Nord-Trøndelag.",
       "season": "Sommer til sen høst.",
       "usage": "Spiselig og meget god matsopp. Den kan fryses og tørkes.",
-      "similarto": "Unge eksemplarer kan forveksles med fløyelsrørsopp, Boletus subtomentosus (spiselig). Kan også forveksles med orerørsopp, Gyrodan lividus (uspiselig)."
+      "similarto": "Unge eksemplarer kan forveksles med fløyelsrørsopp, <a href='/sopp/boletus subtomentosus'>Boletus subtomentosus</a> som er spiselig.<br />Kan også forveksles med orerørsopp <a href='/sopp/gyrodan lividus'>Gyrodan lividus</a> som er uspiselig."
     },
     {
       "name": "boletus edulis",
@@ -75,7 +75,7 @@
       "locations": "Den finnes i alle typer skog. Den danner sopprot med forskjellige trær, både bar- blandings- og løvskog. Den vokser enkeltvis eller få sammen. Den krever mye nedbør og varme. Enkelte ganger får vi steinsoppår etter en varm og fuktig sommer.",
       "season": "August og ut September",
       "usage": "En av verdens mest ettertraktede matsopper. Kan brukes til alle soppretter og er en av veldig få arter som kan nytes rå i små mengder. Oppbevares best tørket eller dypfryst etter ett raskt oppkok i lettsaltet vann.",
-      "similarto": "Kan forveksles med Gallerørsopp (Tylopilus felleus) som er uspiselig. Den har rosa rørlag og smaker meget beskt. Rødbrun steinsopp (Boletus pinophilus) som er spiselig og meget god. Utover det har vi en rekke velsmakende rørsopper som kan ligne mer eller mindre på steinsopp."
+      "similarto": "Kan forveksles med Gallerørsopp <a href='/sopp/tylopilus felleus'>Tylopilus felleus</a> som er uspiselig. Den har rosa rørlag og smaker meget beskt.<br />Rødbrun steinsopp <a href='/sopp/boletus pinophilus'>Boletus pinophilus</a> som er spiselig og meget god.<br />Utover det har vi en rekke velsmakende rørsopper som kan ligne mer eller mindre på steinsopp."
     },
     {
       "name": "boletus luridiformis",
@@ -97,7 +97,7 @@
       "locations": "Vokser oftest enkeltvis i bar- og løvskog. Den er vanlig i hele landet, og finnes helt oppe i fjellbjørkeskogen.",
       "season": "Sommer til sen høst",
       "usage": "Spiselig og god. Egner seg i soppblandinger med annen sopp. Kan dypfryses.",
-      "similarto": "Ruterørsopp (Boletus pascuus) som er spiselig. Hatthuden sprekker opp i et ruteformet mønster. Hattkjøttet er rosa under hatthuden og den får da et rosa rutemønster. Stilken er gul øverst og blir gradvis rød nedover. Svartbrun rørsopp (Boletus badius) som er spiselig. Orerørsopp (Gyrodon lividus) som ikke er matsopp."
+      "similarto": "Ruterørsopp <a href='/sopp/boletus pascuus'>Boletus pascuus</a> som er spiselig. Hatthuden sprekker opp i et ruteformet mønster. Hattkjøttet er rosa under hatthuden og den får da et rosa rutemønster. Stilken er gul øverst og blir gradvis rød nedover.<br />Svartbrun rørsopp <a href='/sopp/boletus badius'>Boletus badius</a> som er spiselig.<br />Orerørsopp <a href='/sopp/gyrodon lividus'>Gyrodon lividus</a> som ikke er matsopp."
     },
     {
       "name": "cantharellus aurora",
@@ -108,7 +108,7 @@
       "locations": "Trives best i kalkrik barskog, gjerne fuktige plasser som myrkanter. Den vokser i store grupper. Vanlig sørpå.",
       "season": "Fra tidlig høst og frem til frosten kommer.",
       "usage": "En godbit av en sopp. Utmerket til steking og god i de fleste soppretter. Kan tørkes og fryses. Fjern eventuelle barnåler eller insektegg som kan havne i den hule stilken før bruk.",
-      "similarto": "Kan forveksles med Traktkantarell, Cantharellus tubaeformis (spiselig). Gullmosehatt, Gerronema chrysophyllum (uspiselig). Slimmorkel, Leotia lubrica (svakt giftig). "
+      "similarto": "Kan forveksles med Traktkantarell <a href='/sopp/cantharellus tubaeformis'>Cantharellus tubaeformis</a> som er spiselig.<br />Gullmosehatt <a href='/sopp/gerronema chrysophyllum'>Gerronema chrysophyllum</a> som er uspiselig.<br />Slimmorkel <a href='/sopp/leotia lubrica'>Leotia lubrica</a> som er uspiselig og svakt giftig. "
     },
     {
       "name": "cantharellus cibarius",
@@ -119,7 +119,7 @@
       "locations": "Den danner sopprot med flere ulike treslag og finnes derfor i de fleste skogstyper. Trives best i moserik blåbærgranskog og i gammel bjørkeskog. Den kan ofte finnes langs skogsveier og stier. Den vokser ofte sammen i grupper eller rader. Finnes mer eller mindre over hele landet.",
       "season": "Slutten av Juni til Oktober/November.",
       "usage": "Dette er en av de beste matsoppene. Utmerket stekesopp. Kan fryses, tørkes og hermetiseres.",
-      "similarto": "Engvokssopp, Camarophyllus pratensis (spiselig). Falsk kantarell, Hygrophoropsis aurantiaca (uspiselig). "
+      "similarto": "Engvokssopp <a href='/sopp/camarophyllus pratensis'>Camarophyllus pratensis</a> som er spiselig.<br />Falsk kantarell <a href='/sopp/hygrophoropsis aurantiaca'>Hygrophoropsis aurantiaca</a> som er uspiselig. "
     },
     {
       "name": "cantharellus tubaeformis",
@@ -130,7 +130,7 @@
       "locations": "Finnes i dyp fuktig mose i barskog, gjerne sammen med blåbær. Finnes i det meste av landet. Den vokser i store grupper, men er vanskelig å få øye på. Trives på fuktige plasser.",
       "season": "Kommer sent, men kan plukkes helt til snøen dekker den.",
       "usage": "Dette er en meget god stekesopp, spesielt til vilt. Unge eksemplarer kan tørkes, men sopp plukket sent i sesongen bør dypfryses. Ved rensing, del soppen da det kan legge seg barnåler og insektegg i den hule stilken.",
-      "similarto": "Kan forveksles med Traktkantarell, Cantharellus tubaeformis (spiselig). Gullmosehatt, Gerronema chrysophyllum (uspiselig). Slimmorkel, Leotia lubrica (svakt giftig)."
+      "similarto": "Kan forveksles med Traktkantarell <a href='/sopp/cantharellus tubaeformis'>Cantharellus tubaeformis</a> som er spiselig.<br />Gullmosehatt <a href='/sopp/gerronema chrysophyllum'>Gerronema chrysophyllum</a> som er uspiselig.<br />Slimmorkel <a href='/sopp/leotia lubrica'>Leotia lubrica</a> som er uspiselig og svakt giftig."
     },
     {
       "name": "cortinarius camphoratus",
@@ -141,7 +141,7 @@
       "locations": "Finner den i fuktig moserik barskog. Den finnes enkeltvis eller få sammen. Vanlig i Sør-Norge, mindre vanlig nordover. Men det er funnet eksemplarer i nord til Nordland.",
       "season": "August til Oktober",
       "usage": "Uspiselig, muligens svakt giftig.",
-      "similarto": "Blå ridderhatt, Lepista nuda (spiselig). Er også ganske lik en rekke andre lilla og blå slørsopper."
+      "similarto": "Kan forveksles med Blå ridderhatt <a href='/sopp/lepista nuda'>Lepista nuda</a> som er spiselig.<br />Er også ganske lik en rekke andre lilla og blå slørsopper."
     },
     {
       "name": "coprinus comatus",
@@ -174,7 +174,7 @@
       "locations": "Enkeltvis eller i grupper på dødt trevirke og hogstavfall. I nyere tid på grunn av skogbruk med kvisting og barking på stedet har flatklokkehatten fått svært gode vekstvilkår. Med god tilgang til næring har soppen blitt større og mer synlig. Vanlig i hele landet.",
       "season": "August til oktober",
       "usage": "Flatklokkehatt er en svært giftig sopp som inneholder giftstoffet amanitin, som også finnes i hvit- og grønn fluesopp. Flatklokkehatt har et lavere innhold av amanitin og gir ofte en mildere form for forgiftning enn hvit- og grønn fluesopp. Ta kontakt med Giftinformasjonen eller lege hvis du tror du kan ha spist flatklokkehatt.",
-      "similarto": "Flatklokkehatt ligner veldig på den spiselige matsoppen Stubbeskjellsopp (Kuehneromyces mutabilis). Begge artene er hygrofane."
+      "similarto": "Flatklokkehatt ligner veldig på den spiselige matsoppen Stubbeskjellsopp (Kuehneromyces mutabilis). Begge artene er hygrofane som betyr at de forandrer farge/utseende i fuktig vær."
     },
     {
       "name": "gomphidius glutinosus",
@@ -218,7 +218,7 @@
       "locations": "Finnes i moserik bar- og løvskog. Danner ofte store tette ringer eller rader. Ofte skjult nede i gress og lyng. Den er vanlig i hele landet og finnes også helt opp i fjellbjørkeskogen.",
       "season": "August til ut i November.",
       "usage": "God matsopp som er fin i blandinger med annen sopp. Egner seg godt til steking og er førsteklasses sopp i gryteretter hvor den også kan erstatte kjøtt. Bør tørrstekes slik at all naturlig fuktighet er dampet bort før den dypfryses. Egner seg ikke til tørking, untatt når man lager soppmel.",
-      "similarto": "Kan forveksles med Rødgul Piggsopp, Hydnum rufescens (spiselig og god)"
+      "similarto": "Kan forveksles med Rødgul Piggsopp (Hydnum rufescens) som er god matsopp."
     },
     {
       "name": "hydnum rufescens",
@@ -229,7 +229,7 @@
       "locations": "Vanlig i bar- og løvskog. Vokser ofte på nåledekke under gran og sammen med gjøksyre. Danner lange rader eller grupper. Vanlig over hele landet.",
       "season": "August til Oktober",
       "usage": "God matsopp som er fin i blandinger med annen sopp. Egner seg godt til steking og er førsteklasses sopp i gryteretter hvor den også kan erstatte kjøtt. Bør tørrstekes slik at all naturlig fuktighet er dampet bort før den dypfryses. Egner seg ikke til tørking, untatt når man lager soppmel. Mange mener Blek Piggsopp smaker best av de to.",
-      "similarto": "Kan forveksles med Blek Piggsopp, hydnum repandum (spiselig og god)"
+      "similarto": "Kan forveksles med Blek Piggsopp (Hydnum repandum) som er en god matsopp."
     },
     {
       "name": "sacrodon squamosus",
@@ -240,7 +240,7 @@
       "locations": "Granskjellpiggsoppen (Sacrodon Imbricus) vokser i kalkrik granskog, mens Furuskjellpiggsoppen (Sacrodon Squamosus) finnes i kalkrik furuskog. Begge arter vokser i brede rader, sjeldent enkeltvis. Begge er vanlige i sine skogstyper helt opp til nord i Nordland.",
       "season": "August til ut Oktober",
       "usage": "Granskjellpiggsoppen er mest egnet som krydder og som tilsetning i soppblandinger til soppsoya. Helt unge eksemplarer kan prøves som stekesopp. Den har en kraftig smak. Furuskjellpiggsopp har en mye mildere smak og brukes mye i Mellom-Europa. Prøv unge eksemplarer som stekesopp, eller bruk den nedlagt som pickles eller i olje. Fantastisk til soppsoya. Gamle, råtne eksemplarer ble i gamle dager brukt til å gi blå farge på ullgarn.",
-      "similarto": "Kan forveksles med flere andre arter av brune piggsopper, ingen er giftig, men de er heller ikke mat."
+      "similarto": "Kan forveksles med flere andre arter av brune piggsopper, ingen er giftig, men de er heller ikke matsopper."
     },
     {
       "name": "suillus luteus",
@@ -251,7 +251,7 @@
       "locations": "Soppen trives i furuskog over hele landet, langs skogsveier på sandlig grunn. Vokser i grupper.",
       "season": "August til sen høst",
       "usage": "En ypperlig matsopp. Flå hatthuden av før du tar den med hjem. Den er ofte markspist så bruk unge eksemplarer. Er veldig god alene, men egener seg også i blandinger. Det er en flott stekesopp. Kan tørkes eller dypfryses.",
-      "similarto": "Forveksles ofte med Ringløs smørsopp (Suillus granulatus) som er god matsopp. Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær. Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker. Sandsopp (Suillus variegatus) som er spiselig. "
+      "similarto": "Forveksles ofte med Ringløs smørsopp (Suillus granulatus) som er god matsopp.<br />Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær.<br />Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker.<br />Sandsopp (Suillus variegatus) som er spiselig. "
     },
     {
       "name": "suillus granulatus",
@@ -262,7 +262,7 @@
       "locations": "Soppen trives i kalkrik furuskog over hele landet. Vokser i grupper.",
       "season": "August til sen høst",
       "usage": "En ypperlig matsopp. Flå hatthuden av før du tar den med hjem. Den er ofte markspist så bruk unge eksemplarer. Er veldig god alene, men egener seg også i blandinger. Det er en flott stekesopp. Kan tørkes eller dypfryses.",
-      "similarto": "Forveksles ofte med Smørsopp (Suillus luteus) som er god matsopp. Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær. Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker. Sandsopp (Suillus variegatus) som er spiselig. "
+      "similarto": "Forveksles ofte med Smørsopp (Suillus luteus) som er god matsopp.<br />Forveksles også med Lerkesopp (Suillus grevillei) som er spiselig, men som bare vokser sammen med lerketrær.<br />Seig kusopp (Suillus bovinus) som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker.<br />Sandsopp (Suillus variegatus) som er spiselig. "
     },
     {
       "name": "suillus variegatus",
@@ -339,7 +339,7 @@
       "locations": "Du finner de i furuskog eller blandet barskog, gjerne blant reinlav. Vanlig over hele landet.",
       "season": "Juli ut September",
       "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
-      "similarto": "Kan forveksles med andre røde, gule og gulaktig kremler. Eneste farlige forveksling med gulrød kremle er utvasket rød fluesopp, der de hvite prikkene er skyllet vekk. Hatthuden hos fluesoppen kan dras helt av og kjøttet under er gulrødt og soppkjøttet kan trevles. "
+      "similarto": "Kan forveksles med andre røde, gule og gulaktig kremler.<br />Eneste farlige forveksling med gulrød kremle er utvasket rød fluesopp, der de hvite prikkene er skyllet vekk. Hatthuden hos fluesoppen kan dras helt av og kjøttet under er gulrødt og soppkjøttet kan trevles. "
     },
     {
       "name": "russula claroflava",
@@ -350,7 +350,7 @@
       "locations": "Mild Gulkremle er bundet til bjørk og er vanlig over hele landet, helt opp på høyfjellet der den følger dvergbjørka ",
       "season": "Juli ut September",
       "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
-      "similarto": "Kan forveksles med Skarp Gulkremle (Russula ochroleuca) som er bundet til gran. Den regnes som uspiselig, men mange er uenig i det. Skarpheten forsvinner med varmebehandling. Kan også forveksles med andre gule kremler, men ingen er giftige."
+      "similarto": "Kan forveksles med Skarp Gulkremle (Russula ochroleuca) som er bundet til gran. Den regnes som uspiselig, men mange er uenig i det. Skarpheten forsvinner med varmebehandling.<br />Kan også forveksles med andre gule kremler, men ingen er giftige."
     },
     {
       "name": "russula paludosa",
@@ -361,7 +361,7 @@
       "locations": "Finner de i barskog, gjerne med mye furu i fuktig terreng. Vanlig i hele landet.",
       "season": "Juli til ut September",
       "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
-      "similarto": "Kan forveksles med mange andre røde og rødlige kremler. Mest lik teglkremle (Russula velenovskyi) som er spiselig. Den skille seg ut ved å være gulhvit i midten."
+      "similarto": "Kan forveksles med mange andre røde og rødlige kremler.<br />Mest lik teglkremle (Russula velenovskyi) som er spiselig. Den skille seg ut ved å være gulhvit i midten."
     },
     {
       "name": "russula xerampelina",
@@ -372,7 +372,7 @@
       "locations": "Arter av sildekremle vokser i de fleste skogstyper, også over tregrensa. De vokser enkeltvis eller få sammen. Vanlig over hele landet.",
       "season": "Juli til ut September",
       "usage": "Utmerket matsopp, både alene og i blandinger. Oppbevares best dypfryst.",
-      "similarto": "Kan forveksles med mange andre kremler. Brunfarging av kjøttet ved trykk og alder samt lukten er sikre kjennetegn."
+      "similarto": "Kan forveksles med mange andre kremler.<br />Brunfarging av kjøttet ved trykk og alder samt lukten er sikre kjennetegn."
     },
     {
       "name": "russula integra",
@@ -394,7 +394,7 @@
       "locations": "Finner den i næringsrik blandinsskog, gjerne langs stier og skogsveier. Er vanlig i Sør Norge, men også nord til Nordland.",
       "season": "Juli til ut September",
       "usage": "En av de bedre matsoppene vi har, både alene og i blandinger. Utmerket rå i salater. Oppbevares best dypfryst.",
-      "similarto": "Kan forveksles med flere andre rødbrune kremler. Beste kjennetegn er at den viser tenner, har hvite skiver og er meget fast i kjøttet"
+      "similarto": "Kan forveksles med flere andre rødbrune kremler.<br />Beste kjennetegn er at den viser tenner, har hvite skiver og er meget fast i kjøttet"
     },
     {
       "name": "russula aueruginea",
@@ -405,7 +405,7 @@
       "locations": "Grønnkremle er bundet til bjørk. Du kan finne de over hele landet.",
       "season": "Juli til ut September",
       "usage": "Fin matsopp som også egner seg til steking og i blandinger med andre kremler og annen sopp. Oppbevares best dypfryst, men kan også tørkes.",
-      "similarto": "Kan forveksles med flere andre grønne og grønnaktige kremler som alle er spiselige. Noen har forvekslet den med grønn fluesopp (Amanita phalloides) som er dødelig. Den har ring på stilken og stor hudpose, slire ved basis og kan trevles."
+      "similarto": "Kan forveksles med flere andre grønne og grønnaktige kremler som alle er spiselige.<br />Noen har forvekslet den med grønn fluesopp (Amanita phalloides) som er dødelig. Den har ring på stilken og stor hudpose, slire ved basis og kan trevles."
     },
     {
       "name": "russula emetica",
@@ -427,7 +427,7 @@
       "locations": "Den finnes i kalkrik furuskog. Den er mest vanlig på Vestlandet, men forekommer på Østlandet også. Den vokser i grupper eller rader.",
       "season": "August ut September",
       "usage": "Det er en god matsopp. Brukes alene eller i soppblandinger. Oppbevar den kokt i sin egen kraft og dypfryst.",
-      "similarto": "Forveksles med Granmatriske (Lactarius deterrimus) som også er spiselig. Granmatriske er bundet granskog. Observer voksested. Ingen andre store sopper har gulrotfarget melkesaft."
+      "similarto": "Forveksles med Granmatriske (Lactarius deterrimus) som også er spiselig.<br />Granmatriske (lactarius deterrimus) er bundet granskog. Observer voksested. Ingen andre store sopper har gulrotfarget melkesaft."
     },
     {
       "name": "lactarius deterrimus",
@@ -449,7 +449,7 @@
       "locations": "Du finner den enkeltvis eller bare få sammen. Vokser i blandingsskog, gjerne med eik, bøk, hassel og gran. Jordsmonnet bør være fuktig og næringsrikt. Ikke av de vanlige, men finnes i kystnære strøk til Møre og Romsdal.",
       "season": "August til Oktober",
       "usage": "Dette er en utmerket og spesiell matsopp. Noen mener den kan være litt for spesiell. Fin til steking. Den er også blandt de få som kan spises rå. Prøv den rå i tynne skiver med et lite salt og pepperdryss. Kan oppbevares dypfryst. Bruk den gjerne til retter med skalldyr eller fisk.",
-      "similarto": "Kan forveksles med Branngul riske (Lactarius mitissimus) som er spiselig, og andre rødbrune til oransje risker. Ingen av de lukter skalldyr og de er heller ikke regnet som spesielt gode matsopper. De fleste må forvelles eller utvannes og saltes før bruk. "
+      "similarto": "Kan forveksles med Branngul riske (Lactarius mitissimus) som er spiselig, og andre rødbrune til oransje risker.<br />Ingen av de lukter skalldyr og de er heller ikke regnet som spesielt gode matsopper. De fleste må forvelles eller utvannes og saltes før bruk. "
     },
     {
       "name": "lactarius lignyotus",
@@ -460,7 +460,7 @@
       "locations": "Den vokser nord til Nordland i gammel granskog der det gjerne er forholdsvis næringsfattig. Den er ikke vanlig med kan enkelte år påtreffes ganske ofte.",
       "season": "August til Oktober",
       "usage": "Sotriske er spiselig og god. Den blir rosa i stekepanna. Mange klassifiserer den ikke som spiselig, men den er ikke giftig. Kommer du over den så er det verdt å prøve.",
-      "similarto": "Kan forveksles med Røykriske (Lactarius fuliginosus) som er uspiselig og som ikke har folder øverst på stilken. Den er lysere både i hatten og på stilken. Svartriske (Lactarius necator) som er giftig og mye mer vanlig, smaker brennende skarpt. Som ung er den olivengrønn, med alderen mer grønnsvart. Hatten er nedsunket i midten og lenge innrullet kant. Sotvokssopp (Hygrophorus camarophyllus) som er spiselig, har de samme fargene, men soppkjøttet kan trevles og den har ikke melkesaft."
+      "similarto": "Kan forveksles med Røykriske (Lactarius fuliginosus) som er uspiselig og som ikke har folder øverst på stilken. Den er lysere både i hatten og på stilken.<br />Svartriske (Lactarius necator) som er giftig og mye mer vanlig, smaker brennende skarpt. Som ung er den olivengrønn, med alderen mer grønnsvart. Hatten er nedsunket i midten og lenge innrullet kant.<br />Sotvokssopp (Hygrophorus camarophyllus) som er spiselig, har de samme fargene, men soppkjøttet kan trevles og den har ikke melkesaft."
     },
     {
       "name": "lactarius rufus",
@@ -471,7 +471,7 @@
       "locations": "Den vokser i næringsfattig skog, helst furu og bjørk. Den vokser blant lyng, mose og lav. Er vanlig i hele landet og kan påtreffes høyt til fjells i bjørkeskogen og på lyngheier.",
       "season": "August til snøen kommer",
       "usage": "Må forvelles før den kan spises. Husk å slå vekk kokevannet. Mye brukt i Finland som saltet sopp. Har en spesiell smak, og en sopp man bør forsøke.",
-      "similarto": "Det finnes mange brune og brunaktige risker som kan forveksles med rødbrun pepperriske. Et viktig kjennetegn er den spisse vorten i hattens sentrum. De aller fleste kan brukes etter forvelling. Bare svartriske (Lactarius necator) og Lakrisrisken (Lactarius helvus) som er giftige og kreftfremkallende og bør absolutt ikke brukes. Lakrisrisken er den eneste risken som har vannklar saft. Hele soppen er lys gulbrun og fløyelsaktig hatthud. I tørket stand lukter den kraftig av karri"
+      "similarto": "Det finnes mange brune og brunaktige risker som kan forveksles med rødbrun pepperriske. Et viktig kjennetegn er den spisse vorten i hattens sentrum. De aller fleste kan brukes etter forvelling.<br />Bare svartriske (Lactarius necator) og Lakrisrisken (Lactarius helvus) som er giftige og kreftfremkallende og bør absolutt ikke brukes.<br />Lakrisrisken er den eneste risken som har vannklar saft. Hele soppen er lys gulbrun og fløyelsaktig hatthud. I tørket stand lukter den kraftig av karri"
     },
     {
       "name": "lactarius torminosus",
@@ -482,7 +482,7 @@
       "locations": "Du finner den sammen med alle arter av bjørk. Vokser i lavlandet og helt opp til dvergbjørka på høyfjellet. Vanlig over hele landet.",
       "season": "August til Oktober",
       "usage": "Må forvelles før den kan spises. Husk å slå vekk kokevannet. Mye brukt i Finland som saltet sopp.",
-      "similarto": "Kan ofte forveksles med Blek skjeggriske (Lactarius pubescens) som er spiselig etter forvelling. Det er vanskelig å skille fra avbleket eksemplar av Skjeggriske. Kan også ligne på gamle matrisker, men disse har gulrotfarget melkesaft og mangler skjegg i hattkanten. "
+      "similarto": "Kan ofte forveksles med Blek skjeggriske (Lactarius pubescens) som er spiselig etter forvelling.<br />Det er vanskelig å skille fra avbleket eksemplar av Skjeggriske.<br />Kan også ligne på gamle matrisker, men disse har gulrotfarget melkesaft og mangler skjegg i hattkanten. "
     },
     {
       "name": "clitopilus prunulus",
@@ -493,7 +493,7 @@
       "locations": "Du finner den ofte i gressmark i skog og langs skogsveier og stier. Vokser ofte i små grupper. Vanlig til nord i Troms, men vokser ikke i fjellet.",
       "season": "August til Oktober",
       "usage": "Førsteklasses matsopp. Brukes alene eller i blandinger med annen sopp. Oppbevares best dypfryst, men kan tørkes.",
-      "similarto": "Melsopp er ikke nybegynnersopp! Den kan forveksles med flere små hvite traktsopper som alle er giftige. Disse har hvite sporer. Hvit knippesopp (Lyophyllum connatum) som er giftig, kan også ligne. Den vokser stort sett i tette knipper, har tette hvite tilvokst til svakt nedløpende skiver, hvite sporer og har en karakteristisk litt syrlig lukt. Ekstra store eksemplarer kan av og til ligne på giftig rødskivesopp (Entoloma sinatum), fordi den også har rosa sporer. Denne har utrandete skiver, vokser med eik og bøk langs kysten til Møre og er sjelden. "
+      "similarto": "Melsopp er ikke nybegynnersopp! Den kan forveksles med flere små hvite traktsopper som alle er giftige. Disse har hvite sporer.<br />Hvit knippesopp (Lyophyllum connatum) som er giftig, kan også ligne. Den vokser stort sett i tette knipper, har tette hvite tilvokst til svakt nedløpende skiver, hvite sporer og har en karakteristisk litt syrlig lukt.<br />Ekstra store eksemplarer kan av og til ligne på giftig rødskivesopp (Entoloma sinatum), fordi den også har rosa sporer. Denne har utrandete skiver, vokser med eik og bøk langs kysten til Møre og er sjelden. "
     },
     {
       "name": "hygrophoropsis aurantiaca",
@@ -504,7 +504,7 @@
       "locations": "Du finner de ofte på rotten ved og stubber i barskog. Er ikke så avhengig av fuktighet som kantarell. Vanlig i det meste av landet.",
       "season": "September til Oktober",
       "usage": "Falsk kantarell er uspiselig.",
-      "similarto": "Forveksles ofte med Kantarell (Cantharellus cibarius) som er spiselig. Kantarellen har fast hvitt til blekgult kjøtt og er eggegul. "
+      "similarto": "Forveksles ofte med Kantarell (Cantharellus cibarius) som er spiselig.<br />Kantarellen har fast hvitt til blekgult kjøtt og er eggegul. "
     },
     {
       "name": "clitocybe odora",
@@ -515,7 +515,7 @@
       "locations": "Vokser i små og store grupper i bar- og løvskog. Ofte på nåledekket under gran. Kan i enkelte år dukke opp i store mengder. Finnes i hele landet men mest i lavlandet på Østlandet.",
       "season": "August til Oktober",
       "usage": "En utmerket stekesopp, men også fin i blandinger. Oppbevares dypfryst.",
-      "similarto": "Med sin grønne farge og spesielle anislukt kan den neppe forveksles med noe annen sopp. Men vær oppmerksom på at det finnes en hvit anistraktsopp (Clitocybe fragrans) som er uspiselig. Den er mindre og har ikke noe grønt i fargen. Er lys grågul til horngrå, mørkere mot midten og stripete hattkant i fuktig vær. Lukter også anis. "
+      "similarto": "Med sin grønne farge og spesielle anislukt kan den neppe forveksles med noe annen sopp.<br />Men vær oppmerksom på at det finnes en hvit anistraktsopp (Clitocybe fragrans) som er uspiselig. Den er mindre og har ikke noe grønt i fargen. Er lys grågul til horngrå, mørkere mot midten og stripete hattkant i fuktig vær. Lukter også anis. "
     },
     {
       "name": "clitocybe geotropa",
@@ -526,7 +526,7 @@
       "locations": "Trives i kalkrik løvskog. Der vokser den i store hekseringer eller rader. Regnes ikke som vanlig, men enkelte steder kommer den hvert år. Funnet nord til Troms.",
       "season": "August til November",
       "usage": "Spiselig og god matsopp som egner seg bra til steking. Bruk helst unge eksemplarer. De eldre utgavene bør forvelles før bruk. Traktsopper utvikler med alderen blåsyre som fjernes ved forvelling.",
-      "similarto": "En spesiell sopp som ikke burde kunne forveksles med annet enn Kjempemusserong (Leucopaxillus giganteus) som er spiselig. Den er nesten helt hvit, men mangler vorten / pukkelen i midten. Myk i kjøttet og kan trevles. Vokser også i hekseringer eller rader. Bør også forvelles. "
+      "similarto": "En spesiell sopp som ikke burde kunne forveksles med annet enn Kjempemusserong (Leucopaxillus giganteus) som er spiselig.<br />Den er nesten helt hvit, men mangler vorten / pukkelen i midten. Myk i kjøttet og kan trevles. Vokser også i hekseringer eller rader. Bør også forvelles. "
     },
     {
       "name": "clitocybe nebularis",
@@ -537,7 +537,7 @@
       "locations": "Vokser i store hekseringer eller rader i skog med mye næringsrik avfall av barstrø, løv og kompost. Kan også finne de i parker og hager. Vanlig i store deler av landet.",
       "season": "September til November",
       "usage": "Ble tidligere brukt mye etter forvelling, men ikke nå lenger. Inneholder blåsyre.",
-      "similarto": "Kan forveksles med giftig rødskivesopp (Entoloma sinautum) men denne har rosa sporer, utrandete skiver og er sjelden. Klubbetraktsopp (Clitocybe clavipes) som er svakt giftig, er mindre og har større fargekontraster med mer brunt i det grå. Stilken er mer oppsvulmet klubbeformet. Den vokser enkeltvis eller få sammen. "
+      "similarto": "Kan forveksles med giftig rødskivesopp (Entoloma sinautum) men denne har rosa sporer, utrandete skiver og er sjelden.<br />Klubbetraktsopp (Clitocybe clavipes) som er svakt giftig, er mindre og har større fargekontraster med mer brunt i det grå. Stilken er mer oppsvulmet klubbeformet. Den vokser enkeltvis eller få sammen. "
     },
     {
       "name": "calocybe gambosa",
@@ -548,7 +548,7 @@
       "locations": "Vårfagerhatt krever kalkrik jord og trives i gressmatter og kratt av løvtrær, men også i litt tørre skråninger med furu og gran. Den vokser i store hekseringer som kan være titalls meter i diameter. Man ser derfor ofte bare deler av ringen, men se deg rundt så finner du kanskje andre deler av den. Ganske vanlig i kalkrike områder i lavlandet vest til Aust-Agder og nord til Trøndelag.",
       "season": "Mai til Juni",
       "usage": "Meget god og ettertraktet matsopp. Den gikk tidligere under navnet Vårmusserong, som henger igjen hos mange. Nyt den stekt med kun litt salt og pepper og kanskje litt fløte. Finner du mange, bør den hermetiseres. Dypfrysing har lett for å gjøre den seig. Den kan også tørkes.",
-      "similarto": "Svært få andre hvite sopper kommer så tidlig, men vårtrevlesopp (Inocybe erubescens) som er giftig, men også en veldig sjelden sopp. Den er klokkeformet, leirfarget og rødner ved overskjæring og har brune sporer. Forveksling kan også forekomme med giftig Rødskivesopp (Entoloma sinuatum) som også er en sjelden høstsopp som også kan komme tidlig i sesongen. "
+      "similarto": "Svært få andre hvite sopper kommer så tidlig, men vårtrevlesopp (Inocybe erubescens) som er giftig, men også en veldig sjelden sopp. Den er klokkeformet, leirfarget og rødner ved overskjæring og har brune sporer.<br />Forveksling kan også forekomme med giftig Rødskivesopp (Entoloma sinuatum) som også er en sjelden høstsopp som også kan komme tidlig i sesongen. "
     },
     {
       "name": "lepista nuda",
@@ -559,7 +559,7 @@
       "locations": "Denne vokser i ringer eller rader, ofte også bare noen få sammen. Liker seg på nåledekket under grant, i råttnende løv og komposthauger og næringsrike parker og hager. Vanlig i hele landet.",
       "season": "September til November",
       "usage": "Mange regner denne som førsteklasses matsopp, men meningen er delte. Det anbefales å forvelle den før bruk. Ikke bland den med annen god matsopp. Den kan muligens ha en litt gummismak som overdøver andre smaker. Den het tidligere Blåmusserong. Oppbevares dypfryst. ",
-      "similarto": "Kan forveksles med flere blå til båaktige slørsopper. Blant annet Blåkjøttbukkesopp (Cortinarius camphoratus) som er uspiselig. Den har blått soppkjøtt og stram, sterk bukkeaktig lukt. Brunkjøttbukkesopp (Cortinarius traganus) som også er uspiselig. Den har brunt soppkjøtt og søtlig lukt av råtnende epler. Alle slørsopper har brune sporer. "
+      "similarto": "Kan forveksles med flere blå til båaktige slørsopper.<br />Blant annet Blåkjøttbukkesopp (Cortinarius camphoratus) som er uspiselig. Den har blått soppkjøtt og stram, sterk bukkeaktig lukt.<br />Brunkjøttbukkesopp (Cortinarius traganus) som også er uspiselig. Den har brunt soppkjøtt og søtlig lukt av råtnende epler.<br />Alle slørsopper har brune sporer. "
     },
     {
       "name": "tricholoma album",
@@ -570,7 +570,7 @@
       "locations": "Danner sopprot med bjørk. Den vokser i store ringer eller rader. Forekommer ofte i store mengder i løv- og blandingsskog, og ellers der det vokser bjørk. Også i fjellbjørkeskog. Er vanlig over hele landet, men sjeldnere på Vestlandet og i fjellet.",
       "season": "August til Oktober",
       "usage": "Uspiselig, muligens svakt gift ",
-      "similarto": "Kan av ukyndige forveklses med hvite sjampinjong, men de har rosa til sjokoladebrune skiver og ring på stilken. Den kan også forveksles med Silkemusserong (Ticholoma columbetta) som er spiselig og en ettertraktet, men forholdsvis sjelden matsopp. Den er vanligst på Vestlandet og er funnet nord til Troms. Silkemusserongen er også bundet til bjørk. Den har hvit hatthud, innvokste silkeaktige radiære fibre som gjør hatten skinnende blank. Hvit trevlet stilk ofte med grønne eller rødaktig skjolder ved stilkbasis. Mild melaktig smak og lukt. "
+      "similarto": "Kan av ukyndige forveklses med hvite sjampinjong, men de har rosa til sjokoladebrune skiver og ring på stilken.<br />Den kan også forveksles med Silkemusserong (Ticholoma columbetta) som er spiselig og en ettertraktet, men forholdsvis sjelden matsopp. Den er vanligst på Vestlandet og er funnet nord til Troms.<br />Silkemusserongen er også bundet til bjørk. Den har hvit hatthud, innvokste silkeaktige radiære fibre som gjør hatten skinnende blank. Hvit trevlet stilk ofte med grønne eller rødaktig skjolder ved stilkbasis. Mild melaktig smak og lukt. "
     },
     {
       "name": "tricholoma portentosum",
@@ -581,7 +581,7 @@
       "locations": "Ganske vanlig over hele landet. Liker seg ofte dypt nede i mosedekket i litt sandholdig sur gran- og løvskog. Vokser i store grupper eller ringer.",
       "season": "Midten av September til November",
       "usage": "En meget god matsopp. Utmerket alene eller i blandinger med annen sopp. Oppbevares dypfryst eller tørket. ",
-      "similarto": "Kan forveksles med flere andre grå musseronger som Gallemusserong (Tricholoma virgatum) som er giftig. Den har spiss pukkel, ingen sitrongule skjolder og med en brennende skarp smak. Såpemusserong (Tricholoma saponaceum) som er giftig. Den har glatt hatt med svært variabel farge fra gråhvitt til grågrønn og nesten sort. Den rødner i brudd med alderen. Lukter sur oppvaskklut og grønnsåpeaktig. "
+      "similarto": "Kan forveksles med flere andre grå musseronger som Gallemusserong (Tricholoma virgatum) som er giftig. Den har spiss pukkel, ingen sitrongule skjolder og med en brennende skarp smak.<br />Såpemusserong (Tricholoma saponaceum) som er giftig. Den har glatt hatt med svært variabel farge fra gråhvitt til grågrønn og nesten sort. Den rødner i brudd med alderen. Lukter sur oppvaskklut og grønnsåpeaktig. "
     },
     {
       "name": "tricholoma equestre",
@@ -592,7 +592,7 @@
       "locations": "Vi skiller mellom to typer. En litt spinkel, lys art som liker seg i løvskog, gjerne der det er mye osp. Den andre er kraftigere og mørkere som er knyttet til sandig furuskog. Begge regnes som en art hos oss og heter det samme. Ganske vanlig over hele landet. ",
       "season": "Slutten av September til November",
       "usage": "Riddermusserong er en førsteklasses matsopp og egner seg til det meste. Lagres dypfryst eller tørket. ",
-      "similarto": "Kan forveksles med flere gule musseronger og slørsopper.<br /> Bitter riddermusserong (Tricholoma aestuans) som er giftig, har en meget bitter smak som først kommer etter en stund etter at man har smakt på soppen og som forsterker seg lenge etterpå. Stilken avsmales øverst mot hatten, ellers en absolutt dobbeltgjenger til Riddermusserong. <br /> Svovelmusserong (Tricholoma sulphureum) som er giftig og har en ekkel gassaktig lukt. <br /> Kanarigul slørsopp (Cortinarius splendens) som er meget giftig hvor sporefargen er brun. Det er en sjelden sopp hos oss. "
+      "similarto": "Kan forveksles med flere gule musseronger og slørsopper.<br /> Bitter riddermusserong (Tricholoma aestuans) som er giftig, har en meget bitter smak som først kommer etter en stund etter at man har smakt på soppen og som forsterker seg lenge etterpå. Stilken avsmales øverst mot hatten, ellers en absolutt dobbeltgjenger til Riddermusserong. <br />Svovelmusserong (Tricholoma sulphureum) som er giftig og har en ekkel gassaktig lukt. <br />Kanarigul slørsopp (Cortinarius splendens) som er meget giftig hvor sporefargen er brun.<br />Det er en sjelden sopp hos oss. "
     },
     {
       "name": "tricholomopsis rutilans",
@@ -603,7 +603,7 @@
       "locations": "Finner de enkeltvis eller i små grupper på råtne stubber og røtter av bartrær, vanligst på furu. Vanlig i hele landet. ",
       "season": "Juli til Oktober",
       "usage": "Uspiselig, ikke matsopp.",
-      "similarto": "Kan forveksles med flere gule musseronger.<br /> Brungul stubbemusserong (Tricholomopsis decora) som er uspiselig og har brune til svartbrune skjell. Den vokser fortrinsvis på granstubber. "
+      "similarto": "Kan forveksles med flere gule musseronger.<br />Brungul stubbemusserong (Tricholomopsis decora) som er uspiselig og har brune til svartbrune skjell. Den vokser fortrinsvis på granstubber. "
     },
     {
       "name": "hygrophorus camarophyllus",
@@ -625,7 +625,7 @@
       "locations": "Finner den i næringsrik granskog. Vokser i lange rader eller ringer. Vanlig på Østlandet og i Trøndelag. Er også funnet Nord til Nordland.",
       "season": "August til Oktober",
       "usage": "Ikke matsopp",
-      "similarto": "Ligner på kremlevokssopp (Hygrophorus russula) som heller ikke er matsopp. Dette er en sjelden sopp på våre trakter. Den danner sopprot med eik."
+      "similarto": "Ligner på kremlevokssopp (Hygrophorus russula) som heller ikke er matsopp.<br />Dette er en sjelden sopp på våre trakter. Den danner sopprot med eik."
     },
     {
       "name": "hygrophorus hypothejus",
@@ -658,7 +658,7 @@
       "locations": "Liker seg i vissent løv i løvskog, på beitemarker i parker og skogsbryn. På strandenger, ofte under einer. De står ofte enkeltvis eller i grupper. Ikke en vanlig sopp, men kan i enkelte år dukke opp i mengder. Vokser over det meste av landet.",
       "season": "September til November",
       "usage": "En meget god matsopp som bør tilbredes alene da annen sopp kan skjule den milde smaken. Stek den i smør med litt salt og pepper, det er alt som skal til.",
-      "similarto": "Kan forveksles med flere røde vokssopper, men ingen er større enn denne. Vanligste forveksling er Mønjevokssopp (Hygrocybe coccinea) som er spiselig. Denne er betydelig mindre og vanligere. Den mangler det hvite nede på stilkbasis. "
+      "similarto": "Kan forveksles med flere røde vokssopper, men ingen er større enn denne.<br />Vanligste forveksling er Mønjevokssopp (Hygrocybe coccinea) som er spiselig. Denne er betydelig mindre og vanligere. Den mangler det hvite nede på stilkbasis. "
     },
     {
       "name": "hygrocybe pratensis",
@@ -669,7 +669,7 @@
       "locations": "Du finner de enkelthvis eller i små grupper. Liker seg på gressmark og åpne lunder i barskog og løvskog. Finnes også i gress langs skogsveier og stier. Vokser langs kysten og på Østlandet.",
       "season": "September til Oktober",
       "usage": "God matsopp som bør nytes tilbredt alene, men går godt i blanding med annen sopp. Oppbevares dypfryst, men kan også tørkes.",
-      "similarto": "Forveksles ofte med kantarell (Cantharellus cibarius) som er veldig spiselig. Den er mer eggegul og har ribber og ikke skiver. Kan også forveksles med flere hvite-/gulaktige vokssopper med nedløpende skiver, men ingen giftige."
+      "similarto": "Forveksles ofte med kantarell (Cantharellus cibarius) som er veldig spiselig. Den er mer eggegul og har ribber og ikke skiver.<br />Kan også forveksles med flere hvite-/gulaktige vokssopper med nedløpende skiver, men ingen giftige."
     },
     {
       "name": "armillaria mellea",
@@ -680,7 +680,7 @@
       "locations": "Vokser i knipper på levende trær og finnes i all slags skog, parker og hager. Det er en kjedelig parasitt da den dreper sine vertstrær.",
       "season": "August til Oktober",
       "usage": "Uspiselig. Tidligere ble den regnet som god matsopp, men halvparten som spiser den blir syke med diare og kvalme.",
-      "similarto": "Kan forveksles med flere knippevoksende sopper som lever på ved. Bare honningsoppene har hvite sporer og kraftig ring på stilken."
+      "similarto": "Kan forveksles med flere knippevoksende sopper som lever på ved.<br />Bare honningsoppene har hvite sporer og kraftig ring på stilken."
     },
     {
       "name": "macrolepiota procera",
@@ -702,7 +702,7 @@
       "locations": "Vokser enkelthvis eller i grupper på nåledekket under gran, på gamle maurtuer og komposthauger. Ganske vanlig over hele landet.",
       "season": "August og September",
       "usage": "Denne er spiselig og god. En ettertraktet matsopp som for eksempel kan paneres og stekes som biff. Egner seg svært godt til tørking. Stilken er harde og bør tørkes slik at de da kan brukes som soppsnacks eller males opp til mel.",
-      "similarto": "Den kan forveksles med andre mindre parasollsopper, men disse rødner ikke. Det finnes en variant av rødnende pasollsopp som trives i drivhus og på ekstra fet og næringsrik jord, men disse kan gi magetrøbbel. Den kan også forveksles med rødnende fluesopp (Amanita rubescens), men den er også spiselig, så forveksling er ufarlig. "
+      "similarto": "Den kan forveksles med andre mindre parasollsopper, men disse rødner ikke.<br />Det finnes en variant av rødnende pasollsopp som trives i drivhus og på ekstra fet og næringsrik jord, men disse kan gi magetrøbbel. Den kan også forveksles med rødnende fluesopp (Amanita rubescens), men den er også spiselig, så forveksling er ufarlig. "
     },
     {
       "name": "amanita rubescens",
@@ -713,7 +713,7 @@
       "locations": "Den er vanlig i de fleste skogstyper. De bleke og tynne vokser sammen med gran. De kraftigere og rødbrune i blandingsskog med mye løvtrær. De største grårosa vokser i edelløvskog. Vanlig i lavlandet nord til Troms.",
       "season": "Juli til September",
       "usage": "Er spiselig, men er stor forskjell på de. De lyse barskogsartene anbefales ikke til mat, må i såfall forvelles godt før bruk. De kraftige edelløvskogsartene er utmerket matsopp. Hattehuden bør flås av før bruk.",
-      "similarto": "Kan forveksles med flere fluesopper. Grå fluesopp, Amanita spissa (ikke matsopp). Panterfluesopp, Amanita pantherina (giftig). Rødnende fluesopp er den eneste fluesoppen som rødner i kjøttet ved skjæring. Alle andre fluesopper forblir hvitt kjøtt. "
+      "similarto": "Kan forveksles med flere fluesopper.<br />Grå fluesopp (Amanita spissa) ikke matsopp.<br />Panterfluesopp (Amanita pantherina) som er giftig.<br />Rødnende fluesopp er den eneste fluesoppen som rødner i kjøttet ved skjæring. Alle andre fluesopper forblir hvitt kjøtt. "
     },
     {
       "name": "amanita muscaria",
@@ -724,7 +724,7 @@
       "locations": "Du finner den i skog med bjørk og gran. Enkelte år kan den forekomme i store mengder. Vanlig i hele landet.",
       "season": "August og September",
       "usage": "Rød fluesopp er giftig. Den gir magesmerter med oppkast og diare.",
-      "similarto": "Hvis regnet har vasket vekk de hvite prikkene og bleket fargen, så kan den forveksles med Gulrød kremle (Russula decolorans). Kremler har sprøtt kjøtt og hatthuden kan ikke trekkes av hatten.<br /> Brun fluesopp (Amanita regalis) er på alle punkter lik, bortsett fra fargen på hatten. Den er gulbrun til kastanjebrun. "
+      "similarto": "Hvis regnet har vasket vekk de hvite prikkene og bleket fargen, så kan den forveksles med Gulrød kremle (Russula decolorans).<br />Kremler har sprøtt kjøtt og hatthuden kan ikke trekkes av hatten.<br />Brun fluesopp (Amanita regalis) er på alle punkter lik, bortsett fra fargen på hatten. Den er gulbrun til kastanjebrun. "
     },
     {
       "name": "amanita pantherina",
@@ -735,7 +735,7 @@
       "locations": "Finner den i løv- og barskog, ofte i parker. Ganske vanlig i kystnære strøk fra Rogaland til Oslo.",
       "season": "Juli til September",
       "usage": "Meget giftig, men regnes ikke som dødelig selv om dødsfall er kjent blant barn og svake eldre personer.",
-      "similarto": "Kan forveksles med Rødnende fluesopp, Grå fluesopp, Brun fluesopp, Rødnende parasollsopp og Blodsjampinjong.<br /> Brun ringløs fluesopp (Amanita fulva) som er spiselig. Den har sjelden hudlapper på hatten, hattkanten er tydelig kamstripet. Det er aldri ring på stilken som er tynn med stor poseformet slire ved stilkbasis. "
+      "similarto": "Kan forveksles med Rødnende fluesopp, Grå fluesopp, Brun fluesopp, Rødnende parasollsopp og Blodsjampinjong.<br />Brun ringløs fluesopp (Amanita fulva) som er spiselig. Den har sjelden hudlapper på hatten, hattkanten er tydelig kamstripet.<br />Det er aldri ring på stilken som er tynn med stor poseformet slire ved stilkbasis. "
     },
     {
       "name": "amanita phalloides",
@@ -746,7 +746,7 @@
       "locations": "Næringsrik løvskog med eik, men også med bøk og hassel. Den er mindre vanlig, og er funnet langs kysten fra indre Oslofjord til Os i Hordaland.",
       "season": "August og September",
       "usage": "Dødelig giftig. Giften virker langsomt og symptomene, magesmerter med kraftig oppkast og diare viser seg ikke før etter 10 - 12 timer. Giften gir skader på lever og nyrer. En liten sopp kan forårsake dødsfall.",
-      "similarto": "Grønn fluesopp har vært forvekslet med Grønn kremle. Men ingen kremler har sprøtt kjøtt, er uten ring på stilken og uten slire ved basis. Bleke eksemplarer av Grønn fluesopp kan for en ukyndig minne om en sjampinjong, men ingen sjampinjonger har slire ved basis, og en sjampinjong har aldri helt hvite skiver. "
+      "similarto": "Grønn fluesopp har vært forvekslet med Grønn kremle. Men ingen kremler har sprøtt kjøtt, er uten ring på stilken og uten slire ved basis.<br />Bleke eksemplarer av Grønn fluesopp kan for en ukyndig minne om en sjampinjong, men ingen sjampinjonger har slire ved basis, og en sjampinjong har aldri helt hvite skiver. "
     },
     {
       "name": "amanita virosa",
@@ -757,7 +757,7 @@
       "locations": "Vokser i fuktig, mager bar- og løvskog. Trives best langs kysten. Funnet helt nord til Troms",
       "season": "Juli til September",
       "usage": "Dødelig giftig. Giften virker langsomt og symptomene, magesmerter med kraftig oppkast og diare viser seg ikke før etter 8 - 12 timer. Giften gir skader på lever og nyrer. En liten sopp kan forårsake dødsfall.",
-      "similarto": "Unge eksemplarer kan forveksles med hvite sjampinjonger. Husk at unge sjampinjonger alltid har farge på skivene (svakt rosa til grårosa farge) Disse smaker mandelaktig og lukter anis. Gammel hvit fluesopp som er i ferd med å råtne, blir gulbrun og kan på det stadiet minne om Rimsopp. "
+      "similarto": "Unge eksemplarer kan forveksles med hvite sjampinjonger.<br />Husk at unge sjampinjonger alltid har farge på skivene (svakt rosa til grårosa farge) Disse smaker mandelaktig og lukter anis.<br />Gammel hvit fluesopp som er i ferd med å råtne, blir gulbrun og kan på det stadiet minne om Rimsopp. "
     },
     {
       "name": "paxillus involutus",
@@ -768,7 +768,7 @@
       "locations": "Dette er en av våre vanligste sopper. Den vokser i større grupper og virker å foretrekke bjørk og gran. Den danner sopprot med mange andre vekster også. Den vokser i komposthauger, råtnende trestammer, ved maurtuer, blomsterbed, i gamle og i nylagte plener. Den er svært variabel og den finnes i hele landet. Fra kysten til fjellet.",
       "season": "Juni til Oktober/November",
       "usage": "Giftig. Den gir ikke symptomer på forgiftning før etter inntak av flere måltider med soppen. Toleransen for giftstoffene varierer fra person til person og fordi den kan gi alvorlige allergiske reaksjoner, kan det i værste fall medføre livstruende situasjoner.",
-      "similarto": "Kan lett forveksles med en rekke spiselige sopper når man ser den ovenfra. Men når man plukker soppen og ser den innrullete hattkanten og de nedløpende gule skivene som blir rustbrune når den plukkes. Dette er gode tegn på at det er en pluggsopp. Videre kan skivene enkelt løsne i flak fra hatten. Da bør man være sikker. "
+      "similarto": "Kan lett forveksles med en rekke spiselige sopper når man ser den ovenfra.<br />Men når man plukker soppen og ser den innrullete hattkanten og de nedløpende gule skivene som blir rustbrune når den plukkes.<br />Dette er gode tegn på at det er en pluggsopp. Videre kan skivene enkelt løsne i flak fra hatten. Da bør man være sikker. "
     },
     {
       "name": "paxillus atromentosus",
@@ -823,7 +823,7 @@
       "locations": "Denne vokser i moserik barskog både med gran og furu. Den er ganske vanlig og er funnet i hele landet.",
       "season": "August til Oktober",
       "usage": "Den er uspiselig og muligens svakt giftig.",
-      "similarto": "Den kan ofte forveksles med Blå ridderhatt (Lepista nuda) som er en god matsopp. Er også veldig lik en rekke andre lilla og blå slørsopper. "
+      "similarto": "Den kan ofte forveksles med Blå ridderhatt <a href='/sopp/lepista nuda'>Lepista nuda</a> som er en god matsopp. Er også veldig lik en rekke andre lilla og blå slørsopper. "
     },
     {
       "name": "ramaria flava",
@@ -867,7 +867,7 @@
       "locations": "Du finner denne på råtne stubber av løvtrær og bartrær. Blant råttent hogstavfall og døde trær, men også på bakken. Vokser ofte alene eller i små grupper.",
       "season": "August og September",
       "usage": "Den er spiselig, men det misstenkes at den inneholder små mengder av den samme giften som man finner i Sandmorkel (Gyromitra esculenta). Den bør derfor forvelles i 10 minutter i rikelig med vann og skylles under rennende vann før bruk. Siden soppkjøttet er så tynt, blir det lite igjen etter forvelling. Den egner seg derfor best i stuinger, supper og sauser.",
-      "similarto": "Forveksles lett med Narrelue (Gyromitra ambigua) som er giftig. Den er nesten identisk med bispelue. Det som skille de er at narrelue er mindre, har mørkere lue og stilk. Stilken har et kraftig islett av fiolett. Fiolett i stilken er hos narrelua utpreget, ikke bare et islett som hos bispelua. Den liker sandig furuskog. "
+      "similarto": "Forveksles lett med Narrelue (Gyromitra ambigua) som er giftig.<br />Den er nesten identisk med bispelue. Det som skille de er at narrelue er mindre, har mørkere lue og stilk. Stilken har et kraftig islett av fiolett. Fiolett i stilken er hos narrelua utpreget, ikke bare et islett som hos bispelua. Den liker sandig furuskog. "
     },
     {
       "name": "morchella elata",
