@@ -1,166 +1,164 @@
 ﻿{% extends "layout.html" %}
 
 {% block content %}
-<div class="row">
-    <h2>{{ title }}.</h2>
-    <h3>{{ message }}</h3>
-</div>
-<div class="row">
-    <p>
-        Tjenesten vil alltid gi deg 5 alternativer som er rangert fra topp til bunn.<br />
-        Navnet består av det norske navnet på soppen, og det latinske navnet i parentes.<br/>
-        Resultatene er også fargekodet. Rosa betyr giftig, gult betyr uspiselig og grønt er spiselig.
-    </p>
-    <p>
-        <strong>Rangering</strong><br />
-        Rangeringskolonnen inneholder ett tall som angir en verdi for hvor mye som samsvarer med det den har lært tidligere.<br />
-        Resultatet av en analyse vil gi deg rangeringer som varierer mellom 0 og 100, dette er ikke det samme som prosent sannsynlighet.<br/>
-        En annen viktig ting som kan leses ut av Rangeringstallene er hvor nære de er hverandre. Er det lite spredning i tallene så betyr <br/>
-        det at tjenesten tolker de omtrent likt. <br/>
-        Er spredningen stor som i eksemplet med Rød Fluesopp under, så har vi ett veldig godt resultat.<br/>
-        Det er uansett viktig å lese om hver enkelt sopp før man bestemmer seg for hva det er.
-    </p>
-    <p>
-        <strong>Analysen</strong><br />
-        Et lavt tall indikerer at det er mange faktorer i bildet som ikke stemmer med forslaget, mens et høyt tall indikerer at det er mange faktorer som stemmer.<br />
-        Ett resultat som kun har rangeringer under 10 vil jeg si er ganske usikkert, men den kan alikevel ha funnet rett sopp.<br />
-        I slike tilfeller ville jeg forsøkt å ta ett nytt bilde som forsøker å fange så mange aspekter av soppen som mulig.<br />
-        Rangeringer mellom 10 og 20 er fortsatt usikre, ofte er de to øverste svarene i det området, men det riktige svaret kan like gjerne være svar 3, 4 eller 5.<br />
-        En rangering mellom 20 og 40 begynner å bli ganske bra. Men jeg ser av og til at det er ikke nødvendigvis korrekt sopp på plass 1 eller 2.<br />
-        En av grunnen til dette er at veldig mange sopper ligner på hverandre og at datagrunnlaget til tjenesten fortsatt er litt på den lave siden.<br />
-        Alt over 50 er å regne som veldig bra. Enkelte sopper er veldig distinkte og vil alltid gi en høy rangering, vel og merke hvis bildet er bra.
-    </p>
-    <p>
-        <strong>Resultater</strong><br />
-        Noe som sikkert kan virke rart er at den gir alternativer som virkelig ikke føles som riktig sopp.<br />
-        Dette kommer av at den alltid må gi 5 alternativer, og da blir det ofte litt tilfeldig hva nr 3, 4 og 5 er, slik vi mennesker ser det.<br />
-        Husk at dette er langt fra en menneskelig soppekspert som kan se soppens størrelse, lukt og tekstur og ikke minst hvor den er plukket.<br />
-        Alt denne tjenesten har å gå på er ett bilde, men det er realistisk å tro at den med tiden vil bli bedre og bedre.<br />
-        Du har uansett med deg ett oppslagsverk som vil fortelle deg om soppens detaljer.
-    </p>
-    <p>
-        <strong>Eksempel</strong><br />
-    </p>
-    <div class="col-md-4">
-        <div class="card">
-            <div class="card-image">
-                <img class="img-responsive" src="/static/images/Falsk_Kantarell_test_1.jpg"/>
-                <span class="card-title">Falsk Kantarell</span>
-            </div>
-            <div class="card-content">
-                <strong>Usikkert resultat, men fant den som nr. 5</strong>
-                <table class="table">
-                    <tr>
-                        <th>Navn</th>
-                        <th>Rangering</th>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-warning" role="alert"><a href="#">Rød stubbemusserong - (tricholomopsis rutilans)</a></td>
-                        <td class="alert alert-warning" role="alert">18.21</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Gråmusserong - (tricholoma portentosum)</a></td>
-                        <td class="alert alert-success" role="alert">10.32</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Riddermusserong - (tricholoma equestre)</a></td>
-                        <td class="alert alert-success" role="alert">9.44</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Blodjampinjong - (agaricus silvaticus)</a></td>
-                        <td class="alert alert-success" role="alert">5.79</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-warning" role="alert"><a href="#">Falsk kantarell - (hygrophoropsis aurantiaca)</a></td>
-                        <td class="alert alert-warning" role="alert">5.53</td>
-                    </tr>
-                </table>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="card">
-            <div class="card-image">
-                <img class="img-responsive" src="/static/images/Falsk_Kantarell_test_8.jpg" />
-                <span class="card-title">Falsk Kantarell</span>
-            </div>
-            <div class="card-content">
-                <strong>Fortsatt usikkert, men fant den som nr. 1</strong>
-                <table class="table">
-                    <tr>
-                        <th>Navn</th>
-                        <th>Rangering</th>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-warning" role="alert"><a href="#">Falsk kantarell - (hygrophoropsis aurantiaca)</a></td>
-                        <td class="alert alert-warning" role="alert">10.61</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Mandelriske - (lactarius volemus)</a></td>
-                        <td class="alert alert-success" role="alert">8.42</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Mild Gulkremle - (russula claroflava)</a></td>
-                        <td class="alert alert-success" role="alert">4.06</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Furumatriske - (lactarius deliciosus)</a></td>
-                        <td class="alert alert-success" role="alert">3.73</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#"> - (russula aeruginea)</a></td>
-                        <td class="alert alert-success" role="alert">3.55</td>
-                    </tr>
-                </table>
-            </div>
-        </div>
-    </div> <!-- class col-md-4 -->
-    <div class="col-md-4">
-        <div class="card">
-            <div class="card-image">
-                <img class="img-responsive" src="/static/images/Roed_fluesopp_6.jpg" />
-                <span class="card-title">Rød Fluesopp</span>
-            </div>
-            <div class="card-content">
-                <strong>Veldig tydelig resultat</strong>
-                <table class="table">
-                    <tr>
-                        <th>Navn</th>
-                        <th>Rangering</th>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-danger" role="alert"><a href="#">Rød fluesopp - (amanita muscaria)</a></td>
-                        <td class="alert alert-danger" role="alert">82.96</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-success" role="alert"><a href="#">Rødnende fluesopp - (amanita rubescens)</a></td>
-                        <td class="alert alert-success" role="alert">4.81</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-danger" role="alert"><a href="#">Panterfluesopp - (amanita pantherina)</a></td>
-                        <td class="alert alert-danger" role="alert">3.44</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-danger" role="alert"><a href="#">Flatklokkehatt - (galerina marginata)</a></td>
-                        <td class="alert alert-danger" role="alert">0.92</td>
-                    </tr>
-                    <tr>
-                        <td class="alert alert-danger" role="alert"><a href="#">Giftkremle - (russula emetica)</a></td>
-                        <td class="alert alert-danger" role="alert">0.88</td>
-                    </tr>
-                </table>
-            </div>
-        </div>
-    </div>
+        <h2>{{ title }}.</h2>
+        <h3>{{ message }}</h3>
     
-</div> <!-- class row -->
-<div class="row">
-    <p>
-        Som resultatene over viser så varierer det mye. Falsk kantarell er også en vanskelig sopp for tjenesten pr. idag.<br />
-        På den positive siden så klarer den faktisk ofte å få den med blant de fem alternativene. Det har vært målet mitt også.<br />
-        Jeg kan ikke lage en tjeneste som hevder at den alltid har rett. Det ville vært veldig skummelt siden det er så mange faktorer <br />
-        jeg ikke kan kontrollere.<br />
-        Eksempelet med Rød Fluesopp er med for å vise hva en veldig distinktiv sopp blir tolket som.
-    </p>
+        <p>
+            Tjenesten vil alltid gi deg 5 alternativer som er rangert fra topp til bunn.<br />
+            Navnet består av det norske navnet på soppen, og det latinske navnet i parentes.<br />
+            Resultatene er også fargekodet. Rosa betyr giftig, gult betyr uspiselig og grønt er spiselig.
+        </p>
+        <p>
+            <strong>Rangering</strong><br />
+            Rangeringskolonnen inneholder ett tall som angir en verdi for hvor mye som samsvarer med det den har lært tidligere.<br />
+            Resultatet av en analyse vil gi deg rangeringer som varierer mellom 0 og 100, dette er ikke det samme som prosent sannsynlighet.<br />
+            En annen viktig ting som kan leses ut av Rangeringstallene er hvor nære de er hverandre. Er det lite spredning i tallene så betyr <br />
+            det at tjenesten tolker de omtrent likt. <br />
+            Er spredningen stor som i eksemplet med Rød Fluesopp under, så har vi ett veldig godt resultat.<br />
+            Det er uansett viktig å lese om hver enkelt sopp før man bestemmer seg for hva det er.
+        </p>
+        <p>
+            <strong>Analysen</strong><br />
+            Et lavt tall indikerer at det er mange faktorer i bildet som ikke stemmer med forslaget, mens et høyt tall indikerer at det er mange faktorer som stemmer.<br />
+            Ett resultat som kun har rangeringer under 10 vil jeg si er ganske usikkert, men den kan alikevel ha funnet rett sopp.<br />
+            I slike tilfeller ville jeg forsøkt å ta ett nytt bilde som forsøker å fange så mange aspekter av soppen som mulig.<br />
+            Rangeringer mellom 10 og 20 er fortsatt usikre, ofte er de to øverste svarene i det området, men det riktige svaret kan like gjerne være svar 3, 4 eller 5.<br />
+            En rangering mellom 20 og 40 begynner å bli ganske bra. Men jeg ser av og til at det er ikke nødvendigvis korrekt sopp på plass 1 eller 2.<br />
+            En av grunnen til dette er at veldig mange sopper ligner på hverandre og at datagrunnlaget til tjenesten fortsatt er litt på den lave siden.<br />
+            Alt over 50 er å regne som veldig bra. Enkelte sopper er veldig distinkte og vil alltid gi en høy rangering, vel og merke hvis bildet er bra.
+        </p>
+        <p>
+            <strong>Resultater</strong><br />
+            Noe som sikkert kan virke rart er at den gir alternativer som virkelig ikke føles som riktig sopp.<br />
+            Dette kommer av at den alltid må gi 5 alternativer, og da blir det ofte litt tilfeldig hva nr 3, 4 og 5 er, slik vi mennesker ser det.<br />
+            Husk at dette er langt fra en menneskelig soppekspert som kan se soppens størrelse, lukt og tekstur og ikke minst hvor den er plukket.<br />
+            Alt denne tjenesten har å gå på er ett bilde, men det er realistisk å tro at den med tiden vil bli bedre og bedre.<br />
+            Du har uansett med deg ett oppslagsverk som vil fortelle deg om soppens detaljer.
+        </p>
+        <p>
+            <strong>Eksempel</strong><br />
+        </p>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-image">
+                    <img class="img-responsive" src="/static/images/Falsk_Kantarell_test_1.jpg" />
+                    <span class="card-title">Falsk Kantarell</span>
+                </div>
+                <div class="card-content">
+                    <strong>Usikkert resultat, men fant den som nr. 5</strong>
+                    <table class="table">
+                        <tr>
+                            <th>Navn</th>
+                            <th>Rangering</th>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-warning" role="alert"><a href="#">Rød stubbemusserong - (tricholomopsis rutilans)</a></td>
+                            <td class="alert alert-warning" role="alert">18.21</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#">Gråmusserong - (tricholoma portentosum)</a></td>
+                            <td class="alert alert-success" role="alert">10.32</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#">Riddermusserong - (tricholoma equestre)</a></td>
+                            <td class="alert alert-success" role="alert">9.44</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#">Blodjampinjong - (agaricus silvaticus)</a></td>
+                            <td class="alert alert-success" role="alert">5.79</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-warning" role="alert"><a href="#">Falsk kantarell - (hygrophoropsis aurantiaca)</a></td>
+                            <td class="alert alert-warning" role="alert">5.53</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-image">
+                    <img class="img-responsive" src="/static/images/Falsk_Kantarell_test_8.jpg" />
+                    <span class="card-title">Falsk Kantarell</span>
+                </div>
+                <div class="card-content">
+                    <strong>Fortsatt usikkert, men fant den som nr. 1</strong>
+                    <table class="table">
+                        <tr>
+                            <th>Navn</th>
+                            <th>Rangering</th>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-warning" role="alert"><a href="#">Falsk kantarell - (hygrophoropsis aurantiaca)</a></td>
+                            <td class="alert alert-warning" role="alert">10.61</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#">Mandelriske - (lactarius volemus)</a></td>
+                            <td class="alert alert-success" role="alert">8.42</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#">Mild Gulkremle - (russula claroflava)</a></td>
+                            <td class="alert alert-success" role="alert">4.06</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#">Furumatriske - (lactarius deliciosus)</a></td>
+                            <td class="alert alert-success" role="alert">3.73</td>
+                        </tr>
+                        <tr>
+                            <td class="alert alert-success" role="alert"><a href="#"> - (russula aeruginea)</a></td>
+                            <td class="alert alert-success" role="alert">3.55</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div> <!-- class col-md-4 -->
+<div class="col-md-4">
+    <div class="card">
+        <div class="card-image">
+            <img class="img-responsive" src="/static/images/Roed_fluesopp_6.jpg" />
+            <span class="card-title">Rød Fluesopp</span>
+        </div>
+        <div class="card-content">
+            <strong>Veldig tydelig resultat</strong>
+            <table class="table">
+                <tr>
+                    <th>Navn</th>
+                    <th>Rangering</th>
+                </tr>
+                <tr>
+                    <td class="alert alert-danger" role="alert"><a href="#">Rød fluesopp - (amanita muscaria)</a></td>
+                    <td class="alert alert-danger" role="alert">82.96</td>
+                </tr>
+                <tr>
+                    <td class="alert alert-success" role="alert"><a href="#">Rødnende fluesopp - (amanita rubescens)</a></td>
+                    <td class="alert alert-success" role="alert">4.81</td>
+                </tr>
+                <tr>
+                    <td class="alert alert-danger" role="alert"><a href="#">Panterfluesopp - (amanita pantherina)</a></td>
+                    <td class="alert alert-danger" role="alert">3.44</td>
+                </tr>
+                <tr>
+                    <td class="alert alert-danger" role="alert"><a href="#">Flatklokkehatt - (galerina marginata)</a></td>
+                    <td class="alert alert-danger" role="alert">0.92</td>
+                </tr>
+                <tr>
+                    <td class="alert alert-danger" role="alert"><a href="#">Giftkremle - (russula emetica)</a></td>
+                    <td class="alert alert-danger" role="alert">0.88</td>
+                </tr>
+            </table>
+        </div>
+    </div>
 </div>
+
+
+        <p>
+            Som resultatene over viser så varierer det mye. Falsk kantarell er også en vanskelig sopp for tjenesten pr. idag.<br />
+            På den positive siden så klarer den faktisk ofte å få den med blant de fem alternativene. Det har vært målet mitt også.<br />
+            Jeg kan ikke lage en tjeneste som hevder at den alltid har rett. Det ville vært veldig skummelt siden det er så mange faktorer <br />
+            jeg ikke kan kontrollere.<br />
+            Eksempelet med Rød Fluesopp er med for å vise hva en veldig distinktiv sopp blir tolket som.
+        </p>
+
+
 {% endblock %}

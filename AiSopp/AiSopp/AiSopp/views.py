@@ -43,7 +43,7 @@ def about():
     """Renders the about page."""
     return render_template(
         'about.html',
-        title='About',
+        title='Om',
         year=datetime.now().year,
         message='Intelligent identifisering av Sopp'
     )
