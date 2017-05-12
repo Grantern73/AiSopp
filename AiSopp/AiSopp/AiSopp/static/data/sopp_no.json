@@ -1,6 +1,7 @@
 {
   "sopp": [
     {
+      "identifiable": "1", 
       "name": "agaricus augustus",
       "local_name": "Kongesjampinjong",
       "images": [ "agaricus_augustus1.jpg", "agaricus_augustus2.jpg", "agaricus_augustus3.jpg" ],
@@ -12,6 +13,7 @@
       "similarto": "Ingen spesielle sopper den ligner på, kanskje med unntak av Stor parasollsopp."
     },
     {
+      "identifiable": "1",
       "name": "agaricus silvicola",
       "local_name": "Snøballsjampinjong",
       "images": [ "agaricus_silvicola1.jpg", "agaricus_silvicola2.jpg", "agaricus_silvicola3.jpg" ],
@@ -23,6 +25,7 @@
       "similarto": "Kan forveksles med flere.<br />Åkersjampinjong <a href='/sopp/agaricus arvensis'>Agaricus arvensis</a> som er spiselig, er nesten identisk. Skilles på voksested, da åkersjampinjong vokser i næringsrik åpen gressmark.<br />Hvit fluesopp <a href='/sopp/amanita virosa'>Amanita virosa</a> som er veldig giftig. Den er uforanderlig hvit i alle deler, har slire, er klebrig i fuktig vær og lukter ubehagelig.<br />Stor kragesopp <a href='/sopp/stropharia hornemannii'>Stropharia hornemannii</a> som er uspiselig. Den har sorte sporer, en ring med stripete overside. Stilken er trådete, skjellete nedenfor ringen. Skivene er tilvokst til stilken som er fastvokst med hatten. Hatten er lys beige og noe klebrig. "
     },
     {
+      "identifiable": "1",
       "name": "agaricus silvaticus",
       "local_name": "Blodjampinjong",
       "images": [ "agaricus_silvaticus1.jpg", "agaricus_silvaticus2.jpg", "agaricus_silvaticus3.jpg" ],
@@ -34,6 +37,7 @@
       "similarto": "Kan forveksles med flere.<br />Stor blodsjampinjong <a href='/sopp/agaricus langei'>Agaricus langei</a> som er spiselig. Den er større og kraftigere. Den rødner kraftig i brudd, kan nesten se ut som den blør. Ikke så vanlig hos oss.<br />Noen slørsopper rødner i brudd og kan forveksles med blodsjampinjong. Slørsoppen mangler ring, og de har et mer mellombrunt sporepulver. Flere er giftig. "
     },
     {
+      "identifiable": "1",
       "name": "albatrellus ovinus",
       "local_name": "Fåresopp",
       "images": [ "albatrellus_ovinus1.jpg", "albatrellus_ovinus2.jpg", "albatrellus_ovinus3.jpg" ],
@@ -45,6 +49,7 @@
       "similarto": "Forveksles ofte med Franskbrødsopp <a href='/sopp/albatrellus confluens'>Albatrellus confluens</a>. Helt unge eksemplarer av denne kan brukes."
     },
     {
+      "identifiable": "1",
       "name": "albatrellus confluens",
       "local_name": "Franskbrødsopp",
       "images": [ "albatrellus_confluens1.jpg", "albatrellus_confluens2.jpg", "albatrellus_confluens3.jpg" ],
@@ -56,6 +61,7 @@
       "similarto": "Forveksles ofte med Fåresopp, <a href='/sopp/albatrellus ovinus'>Albatrellus ovinus</a> som er spiselig."
     },
     {
+      "identifiable": "1",
       "name": "boletus badius",
       "local_name": "Svartbrun rørsopp",
       "images": [ "boletus_badius1.jpg", "boletus_badius2.jpg", "boletus_badius3.jpg" ],
@@ -67,6 +73,7 @@
       "similarto": "Unge eksemplarer kan forveksles med fløyelsrørsopp, <a href='/sopp/boletus subtomentosus'>Boletus subtomentosus</a> som er spiselig.<br />Kan også forveksles med orerørsopp <a href='/sopp/gyrodan lividus'>Gyrodan lividus</a> som er uspiselig."
     },
     {
+      "identifiable": "1",
       "name": "boletus edulis",
       "local_name": "Steinsopp",
       "images": [ "boletus_edulis1.jpg", "boletus_edulis2.jpg", "boletus_edulis3.jpg" ],
@@ -78,6 +85,7 @@
       "similarto": "Kan forveksles med Gallerørsopp <a href='/sopp/tylopilus felleus'>Tylopilus felleus</a> som er uspiselig. Den har rosa rørlag og smaker meget beskt.<br />Rødbrun steinsopp <a href='/sopp/boletus pinophilus'>Boletus pinophilus</a> som er spiselig og meget god.<br />Utover det har vi en rekke velsmakende rørsopper som kan ligne mer eller mindre på steinsopp."
     },
     {
+      "identifiable": "1",
       "name": "boletus luridiformis",
       "local_name": "Blodrørsopp",
       "images": [ "boletus_luridiformis1.jpg", "boletus_luridiformis2.jpg", "boletus_luridiformis3.jpg" ],
@@ -89,6 +97,7 @@
       "similarto": "Kan forveksles med flere rørsopper med røde til oransje rørmunninger, men disse har ett sort grovmasket årenett på stilken og smaker beskt eller bittert. "
     },
     {
+      "identifiable": "1",
       "name": "boletus subtomentosus",
       "local_name": "Fløyelsrørsopp",
       "images": [ "boletus_subtomentosus1.jpg", "boletus_subtomentosus2.jpg", "boletus_subtomentosus3.jpg" ],
@@ -100,6 +109,7 @@
       "similarto": "Ruterørsopp <a href='/sopp/boletus pascuus'>Boletus pascuus</a> som er spiselig. Hatthuden sprekker opp i et ruteformet mønster. Hattkjøttet er rosa under hatthuden og den får da et rosa rutemønster. Stilken er gul øverst og blir gradvis rød nedover.<br />Svartbrun rørsopp <a href='/sopp/boletus badius'>Boletus badius</a> som er spiselig.<br />Orerørsopp <a href='/sopp/gyrodon lividus'>Gyrodon lividus</a> som ikke er matsopp."
     },
     {
+      "identifiable": "1",
       "name": "cantharellus aurora",
       "local_name": "Gul trompetkantarell",
       "images": [ "cantharellus_aurora3.jpg", "cantharellus_aurora1.jpg", "cantharellus_aurora2.jpg" ],
@@ -111,6 +121,7 @@
       "similarto": "Kan forveksles med Traktkantarell <a href='/sopp/cantharellus tubaeformis'>Cantharellus tubaeformis</a> som er spiselig.<br />Gullmosehatt <a href='/sopp/gerronema chrysophyllum'>Gerronema chrysophyllum</a> som er uspiselig.<br />Slimmorkel <a href='/sopp/leotia lubrica'>Leotia lubrica</a> som er uspiselig og svakt giftig. "
     },
     {
+      "identifiable": "1",
       "name": "cantharellus cibarius",
       "local_name": "Kantarell",
       "images": [ "cantharellus_cibarius1.jpg", "cantharellus_cibarius2.jpg", "cantharellus_cibarius3.jpg" ],
@@ -122,6 +133,7 @@
       "similarto": "Engvokssopp <a href='/sopp/camarophyllus pratensis'>Camarophyllus pratensis</a> som er spiselig.<br />Falsk kantarell <a href='/sopp/hygrophoropsis aurantiaca'>Hygrophoropsis aurantiaca</a> som er uspiselig. "
     },
     {
+      "identifiable": "1",
       "name": "cantharellus tubaeformis",
       "local_name": "Traktkantarell",
       "images": [ "cantharellus_tubaeformis1.jpg", "cantharellus_tubaeformis2.jpg", "cantharellus_tubaeformis3.jpg" ],
@@ -133,6 +145,7 @@
       "similarto": "Kan forveksles med Traktkantarell <a href='/sopp/cantharellus tubaeformis'>Cantharellus tubaeformis</a> som er spiselig.<br />Gullmosehatt <a href='/sopp/gerronema chrysophyllum'>Gerronema chrysophyllum</a> som er uspiselig.<br />Slimmorkel <a href='/sopp/leotia lubrica'>Leotia lubrica</a> som er uspiselig og svakt giftig."
     },
     {
+      "identifiable": "1",
       "name": "cortinarius camphoratus",
       "local_name": "Blåkjøttbukkesopp",
       "images": [ "cortinarius_camphoratus1.jpg", "cortinarius_camphoratus2.jpg", "cortinarius_camphoratus3.jpg" ],
@@ -144,6 +157,7 @@
       "similarto": "Kan forveksles med Blå ridderhatt <a href='/sopp/lepista nuda'>Lepista nuda</a> som er spiselig.<br />Er også ganske lik en rekke andre lilla og blå slørsopper."
     },
     {
+      "identifiable": "1",
       "name": "coprinus comatus",
       "local_name": "Matblekksopp",
       "images": [ "coprinus_comatus1.jpg", "coprinus_comatus2.jpg", "coprinus_comatus3.jpg" ],
@@ -155,6 +169,7 @@
       "similarto": "Det er ingen forvekslingsarter, men det er verdt å merke seg at Grå Blekksopp <a href='/sopp/coprinus atramentarius'>Coprinus atramentarius</a> som regnes som uspiselig og er giftig dersom man inntar alkohol. Den er glatt sølvgrå med små skjell, ikke flosset eller håret. Hatten dekker ikke mer enn halve stilken. Den er spiselig for de som ikke nyter alkohol. Men sikkert verdt å holde seg unna. "
     },
     {
+      "identifiable": "1",
       "name": "chroogomphus rutilus",
       "local_name": "Rabarbrasopp",
       "images": [ "chroogomphus_rutilus1.jpg", "chroogomphus_rutilus2.jpg", "chroogomphus_rutilus3.jpg" ],
@@ -166,6 +181,7 @@
       "similarto": "Rabarbrasoppen bør ikke kunne forveksles med andre sopper, selv om mange kan ha lignende farger. Husk den blir rød ved oppvarming. Den har nedløpende, tykke og fjernstilte skiver og sorte sporer. Veldig få andre sopper med lignede farger har dette. "
     },
     {
+      "identifiable": "1",
       "name": "galerina marginata",
       "local_name": "Flatklokkehatt",
       "images": [ "galerina_marginata1.jpg", "galerina_marginata2.jpg", "galerina_marginata3.jpg" ],
@@ -177,6 +193,7 @@
       "similarto": "Flatklokkehatt ligner veldig på den spiselige matsoppen Stubbeskjellsopp <a href='/sopp/kuehneromyces mutabilis'>Kuehneromyces mutabilis</a>. Begge artene er hygrofane som betyr at de forandrer farge/utseende i fuktig vær."
     },
     {
+      "identifiable": "1",
       "name": "gomphidius glutinosus",
       "local_name": "Sleipsopp",
       "images": [ "gomphidius_glutinosus1.jpg", "gomphidius_glutinosus2.jpg", "gomphidius_glutinosus3.jpg" ],
@@ -188,6 +205,7 @@
       "similarto": "Denne forveksles sjelden med annen sopp."
     },
     {
+      "identifiable": "1",
       "name": "craterellus cornucopioides",
       "local_name": "Svart Trompetsopp",
       "images": [ "craterellus_cornucopioides1.jpg", "craterellus_cornucopioides2.jpg", "craterellus_cornucopioides3.jpg" ],
@@ -199,6 +217,7 @@
       "similarto": "Denne forveksles sjelden med annen sopp, men kan forveksles med gamle råtne og inntørkede traktformede skivesopper. Husk at disse vil ha rester av skiver på utsiden, mens denne er helt glatt og grå."
     },
     {
+      "identifiable": "1",
       "name": "gomphus clavatus",
       "local_name": "Fiolgubbe",
       "images": [ "gomphus_clavatus1.jpg", "gomphus_clavatus2.jpg", "gomphus_clavatus3.jpg" ],
@@ -210,6 +229,7 @@
       "similarto": "Forveksles neppe med noe annen sopp."
     },
     {
+      "identifiable": "1",
       "name": "hydnum repandum",
       "local_name": "Blek Piggsopp",
       "images": [ "hydnum_repandum1.jpg", "hydnum_repandum2.jpg", "hydnum_repandum3.jpg" ],
@@ -221,6 +241,7 @@
       "similarto": "Kan forveksles med Rødgul Piggsopp <a href='/sopp/hydnum rufescens'>Hydnum rufescens</a> som er god matsopp."
     },
     {
+      "identifiable": "1",
       "name": "hydnum rufescens",
       "local_name": "Rødgul Piggsopp",
       "images": [ "hydnum_rufescens1.jpg", "hydnum_rufescens2.jpg", "hydnum_rufescens3.jpg" ],
@@ -232,6 +253,7 @@
       "similarto": "Kan forveksles med Blek Piggsopp <a href='/sopp/hydnum repandum'>Hydnum repandum</a> som er en god matsopp."
     },
     {
+      "identifiable": "1",
       "name": "sacrodon squamosus",
       "local_name": "Furuskjell- Granskjellpiggsopp",
       "images": [ "sacrodon_squamosus1.jpg", "sacrodon_imbricatus1.jpg", "sacrodon_imbricatus2.jpg" ],
@@ -243,6 +265,7 @@
       "similarto": "Kan forveksles med flere andre arter av brune piggsopper, ingen er giftig, men de er heller ikke matsopper."
     },
     {
+      "identifiable": "1",
       "name": "suillus luteus",
       "local_name": "Smørsopp",
       "images": [ "suillus_luteus1.jpg", "suillus_luteus2.jpg", "suillus_luteus3.jpg" ],
@@ -254,6 +277,7 @@
       "similarto": "Forveksles ofte med Ringløs smørsopp <a href='/sopp/suillus granulatus'>Suillus granulatus</a> som er god matsopp.<br />Forveksles også med Lerkesopp <a href='/sopp/suillus grevillei'>Suillus grevillei</a> som er spiselig, men som bare vokser sammen med lerketrær.<br />Seig kusopp <a href='/sopp/suillus bovinus'>Suillus bovinus</a> som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker.<br />Sandsopp <a href='/sopp/suillus variegatus'>Suillus variegatus</a> som er spiselig. "
     },
     {
+      "identifiable": "1",
       "name": "suillus granulatus",
       "local_name": "Ringløs smørsopp",
       "images": [ "suillus_granulatus1.jpg", "suillus_granulatus2.jpg", "suillus_granulatus3.jpg" ],
@@ -265,6 +289,7 @@
       "similarto": "Forveksles ofte med Smørsopp (Suillus luteus) som er god matsopp.<br />Forveksles også med Lerkesopp <a href='/sopp/suillus grevillei'>Suillus grevillei</a> som er spiselig, men som bare vokser sammen med lerketrær.<br />Seig kusopp <a href='/sopp/suillus bovinus'>Suillus bovinus</a> som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker.<br />Sandsopp <a href='/sopp/suillus variegatus'>Suillus variegatus</a> som er spiselig. "
     },
     {
+      "identifiable": "1",
       "name": "suillus variegatus",
       "local_name": "Sandsopp",
       "images": [ "suillus_variegatus1.jpg", "suillus_variegatus2.jpg", "suillus_variegatus3.jpg" ],
@@ -276,6 +301,7 @@
       "similarto": "Kan forveksles med Seig kusopp <a href='/sopp/suillus bovinus'>Suillus bovinus</a> som ikke er matsopp, vanlig i furuskog, har slimete hatt i fuktig vær og grove kantete rørmunninger. Soppkjøttet er så seigt at man kan bøye hatten helt inn til stilken uten at den sprekker."
     },
     {
+      "identifiable": "1",
       "name": "chalciporus piperatus",
       "local_name": "Pepperrørsopp",
       "images": [ "chalciporus_piperatus1.jpg", "chalciporus_piperatus2.jpg", "chalciporus_piperatus3.jpg" ],
@@ -287,6 +313,7 @@
       "similarto": "Den har ingen opplagte forvekslingsarter. Ingen andre rørsopper har en så tynn stilk som knekker med ett hørbart knepp og er svovelgul inni."
     },
     {
+      "identifiable": "1",
       "name": "tylopilus fellus",
       "local_name": "Gallerørsopp",
       "images": [ "tylopilus_fellus1.jpg", "tylopilus_fellus2.jpg", "tylopilus_fellus3.jpg" ],
@@ -298,6 +325,7 @@
       "similarto": "Unge eksemplarer forveksles ofte med steinsopp og brunskrubb. Er du i tvil så stikk tungen på rørlaget under hatten. Får du en utrolig besk og vond smak i munnen så vet du hva du har med å gjøre."
     },
     {
+      "identifiable": "1",
       "name": "leccinum versipelle",
       "local_name": "Rødskrubb",
       "images": [ "leccinum_versipelle1.jpg", "leccinum_versipelle2.jpg", "leccinum_versipelle3.jpg" ],
@@ -309,6 +337,7 @@
       "similarto": "Kan forveklses med andre arter i rødskrubb familien, men ellers er det ingen andre rørsopper med slik rødbrun / oransj hatt. Gode kjennetegn er skrubbet stilk og blånende kjøtt i stilken ved overskjæring. "
     },
     {
+      "identifiable": "1",
       "name": "leccinum aurantiacum",
       "local_name": "Ospeskrubb",
       "images": [ "leccinum_aurantiacum1.jpg", "leccinum_aurantiacum2.jpg", "leccinum_aurantiacum3.jpg" ],
@@ -320,6 +349,7 @@
       "similarto": "Kan forveklses med andre arter i rødskrubb familien, men ellers er det ingen andre rørsopper med slik rødbrun / oransj hatt. Gode kjennetegn er skrubbet stilk og blånende kjøtt i stilken ved overskjæring. "
     },
     {
+      "identifiable": "1",
       "name": "leccinum scabrum",
       "local_name": "Brunskrubb",
       "images": [ "leccinum_scabrum1.jpg", "leccinum_scabrum2.jpg", "leccinum_scabrum3.jpg" ],
@@ -331,6 +361,7 @@
       "similarto": "Kan forveklses med andre arter i brunskrubb familien og tynne eksemplarer av rødskrubb. Rødskrubben blir blåsort ved overskjæring, noe brunskrubben ikke blir."
     },
     {
+      "identifiable": "1",
       "name": "russula decolorans",
       "local_name": "Gulrød kremle",
       "images": [ "russula_decolorans1.jpg", "russula_decolorans2.jpg", "russula_decolorans3.jpg" ],
@@ -342,6 +373,7 @@
       "similarto": "Kan forveksles med andre røde, gule og gulaktig kremler.<br />Eneste farlige forveksling med gulrød kremle er utvasket rød fluesopp, der de hvite prikkene er skyllet vekk. Hatthuden hos fluesoppen kan dras helt av og kjøttet under er gulrødt og soppkjøttet kan trevles. "
     },
     {
+      "identifiable": "1",
       "name": "russula claroflava",
       "local_name": "Mild Gulkremle",
       "images": [ "russula_claroflava1.jpg", "russula_claroflava2.jpg", "russula_claroflava3.jpg" ],
@@ -353,6 +385,7 @@
       "similarto": "Kan forveksles med Skarp Gulkremle <a href='/sopp/russula ochroleuca'>Russula ochroleuca</a> som er bundet til gran. Den regnes som uspiselig, men mange er uenig i det. Skarpheten forsvinner med varmebehandling.<br />Kan også forveksles med andre gule kremler, men ingen er giftige."
     },
     {
+      "identifiable": "1",
       "name": "russula paludosa",
       "local_name": "Storkremle",
       "images": [ "russula_paludosa1.jpg", "russula_paludosa2.jpg", "russula_paludosa3.jpg" ],
@@ -364,6 +397,7 @@
       "similarto": "Kan forveksles med mange andre røde og rødlige kremler.<br />Mest lik teglkremle <a href='/sopp/russula velenovskyi'>Russula velenovskyi</a> som er spiselig. Den skille seg ut ved å være gulhvit i midten."
     },
     {
+      "identifiable": "1",
       "name": "russula xerampelina",
       "local_name": "Sildekremle",
       "images": [ "russula_xerampelina1.jpg", "russula_xerampelina2.jpg", "russula_xerampelina3.jpg" ],
@@ -375,6 +409,7 @@
       "similarto": "Kan forveksles med mange andre kremler.<br />Brunfarging av kjøttet ved trykk og alder samt lukten er sikre kjennetegn."
     },
     {
+      "identifiable": "1",
       "name": "russula integra",
       "local_name": "Mandelkremle",
       "images": [ "russula_integra1.jpg", "russula_integra2.jpg", "russula_integra3.jpg" ],
@@ -386,6 +421,7 @@
       "similarto": "Kan forveksles med flere andre brune kremler, også skarpe. Beste kjennetegn er de grove gulaktig skivene og de kraftige tverrårene."
     },
     {
+      "identifiable": "1",
       "name": "russula vesca",
       "local_name": "Nøttekremle",
       "images": [ "russula_vesca1.jpg", "russula_vesca2.jpg", "russula_vesca3.jpg" ],
@@ -397,6 +433,7 @@
       "similarto": "Kan forveksles med flere andre rødbrune kremler.<br />Beste kjennetegn er at den viser tenner, har hvite skiver og er meget fast i kjøttet"
     },
     {
+      "identifiable": "1",
       "name": "russula aueruginea",
       "local_name": "Grønnkremle",
       "images": [ "russula_aueruginea1.jpg", "russula_aueruginea2.jpg", "russula_aueruginea3.jpg" ],
@@ -408,6 +445,7 @@
       "similarto": "Kan forveksles med flere andre grønne og grønnaktige kremler som alle er spiselige.<br />Noen har forvekslet den med grønn fluesopp <a href='/sopp/amanita phalloides'>Amanita phalloides</a> som er dødelig. Den har ring på stilken og stor hudpose, slire ved basis og kan trevles."
     },
     {
+      "identifiable": "1",
       "name": "russula emetica",
       "local_name": "Giftkremle",
       "images": [ "russula_emetica1.jpg", "russula_emetica2.jpg", "russula_emetica3.jpg" ],
@@ -419,6 +457,7 @@
       "similarto": "Kan forveksles med mange andre røde kremler hvor bare noen få av de er spiselig."
     },
     {
+      "identifiable": "1",
       "name": "lactarius deliciosus",
       "local_name": "Furumatriske",
       "images": [ "lactarius_deliciosus1.jpg", "lactarius_deliciosus2.jpg", "lactarius_deliciosus3.jpg" ],
@@ -430,6 +469,7 @@
       "similarto": "Forveksles med Granmatriske <a href='/sopp/lactarius deterrimus'>Lactarius deterrimus</a> som også er spiselig.<br />Granmatriske <a href='/sopp/lactarius deterrimus'>Lactarius deterrimus</a> er bundet til granskog. Observer voksested. Ingen andre store sopper har gulrotfarget melkesaft."
     },
     {
+      "identifiable": "1",
       "name": "lactarius deterrimus",
       "local_name": "Granmatriske",
       "images": [ "lactarius_deterrimus1.jpg", "lactarius_deterrimus2.jpg", "lactarius_deterrimus3.jpg" ],
@@ -441,6 +481,7 @@
       "similarto": "Forveksles med Furumatriske <a href='/sopp/lactarius deliciosus'>Lactarius deliciosus</a> som også er spiselig. Furumatriske er bundet furuskog. Observer voksested. Ingen andre store sopper har gulrotfarget melkesaft."
     },
     {
+      "identifiable": "1",
       "name": "lactarius volemus",
       "local_name": "Mandelriske",
       "images": [ "lactarius_volemus1.jpg", "lactarius_volemus2.jpg", "lactarius_volemus3.jpg" ],
@@ -452,6 +493,7 @@
       "similarto": "Kan forveksles med Branngul riske <a href='/sopp/lactarius mitissimus'>Lactarius mitissimus</a> som er spiselig, og andre rødbrune til oransje risker.<br />Ingen av de lukter skalldyr og de er heller ikke regnet som spesielt gode matsopper. De fleste må forvelles eller utvannes og saltes før bruk. "
     },
     {
+      "identifiable": "1",
       "name": "lactarius lignyotus",
       "local_name": "Sotriske",
       "images": [ "lactarius_lignyotus1.jpg", "lactarius_lignyotus2.jpg", "lactarius_lignyotus3.jpg" ],
@@ -463,6 +505,7 @@
       "similarto": "Kan forveksles med Røykriske <a href='/sopp/lactarius fuliginosus'>Lactarius fuliginosus</a> som er uspiselig og som ikke har folder øverst på stilken. Den er lysere både i hatten og på stilken.<br />Svartriske <a href='/sopp/lactarius necator'>Lactarius necator</a> som er giftig og mye mer vanlig, smaker brennende skarpt. Som ung er den olivengrønn, med alderen mer grønnsvart. Hatten er nedsunket i midten og lenge innrullet kant.<br />Sotvokssopp <a href='/sopp/hygrophorus camarophyllus'>Hygrophorus camarophyllus</a> som er spiselig, har de samme fargene, men soppkjøttet kan trevles og den har ikke melkesaft."
     },
     {
+      "identifiable": "1",
       "name": "lactarius rufus",
       "local_name": "Rødbrun pepperriske",
       "images": [ "lactarius_rufus1.jpg", "lactarius_rufus2.jpg", "lactarius_rufus3.jpg" ],
@@ -474,6 +517,7 @@
       "similarto": "Det finnes mange brune og brunaktige risker som kan forveksles med rødbrun pepperriske. Et viktig kjennetegn er den spisse vorten i hattens sentrum. De aller fleste kan brukes etter forvelling.<br />Bare svartriske <a href='/sopp/lactarius necator'>Lactarius necator</a> og Lakrisrisken <a href='/sopp/lactarius helvus'>Lactarius helvus</a> som er giftige og kreftfremkallende og bør absolutt ikke brukes.<br />Lakrisrisken er den eneste risken som har vannklar saft. Hele soppen er lys gulbrun og fløyelsaktig hatthud. I tørket stand lukter den kraftig av karri"
     },
     {
+      "identifiable": "1",
       "name": "lactarius torminosus",
       "local_name": "Skjeggriske",
       "images": [ "lactarius_torminosus1.jpg", "lactarius_torminosus2.jpg", "lactarius_torminosus3.jpg" ],
@@ -485,6 +529,7 @@
       "similarto": "Kan ofte forveksles med Blek skjeggriske <a href='/sopp/lactarius pubescens'>Lactarius pubescens</a> som er spiselig etter forvelling.<br />Det er vanskelig å skille fra avbleket eksemplar av Skjeggriske.<br />Kan også ligne på gamle matrisker, men disse har gulrotfarget melkesaft og mangler skjegg i hattkanten. "
     },
     {
+      "identifiable": "1",
       "name": "clitopilus prunulus",
       "local_name": "Melsopp",
       "images": [ "clitopilus_prunulus1.jpg", "clitopilus_prunulus2.jpg", "clitopilus_prunulus3.jpg" ],
@@ -496,6 +541,7 @@
       "similarto": "Melsopp er ikke nybegynnersopp! Den kan forveksles med flere små hvite traktsopper som alle er giftige. Disse har hvite sporer.<br />Hvit knippesopp <a href='/sopp/lyophyllum connatum'>Lyophyllum connatum</a> som er giftig, kan også ligne. Den vokser stort sett i tette knipper, har tette hvite tilvokst til svakt nedløpende skiver, hvite sporer og har en karakteristisk litt syrlig lukt.<br />Ekstra store eksemplarer kan av og til ligne på giftig rødskivesopp <a href='/sopp/entoloma sinatum'>Entoloma sinatum</a>, fordi den også har rosa sporer. Denne har utrandete skiver, vokser med eik og bøk langs kysten til Møre og er sjelden. "
     },
     {
+      "identifiable": "1",
       "name": "hygrophoropsis aurantiaca",
       "local_name": "Falsk kantarell",
       "images": [ "hygrophoropsis_aurantiaca1.jpg", "hygrophoropsis_aurantiaca2.jpg", "hygrophoropsis_aurantiaca3.jpg" ],
@@ -507,6 +553,7 @@
       "similarto": "Forveksles ofte med Kantarell <a href='/sopp/cantharellus cibarius'>Cantharellus cibarius</a> som er spiselig.<br />Kantarellen har fast hvitt til blekgult kjøtt og er eggegul. "
     },
     {
+      "identifiable": "1",
       "name": "clitocybe odora",
       "local_name": "Grønn anistraktsopp",
       "images": [ "clitocybe_odora1.jpg", "clitocybe_odora2.jpg", "clitocybe_odora3.jpg" ],
@@ -518,6 +565,7 @@
       "similarto": "Med sin grønne farge og spesielle anislukt kan den neppe forveksles med noe annen sopp.<br />Men vær oppmerksom på at det finnes en hvit anistraktsopp <a href='/sopp/clitocybe fragrans'>Clitocybe fragrans</a> som er uspiselig. Den er mindre og har ikke noe grønt i fargen. Er lys grågul til horngrå, mørkere mot midten og stripete hattkant i fuktig vær. Lukter også anis. "
     },
     {
+      "identifiable": "1",
       "name": "clitocybe geotropa",
       "local_name": "Heggtraktsopp",
       "images": [ "clitocybe_geotropa1.jpg", "clitocybe_geotropa2.jpg", "clitocybe_geotropa3.jpg" ],
@@ -529,6 +577,7 @@
       "similarto": "En spesiell sopp som ikke burde kunne forveksles med annet enn Kjempemusserong <a href='/sopp/leucopaxillus giganteus'>Leucopaxillus giganteus</a> som er spiselig.<br />Den er nesten helt hvit, men mangler vorten / pukkelen i midten. Myk i kjøttet og kan trevles. Vokser også i hekseringer eller rader. Bør også forvelles. "
     },
     {
+      "identifiable": "1",
       "name": "clitocybe nebularis",
       "local_name": "Puddertraktsopp",
       "images": [ "clitocybe_nebularis1.jpg", "clitocybe_nebularis2.jpg", "clitocybe_nebularis3.jpg" ],
@@ -540,6 +589,7 @@
       "similarto": "Kan forveksles med giftig rødskivesopp <a href='/sopp/entoloma sinautum'>Entoloma sinautum</a> men denne har rosa sporer, utrandete skiver og er sjelden.<br />Klubbetraktsopp <a href='/sopp/clitocybe clavipes'>Clitocybe clavipes</a> som er svakt giftig, er mindre og har større fargekontraster med mer brunt i det grå. Stilken er mer oppsvulmet klubbeformet. Den vokser enkeltvis eller få sammen. "
     },
     {
+      "identifiable": "1",
       "name": "calocybe gambosa",
       "local_name": "Vårfagerhatt",
       "images": [ "calocybe_gambosa1.jpg", "calocybe_gambosa2.jpg", "calocybe_gambosa3.jpg" ],
@@ -551,6 +601,7 @@
       "similarto": "Svært få andre hvite sopper kommer så tidlig, men vårtrevlesopp <a href='/sopp/inocybe erubescens'>Inocybe erubescens</a> som er giftig, men også en veldig sjelden sopp. Den er klokkeformet, leirfarget og rødner ved overskjæring og har brune sporer.<br />Forveksling kan også forekomme med giftig Rødskivesopp <a href='/sopp/entoloma sinuatum'>Entoloma sinuatum</a> som også er en sjelden høstsopp som også kan komme tidlig i sesongen. "
     },
     {
+      "identifiable": "1",
       "name": "lepista nuda",
       "local_name": "Blå ridderhatt",
       "images": [ "lepista_nuda1.jpg", "lepista_nuda2.jpg", "lepista_nuda3.jpg" ],
@@ -562,6 +613,7 @@
       "similarto": "Kan forveksles med flere blå til båaktige slørsopper.<br />Blant annet Blåkjøttbukkesopp <a href='/sopp/cortinarius camphoratus'>Cortinarius camphoratus</a> som er uspiselig. Den har blått soppkjøtt og stram, sterk bukkeaktig lukt.<br />Brunkjøttbukkesopp <a href='/sopp/cortinarius traganus'>Cortinarius traganus</a> som også er uspiselig. Den har brunt soppkjøtt og søtlig lukt av råtnende epler.<br />Alle slørsopper har brune sporer. "
     },
     {
+      "identifiable": "1",
       "name": "tricholoma album",
       "local_name": "Reddikmusserong",
       "images": [ "tricholoma_album1.jpg", "tricholoma_album2.jpg", "tricholoma_album3.jpg" ],
@@ -573,6 +625,7 @@
       "similarto": "Kan av ukyndige forveklses med hvite sjampinjong, men de har rosa til sjokoladebrune skiver og ring på stilken.<br />Den kan også forveksles med Silkemusserong <a href='/sopp/ticholoma columbetta'>Ticholoma columbetta</a> som er spiselig og en ettertraktet, men forholdsvis sjelden matsopp. Den er vanligst på Vestlandet og er funnet nord til Troms.<br />Silkemusserongen er også bundet til bjørk. Den har hvit hatthud, innvokste silkeaktige radiære fibre som gjør hatten skinnende blank. Hvit trevlet stilk ofte med grønne eller rødaktig skjolder ved stilkbasis. Mild melaktig smak og lukt. "
     },
     {
+      "identifiable": "1",
       "name": "tricholoma portentosum",
       "local_name": "Gråmusserong",
       "images": [ "tricholoma_portentosum1.jpg", "tricholoma_portentosum2.jpg", "tricholoma_portentosum3.jpg" ],
@@ -584,6 +637,7 @@
       "similarto": "Kan forveksles med flere andre grå musseronger som Gallemusserong <a href='/sopp/tricholoma virgatum'>Tricholoma virgatum</a> som er giftig. Den har spiss pukkel, ingen sitrongule skjolder og med en brennende skarp smak.<br />Såpemusserong <a href='/sopp/tricholoma saponaceum'>Tricholoma saponaceum</a> som er giftig. Den har glatt hatt med svært variabel farge fra gråhvitt til grågrønn og nesten sort. Den rødner i brudd med alderen. Lukter sur oppvaskklut og grønnsåpeaktig. "
     },
     {
+      "identifiable": "1",
       "name": "tricholoma equestre",
       "local_name": "Riddermusserong",
       "images": [ "tricholoma_equestre1.jpg", "tricholoma_equestre2.jpg", "tricholoma_equestre3.jpg" ],
@@ -595,6 +649,7 @@
       "similarto": "Kan forveksles med flere gule musseronger og slørsopper.<br /> Bitter riddermusserong <a href='/sopp/tricholoma aestuans'>Tricholoma aestuans</a> som er giftig, har en meget bitter smak som først kommer etter en stund etter at man har smakt på soppen og som forsterker seg lenge etterpå. Stilken avsmales øverst mot hatten, ellers en absolutt dobbeltgjenger til Riddermusserong. <br />Svovelmusserong <a href='/sopp/tricholoma sulphureum'>Tricholoma sulphureum</a> som er giftig og har en ekkel gassaktig lukt. <br />Kanarigul slørsopp <a href='/sopp/cortinarius splendens'>Cortinarius splendens</a> som er meget giftig hvor sporefargen er brun.<br />Det er en sjelden sopp hos oss. "
     },
     {
+      "identifiable": "1",
       "name": "tricholomopsis rutilans",
       "local_name": "Rød stubbemusserong",
       "images": [ "tricholomopsis_rutilans1.jpg", "tricholomopsis_rutilans2.jpg", "tricholomopsis_rutilans3.jpg" ],
@@ -606,6 +661,7 @@
       "similarto": "Kan forveksles med flere gule musseronger.<br />Brungul stubbemusserong <a href='/sopp/tricholomopsis decora'>Tricholomopsis decora</a> som er uspiselig og har brune til svartbrune skjell. Den vokser fortrinsvis på granstubber. "
     },
     {
+      "identifiable": "1",
       "name": "hygrophorus camarophyllus",
       "local_name": "Sotvokssopp",
       "images": [ "hygrophorus_camarophyllus1.jpg", "hygrophorus_camarophyllus2.jpg", "hygrophorus_camarophyllus3.jpg" ],
@@ -617,6 +673,7 @@
       "similarto": "Kan forveksles med Sotriske <a href='/sopp/lactarius lignyotus'>Lactarius lignyotus</a> som er spiselig. Den har sprøtt soppkjøtt og melkesaft som anløper rosa. Ellers er det ingen vokssopper av denne størrelsen med slik fargesammensetning. "
     },
     {
+      "identifiable": "1",
       "name": "hygrophorus erubescens",
       "local_name": "Rødflekket vokssopp",
       "images": [ "hygrophorus_erubescens1.jpg", "hygrophorus_erubescens2.jpg", "hygrophorus_erubescens3.jpg" ],
@@ -628,6 +685,7 @@
       "similarto": "Ligner på kremlevokssopp <a href='/sopp/hygrophorus russula'>Hygrophorus russula</a> som heller ikke er matsopp.<br />Dette er en sjelden sopp på våre trakter. Den danner sopprot med eik."
     },
     {
+      "identifiable": "1",
       "name": "hygrophorus hypothejus",
       "local_name": "Frostvokssopp",
       "images": [ "hygrophorus_hypothejus1.jpg", "hygrophorus_hypothejus2.jpg", "hygrophorus_hypothejus3.jpg" ],
@@ -639,6 +697,7 @@
       "similarto": "Kan forveksles med Olivenbrun vokssopp <a href='/sopp/hygrophorus olivaceoalbus'>Hygrophorus olivaceoalbus</a> som er spiselig. Denne har hvite skiver og ingen oransje toner. Den vokser med gran."
     },
     {
+      "identifiable": "1",
       "name": "hygrophorus olivaceoalbus",
       "local_name": "Olivenbrun vokssopp",
       "images": [ "hygrophorus_olivaceoalbus1.jpeg", "hygrophorus_olivaceoalbus2.jpeg", "hygrophorus_olivaceoalbus3.jpeg" ],
@@ -650,6 +709,7 @@
       "similarto": "Den har noen få forvekslingsarter, men disse mangler den slimte stilken. "
     },
     {
+      "identifiable": "1",
       "name": "hygrocybe punicea",
       "local_name": "Skarlagenvokssopp",
       "images": [ "hygrocybe_punicea1.jpg", "hygrocybe_punicea2.jpg", "hygrocybe_punicea3.jpg" ],
@@ -661,6 +721,7 @@
       "similarto": "Kan forveksles med flere røde vokssopper, men ingen er større enn denne.<br />Vanligste forveksling er Mønjevokssopp <a href='/sopp/hygrocybe coccinea'>Hygrocybe coccinea</a> som er spiselig. Denne er betydelig mindre og vanligere. Den mangler det hvite nede på stilkbasis. "
     },
     {
+      "identifiable": "1",
       "name": "hygrocybe pratensis",
       "local_name": "Engvokssopp",
       "images": [ "camarophyllus_pratensis1.jpg", "camarophyllus_pratensis2.jpg", "camarophyllus_pratensis3.jpg" ],
@@ -672,6 +733,7 @@
       "similarto": "Forveksles ofte med kantarell <a href='/sopp/cantharellus cibarius'>Cantharellus cibarius</a> som er veldig spiselig. Den er mer eggegul og har ribber og ikke skiver.<br />Kan også forveksles med flere hvite-/gulaktige vokssopper med nedløpende skiver, men ingen giftige."
     },
     {
+      "identifiable": "1",
       "name": "armillaria mellea",
       "local_name": "Honningsopp",
       "images": [ "armillaria_mellea1.jpg", "armillaria_mellea2.jpg", "armillaria_mellea3.jpg" ],
@@ -683,6 +745,7 @@
       "similarto": "Kan forveksles med flere knippevoksende sopper som lever på ved.<br />Bare honningsoppene har hvite sporer og kraftig ring på stilken."
     },
     {
+      "identifiable": "1",
       "name": "macrolepiota procera",
       "local_name": "Stor parasollsopp",
       "images": [ "macrolepiota_procera1.jpg", "macrolepiota_procera2.jpg", "macrolepiota_procera3.jpg" ],
@@ -694,6 +757,7 @@
       "similarto": "Denne kan neppe forveksles med noe annen sopp."
     },
     {
+      "identifiable": "1",
       "name": "macrolepiota rhacodes",
       "local_name": "Rødnende parasollsopp",
       "images": [ "macrolepiota_rhacodes1.jpg", "macrolepiota_rhacodes2.jpg", "macrolepiota_rhacodes3.jpg" ],
@@ -705,6 +769,7 @@
       "similarto": "Den kan forveksles med andre mindre parasollsopper, men disse rødner ikke.<br />Det finnes en variant av rødnende pasollsopp som trives i drivhus og på ekstra fet og næringsrik jord, men disse kan gi magetrøbbel. Den kan også forveksles med rødnende fluesopp <a href='/sopp/amanita rubescens'>Amanita rubescens</a>, men den er også spiselig, så forveksling er ufarlig. "
     },
     {
+      "identifiable": "1",
       "name": "amanita rubescens",
       "local_name": "Rødnende fluesopp",
       "images": [ "amanita_rubescens1.jpg", "amanita_rubescens2.jpg", "amanita_rubescens3.jpg" ],
@@ -716,6 +781,7 @@
       "similarto": "Kan forveksles med flere fluesopper.<br />Grå fluesopp <a href='/sopp/amanita spissa'>Amanita spissa</a> ikke matsopp.<br />Panterfluesopp <a href='/sopp/amanita pantherina'>Amanita pantherina</a> som er giftig.<br />Rødnende fluesopp er den eneste fluesoppen som rødner i kjøttet ved skjæring. Alle andre fluesopper forblir hvitt kjøtt. "
     },
     {
+      "identifiable": "1",
       "name": "amanita muscaria",
       "local_name": "Rød fluesopp",
       "images": [ "amanita_muscaria1.jpg", "amanita_muscaria2.jpg", "amanita_muscaria3.jpg" ],
@@ -727,6 +793,7 @@
       "similarto": "Hvis regnet har vasket vekk de hvite prikkene og bleket fargen, så kan den forveksles med Gulrød kremle <a href='/sopp/russula decolorans'>Russula decolorans</a>.<br />Kremler har sprøtt kjøtt og hatthuden kan ikke trekkes av hatten.<br />Brun fluesopp <a href='/sopp/amanita regalis'>Amanita regalis</a> er på alle punkter lik, bortsett fra fargen på hatten. Den er gulbrun til kastanjebrun. "
     },
     {
+      "identifiable": "1",
       "name": "amanita pantherina",
       "local_name": "Panterfluesopp",
       "images": [ "amanita_pantherina1.jpg", "amanita_pantherina2.jpg", "amanita_pantherina3.jpg" ],
@@ -738,6 +805,7 @@
       "similarto": "Kan forveksles med Rødnende fluesopp, Grå fluesopp, Brun fluesopp, Rødnende parasollsopp og Blodsjampinjong.<br />Brun ringløs fluesopp <a href='/sopp/amanita fulva'>Amanita fulva</a> som er spiselig. Den har sjelden hudlapper på hatten, hattkanten er tydelig kamstripet.<br />Det er aldri ring på stilken som er tynn med stor poseformet slire ved stilkbasis. "
     },
     {
+      "identifiable": "1",
       "name": "amanita phalloides",
       "local_name": "Grønn fluesopp",
       "images": [ "amanita_phalloides2.jpg", "amanita_phalloides1.jpg", "amanita_phalloides3.jpg" ],
@@ -749,6 +817,7 @@
       "similarto": "Grønn fluesopp har vært forvekslet med Grønn kremle. Men ingen kremler har sprøtt kjøtt, er uten ring på stilken og uten slire ved basis.<br />Bleke eksemplarer av Grønn fluesopp kan for en ukyndig minne om en sjampinjong, men ingen sjampinjonger har slire ved basis, og en sjampinjong har aldri helt hvite skiver. "
     },
     {
+      "identifiable": "1",
       "name": "amanita virosa",
       "local_name": "Hvit fluesopp",
       "images": [ "amanita_virosa1.jpg", "amanita_virosa2.jpg", "amanita_virosa3.jpg" ],
@@ -760,6 +829,7 @@
       "similarto": "Unge eksemplarer kan forveksles med hvite sjampinjonger.<br />Husk at unge sjampinjonger alltid har farge på skivene (svakt rosa til grårosa farge) Disse smaker mandelaktig og lukter anis.<br />Gammel hvit fluesopp som er i ferd med å råtne, blir gulbrun og kan på det stadiet minne om Rimsopp. "
     },
     {
+      "identifiable": "1",
       "name": "paxillus involutus",
       "local_name": "Pluggsopp",
       "images": [ "paxillus_involutus1.jpg", "paxillus_involutus2.jpg", "paxillus_involutus3.jpg" ],
@@ -771,6 +841,7 @@
       "similarto": "Kan lett forveksles med en rekke spiselige sopper når man ser den ovenfra.<br />Men når man plukker soppen og ser den innrullete hattkanten og de nedløpende gule skivene som blir rustbrune når den plukkes.<br />Dette er gode tegn på at det er en pluggsopp. Videre kan skivene enkelt løsne i flak fra hatten. Da bør man være sikker. "
     },
     {
+      "identifiable": "1",
       "name": "paxillus atromentosus",
       "local_name": "Fløyelspluggsopp",
       "images": [ "paxillus_atromentosus1.jpg", "paxillus_atromentosus2.jpg", "paxillus_atromentosus3.jpg" ],
@@ -782,6 +853,7 @@
       "similarto": "Denne soppen er så spesiell at den vanskelig kan forveksles med noen annen sopp. "
     },
     {
+      "identifiable": "1",
       "name": "pholiota mutabilis",
       "local_name": "Stubbeskjellsopp",
       "images": [ "pholiota_mutabilis1.jpg", "pholiota_mutabilis2.jpg", "pholiota_mutabilis3.jpg" ],
@@ -793,6 +865,7 @@
       "similarto": "Kan lett forveksles med Flatklokkehatt <a href='/sopp/gallerina marginata'>Gallerina marginata</a> som er veldig giftig.<br />Honningsopp <a href='/sopp/armillaria mellea'>Armillaria mellea</a> som er uspiselig. Den vokser også i knipper på trær. <br />Vintersopp <a href='/sopp/flammulina velutipes'>Flammulina velutipes</a> som er spiselig. Den vokser på løvtrær, men ikke bjørk. Lys gulbrun hatt, klebrig til slimete, hvite skiver, bruskaktig stilk dekket av sjokoladbrun fløyel. Bare hatten brukes. Vokser i mildværsperioden fra Oktober til April. "
     },
     {
+      "identifiable": "1",
       "name": "rozites caperatus",
       "local_name": "Rimsopp",
       "images": [ "rozites_caperatus1.jpg", "rozites_caperatus2.jpg", "rozites_caperatus3.jpg" ],
@@ -804,6 +877,7 @@
       "similarto": "Rimsopp er ingen nybegynner sopp fordi den kan forveksles med en rekke slørsopper. Så vær forsiktig.<br />Den som ligner mest, er Rynkeslørsopp <a href='/sopp/cortinarius elatior'>Cortinarius elatior</a> som har rynkete hattkant og samme farge på hatten. Den har ingen hudaktig ring, bare et bånd av spindelvevtynne tråder farget brunt av sporene. "
     },
     {
+      "identifiable": "1",
       "name": "cortinarius rubellus",
       "local_name": "Spiss giftslørsopp",
       "images": [ "cortinarius_rubellus1.jpg", "cortinarius_rubellus2.jpg", "cortinarius_rubellus3.jpg" ],
@@ -815,6 +889,7 @@
       "similarto": "Den ligner ingen kjente matsopper.<br />Butt giftslørsopp <a href='/sopp/cortinarius orellanus'>Cortinarius orellanus</a> som også er enda mer dødelig giftig, men veldig sjelden. Den er bare kjent fra få steder langs sørlandskysten. Ellers er det mange like slørsopper som er mer eller mindre giftige. Det finnes ingen spiselig sopp som er rødbrun i alle deler, også i soppkjøttet. "
     },
     {
+      "identifiable": "1",
       "name": "cortinarius traganus",
       "local_name": "Brunkjøttbukkesopp",
       "images": [ "cortinarius_traganus1.jpg", "cortinarius_traganus2.jpg", "cortinarius_traganus3.jpg" ],
@@ -826,6 +901,7 @@
       "similarto": "Den kan ofte forveksles med Blå ridderhatt <a href='/sopp/lepista nuda'>Lepista nuda</a> som er en god matsopp. Er også veldig lik en rekke andre lilla og blå slørsopper. "
     },
     {
+      "identifiable": "1",
       "name": "ramaria flava",
       "local_name": "Gul korallsopp",
       "images": [ "ramaria_flava1.jpg", "ramaria_flava2.jpg", "ramaria_flava3.jpg" ],
@@ -837,6 +913,7 @@
       "similarto": "Kan forveksles med alle andre gulhvite korallformete sopper. "
     },
     {
+      "identifiable": "1",
       "name": "ramaria botrytis",
       "local_name": "Rødtuppsopp",
       "images": [ "ramaria_botrytis1.jpg", "ramaria_botrytis2.jpg", "ramaria_botrytis3.jpg" ],
@@ -848,6 +925,7 @@
       "similarto": "Kan forveksles med alle andre gulhvite korallformete sopper. "
     },
     {
+      "identifiable": "1",
       "name": "gyromitra esculenta",
       "local_name": "Sandmorkel",
       "images": [ "gyromitra_esculenta1.jpg", "gyromitra_esculenta2.jpg", "gyromitra_esculenta3.jpg" ],
@@ -859,6 +937,7 @@
       "similarto": "For å være på den helt sikre siden så bør man avstå fra å plukke med seg sopper som ligner på en hjerne på stilk."
     },
     {
+      "identifiable": "1",
       "name": "gyromitra infula",
       "local_name": "Bispelue",
       "images": [ "gyromitra_infula1.jpg", "gyromitra_infula2.jpg", "gyromitra_infula3.jpg" ],
@@ -870,6 +949,7 @@
       "similarto": "Forveksles lett med Narrelue <a href='/sopp/gyromitra ambigua'>Gyromitra ambigua</a> som er giftig.<br />Den er nesten identisk med bispelue. Det som skille de er at narrelue er mindre, har mørkere lue og stilk. Stilken har et kraftig islett av fiolett. Fiolett i stilken er hos narrelua utpreget, ikke bare et islett som hos bispelua. Den liker sandig furuskog. "
     },
     {
+      "identifiable": "1",
       "name": "morchella elata",
       "local_name": "Spissmorkel",
       "images": [ "morchella_elata1.jpg", "morchella_elata2.jpg", "morchella_elata3.jpg" ],
@@ -881,6 +961,7 @@
       "similarto": "Kan forveksles med Sandmorkel <a href='/sopp/gyromitra esculenta'>Gyromitra esculenta</a> som er veldig giftig. Men husk at den ser ut som en hjerne på stilk med folder utover. Spissmorkel kan man si er glatt med groper innover. "
     },
     {
+      "identifiable": "1",
       "name": "lycoperdaceae",
       "local_name": "Røyksopp",
       "images": [ "lycoperdaceae1.jpg", "lycoperdaceae2.jpg", "lycoperdaceae3.jpg" ],

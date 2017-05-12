@@ -190,6 +190,22 @@ def oversikt(filter):
         usefilter = "invalid"
         return render_template('oversikt.html', status = 'Ugyldig filter', data = [], filter=filter)
 
+@app.route('/oversikt/<filter>/<searchstring>')
+def search(filter, searchstring):
+    # returnerer et søkeresultat basert på filter og søkestreng.
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
+    data = json.load(open(json_url))
+    usefilter = checkfilter(filter)
+    stringsearch = searchstring
+    if not usefilter is 9:
+        filtered_data = filtered(usefilter, data)
+        searchresult = searchdata(filtered_data, stringsearch)
+        return render_template('oversikt.html', status='ok', data=searchresult, filter=filter)
+    else:
+        usefilter = "invalid"
+        return render_template('oversikt.html', status = 'Ugyldig filter', data = [], filter=filter)
+
 @app.route('/sopp/<param>')
 def sopp(param):
     # hent data om sopp og presenter den på siden.
@@ -221,10 +237,10 @@ def sopp(param):
     
     return render_template(
         'sopp.html',
-        title = param + " - Beskrivelse under arbeid",
-        localname = param + " - Beskrivelse under arbeid",
+        title = param.replace("%20", " ") + " - Beskrivelse under arbeid",
+        localname = param.replace("%20", " ") + " - Beskrivelse under arbeid",
         latin = "",
-        images = "dummysopp.jpg",
+        images = ["dummysopp.jpg", "dummysopp.jpg", "dummysopp.jpg"],
         risk = "",
         description = "",
         locations = "",
@@ -232,6 +248,7 @@ def sopp(param):
         usage = "",
         similarto = "",
         year=datetime.now().year)
+
 
 # TODO, separate these helper functions into one single file.
 def allowed_file(filename):
@@ -256,3 +273,14 @@ def filtered(filter, data):
             items.append(sopp)
 
     return items
+
+def searchdata(inputdata, stringvalue):
+    res = []
+    i = 0
+    for d in inputdata:
+        if d['local_name'].lower().find(stringvalue.lower()) == -1:
+            i = i + 1
+        else:
+            res.append(d)
+
+    return res

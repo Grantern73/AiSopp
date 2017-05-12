@@ -3,16 +3,16 @@
 {% block content %}
 <h2>Oversikt</h2>
 <h5>Liste over alle sopper som er registrert i systemet.</h5>
-<a class="btn btn-success" role="button" href="/oversikt/edible">
+<a class="btn btn-success" role="button" aria-pressed="true" href="/oversikt/edible">
     Spiselige
 </a>
-<a class="btn btn-warning" role="button"  href="/oversikt/notedible">
+<a class="btn btn-warning" role="button" aria-pressed="true"  href="/oversikt/notedible">
     Uspiselige
 </a>
-<a class="btn btn-danger" role="button"  href="/oversikt/poisonous">
+<a class="btn btn-danger" role="button" aria-pressed="true"  href="/oversikt/poisonous">
     Giftige
 </a>
-<a class="btn btn-primary" role="button" href="/oversikt/all">
+<a class="btn btn-primary" role="button" aria-pressed="true" href="/oversikt/all">
     Alle
 </a>
 <h5>{{ filter }}</h5>
