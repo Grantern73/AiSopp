@@ -48,6 +48,15 @@ def about():
         message='Intelligent identifisering av Sopp'
     )
 
+@app.route('/tips')
+def tips():
+    """Renders the tips page. """
+    return render_template(
+        'tips.html',
+        title='Tips',
+        message='Noen gode råd til soppsankere'
+        )
+
 @app.route('/mobile')
 def mobile():
     """Renders the Mobile app info page. """

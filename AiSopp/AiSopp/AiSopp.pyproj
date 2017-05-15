@@ -798,6 +798,7 @@
     <Content Include="AiSopp\templates\mobile.html" />
     <Content Include="AiSopp\templates\sopp.html" />
     <Content Include="AiSopp\templates\oversikt.html" />
+    <Content Include="AiSopp\templates\tips.html" />
     <Content Include="favicon.ico">
       <Publish>True</Publish>
     </Content>

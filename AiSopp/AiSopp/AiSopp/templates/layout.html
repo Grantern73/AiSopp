@@ -7,6 +7,7 @@
     <title>{{ title }} - Intelligent SoppIdentifisering</title>
     <link rel="stylesheet" type="text/css" href="/static/content/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="/static/content/site.css"/>
+    <script src="https://use.fontawesome.com/670ac77e5c.js"></script>
     <script src="/static/scripts/modernizr-2.6.2.js"></script>
 </head>
 
@@ -37,8 +38,20 @@
         {% block content %}{% endblock %}
         <hr />
         <footer>
-            <p>&copy; {{ year }} - Intelligent SoppIdentfisering</p>
-        </footer>
+            <div class="row">
+                <div class="col-md-4">
+                    <p>&copy; {{ year }} - Intelligent SoppIdentfisering</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Soppregister - <a href="/oversikt/all">Les mer &raquo;</a></h5>
+                </div>
+                <div class="col-md-4">
+                    <h5><i class="fa fa-android" aria-hidden="true"> Android</i><i class="fa fa-apple" aria-hidden="true"> Ios</i> - <a href="/mobile">Les mer &raquo;</a></h5>
+                    
+                </div>
+            </div>
+                
+</footer>
     </div>
 
     <script src="/static/scripts/jquery-1.10.2.js"></script>
