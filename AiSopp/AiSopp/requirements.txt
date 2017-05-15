@@ -5,3 +5,4 @@ maxminddb-geolite2
 flask_uploads
 flask-wtf
 python-resize-image
+pip==9.0.1

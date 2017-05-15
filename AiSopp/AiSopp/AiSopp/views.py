@@ -3,6 +3,8 @@ Routes and views for the flask application.
 """
 import os
 from datetime import datetime
+import string
+import random
 from flask import render_template, request, jsonify
 from werkzeug.utils import secure_filename
 from AiSopp import app
@@ -77,6 +79,42 @@ def admin():
         message='Administrering av innhold'
     )
 
+@app.route('/analyze2', methods=['POST', 'GET'])
+def analyze2():
+    if request.method == 'POST':
+        image_name = id_generator() + '.jpg'
+        country = get_country_from_ip(request.remote_addr)
+        savepath = os.path.join(app.config['UPLOAD_FOLDER_MOBILE'], country)
+        if not os.path.exists(savepath):
+            os.makedirs(savepath)
+        completesavepath = os.path.join(savepath, image_name)
+        with open(completesavepath, 'wb') as f:
+                f.write(request.data)
+        
+        predictions = run_inference_on_image(completesavepath)
+           
+        SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+        json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
+        data = json.load(open(json_url))
+        result = []
+        for latin, hitrate in predictions:
+            soppres = None
+            for sopp in data['sopp']:
+                if sopp['name'] == latin:
+                    soppres = [latin, hitrate, sopp['local_name'], sopp['risk']]
+                    result.append(soppres)
+                    break   
+            if soppres is None:
+                soppres = [latin, hitrate, '', '0']
+                result.append(soppres)
+
+        return jsonify(
+            message='OK',
+            filename=image_name,
+            timestamp=datetime.now(),
+            results=result
+            )
+
 @app.route('/analyze', methods=['POST', 'GET'])
 def analyze():
     """ Rest API for analyzing images """
@@ -85,14 +123,14 @@ def analyze():
             return jsonify(
                 message='No file in request',
                 filename='',
-                timestamp=datetime.datetime.now()
+                timestamp=datetime.now()
                 )
         file = request.files['file']
         if file.filename == '':
             return jsonify(
                 message='Filetype not allowed, only jpg/jpeg are allowed',
                 filename='',
-                timestamp=datetime.datetime.now()
+                timestamp=datetime.now()
                 )
         if file and allowed_file(file.filename):
             country = get_country_from_ip(request.remote_addr)
@@ -103,14 +141,14 @@ def analyze():
             completesavepath = os.path.join(savepath, file.filename)
             file.save(completesavepath)
             file.close()
-            with open(completesavepath, 'r+b') as f:
-                with Image.open(f) as image:
-                    w = image.width
-                    h = image.height
-                    r = w/h
-                    nh = 399/r
-                    cover = resizeimage.resize_cover(image, [399, int(nh)])
-                    cover.save(completesavepath, image.format)
+            #with open(completesavepath, 'r+b') as f:
+            #    with Image.open(f) as image:
+            #        w = image.width
+            #        h = image.height
+            #        r = w/h
+            #        nh = 399/r
+            #        cover = resizeimage.resize_cover(image, [399, int(nh)])
+            #        cover.save(completesavepath, image.format)
             
             predictions = run_inference_on_image(completesavepath)
            
@@ -131,8 +169,8 @@ def analyze():
 
             return jsonify(
                 message='OK',
-                filename=file.filename,
-                timestamp=datetime.datetime.now(),
+                filename='OK',
+                timestamp=datetime.now(),
                 results=result
                 )
 
@@ -293,3 +331,6 @@ def searchdata(inputdata, stringvalue):
             res.append(d)
 
     return res
+
+def id_generator(size=10, chars=string.ascii_lowercase + string.digits):
+    return ''.join(random.choice(chars) for _ in range(size))
