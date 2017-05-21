@@ -79,42 +79,6 @@ def admin():
         message='Administrering av innhold'
     )
 
-@app.route('/analyze2', methods=['POST', 'GET'])
-def analyze2():
-    if request.method == 'POST':
-        image_name = id_generator() + '.jpg'
-        country = get_country_from_ip(request.remote_addr)
-        savepath = os.path.join(app.config['UPLOAD_FOLDER_MOBILE'], country)
-        if not os.path.exists(savepath):
-            os.makedirs(savepath)
-        completesavepath = os.path.join(savepath, image_name)
-        with open(completesavepath, 'wb') as f:
-                f.write(request.data)
-        
-        predictions = run_inference_on_image(completesavepath)
-           
-        SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
-        json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
-        data = json.load(open(json_url))
-        result = []
-        for latin, hitrate in predictions:
-            soppres = None
-            for sopp in data['sopp']:
-                if sopp['name'] == latin:
-                    soppres = [latin, hitrate, sopp['local_name'], sopp['risk']]
-                    result.append(soppres)
-                    break   
-            if soppres is None:
-                soppres = [latin, hitrate, '', '0']
-                result.append(soppres)
-
-        return jsonify(
-            message='OK',
-            filename=image_name,
-            timestamp=datetime.now(),
-            results=result
-            )
-
 @app.route('/analyze', methods=['POST', 'GET'])
 def analyze():
     """ Rest API for analyzing images """
@@ -173,6 +137,17 @@ def analyze():
                 timestamp=datetime.now(),
                 results=result
                 )
+@app.route('/getdata')
+def get_data():
+    """ Reads end returns the whole sopp data file """
+
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
+    data = json.load(open(json_url))
+    #encoded = json.dumps(data, ensure_ascii=False).encode('utf8')
+
+    return jsonify(data)
+
 
 @app.route('/upload', methods=['POST', 'GET'])
 def do_upload():
