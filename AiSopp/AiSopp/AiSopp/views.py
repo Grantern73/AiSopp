@@ -89,7 +89,15 @@ def analyze():
                 filename='',
                 timestamp=datetime.now()
                 )
+        
         file = request.files['file']
+
+        location = ""
+        try:
+            location = file.location
+        except:
+            location = "0;0"
+
         if file.filename == '':
             return jsonify(
                 message='Filetype not allowed, only jpg/jpeg are allowed',
@@ -105,20 +113,14 @@ def analyze():
             completesavepath = os.path.join(savepath, file.filename)
             file.save(completesavepath)
             file.close()
-            #with open(completesavepath, 'r+b') as f:
-            #    with Image.open(f) as image:
-            #        w = image.width
-            #        h = image.height
-            #        r = w/h
-            #        nh = 399/r
-            #        cover = resizeimage.resize_cover(image, [399, int(nh)])
-            #        cover.save(completesavepath, image.format)
+
             
             predictions = run_inference_on_image(completesavepath)
            
             SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
             json_url = os.path.join(SITE_ROOT, "static/data", "sopp_no.json")
             data = json.load(open(json_url))
+
             result = []
             for latin, hitrate in predictions:
                 soppres = None
@@ -130,6 +132,9 @@ def analyze():
                 if soppres is None:
                     soppres = [latin, hitrate, '', '0']
                     result.append(soppres)
+            f = open(os.path.join(savepath, "analysis_log.txt"), "ab+")
+            logLine = datetime.now() + ";" + completesavepath + ";" + location + ";" + result + "\n"
+            f.write(logLine)
 
             return jsonify(
                 message='OK',
@@ -137,6 +142,7 @@ def analyze():
                 timestamp=datetime.now(),
                 results=result
                 )
+
 @app.route('/getdata')
 def get_data():
     """ Reads end returns the whole sopp data file """
