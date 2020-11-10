@@ -1,4 +1,4 @@
-Flask<1
+Flask==1.0.0
 numpy
 tensorflow
 maxminddb-geolite2
